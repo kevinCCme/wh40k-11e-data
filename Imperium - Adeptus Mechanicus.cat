@@ -216,7 +216,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1a85-82bd-7f31-6be9" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2ec5-91e3-9659-25cc" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="9c76-a080-072e-ce84" includeChildSelections="true" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="186f-cfa9-f9ba-aa25" includeChildSelections="false" />
@@ -452,7 +452,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f4be-6533-06cf-8c83" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="acfe-343f-31fb-dde3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="e1cc-0302-eedc-92f3" includeChildSelections="true" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="00bf-20cf-97f8-92cf" includeChildSelections="false" />
@@ -625,7 +625,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="876a-2100-09dd-0ad4" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a46a-e7de-9257-6ede" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="5674-7e6e-99b6-a33a" includeChildSelections="true" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="bd12-3ec3-50d3-f770" includeChildSelections="false" />
@@ -980,7 +980,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
               </entryLinks>
             </selectionEntry>
           </selectionEntries>
-        </selectionEntry>
+        <entryLinks><entryLink id="d74c-8b16-3ff5-b08c" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="65" />
@@ -997,7 +997,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9cf0-39ae-c931-ce1e" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c001-6b53-d469-c0af" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1144,7 +1144,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
               </entryLinks>
             </selectionEntry>
           </selectionEntries>
-        </selectionEntry>
+        <entryLinks><entryLink id="c012-efeb-0c6c-6a1b" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="70" />
@@ -1161,7 +1161,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7ecc-cf09-a395-172a" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f73d-e7cc-58f8-d301" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1414,7 +1414,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4952-2494-50c7-4b16" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3dd2-84ce-b7d5-7ad3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1768,7 +1768,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="693a-6ef5-7ff2-397e" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ae3c-70a9-e6f2-2f96" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1979,7 +1979,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8771-f19e-e3eb-f8d6" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="074b-0f37-16ba-2345" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2198,7 +2198,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="221d-ccda-5d1c-a595" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4b70-59ba-09a5-5567" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2601,7 +2601,7 @@ Shroudpsalm (Aura): While a friendly Adeptus Mechanicus unit is within 6" of thi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="bcec-4b28-3bac-7c23" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1646-034a-959f-2ffa" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2837,7 +2837,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
               </profiles>
             </selectionEntry>
           </selectionEntries>
-        </selectionEntry>
+        <entryLinks><entryLink id="dde5-375c-1b8c-3018" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -2855,7 +2855,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dd7c-814f-9727-168e" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a5db-4e2e-2ce6-f71f" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3110,7 +3110,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
               </categoryLinks>
             </selectionEntry>
           </selectionEntries>
-        </selectionEntry>
+        <entryLinks><entryLink id="d377-afea-4895-1aa8" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -3132,7 +3132,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c25f-84c3-09c1-e1a5" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6b78-a0fa-8b3c-b305" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3454,7 +3454,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8350-f592-6e51-f9a6" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="de7c-615c-6a18-0a57" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3804,7 +3804,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4136-88eb-53db-b5bf" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5a63-f8df-4d81-a716" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4156,7 +4156,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="cece-2330-d893-0a73" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="60ed-5b72-1bb5-a507" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4424,7 +4424,7 @@ In either case, if it does, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ebb5-abe4-a251-de8c" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a4f2-2fcd-ea17-737a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5089,7 +5089,7 @@ as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="bfb2-f777-4327-dfe7" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c941-46a7-3883-4528" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5583,7 +5583,7 @@ as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="50dd-5b22-32a6-a3d5" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5bd9-5be3-1f41-668c" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5831,7 +5831,7 @@ as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristi
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7f51-3638-4f32-6c41" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6776-6f1e-0675-0458" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="75f2-ff45-4dd3-f97d" includeChildSelections="true" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="2a03-0418-fa4e-0087" includeChildSelections="false" />
@@ -5962,7 +5962,7 @@ as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristi
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e62d-1296-7ea9-7823" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1e78-0aac-eb14-a7c4" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="6" field="selections" scope="force" shared="true" id="31bf-b391-7a5f-17c7" includeChildSelections="true" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="50af-512f-2c64-5cdc" includeChildSelections="false" />
@@ -6193,7 +6193,7 @@ as the target of a Stratagem, roll one D6: on a 5+, you gain 1CP.</characteristi
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="23ae-ea99-51f7-ba7b" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b013-c526-9d07-9049" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9447,7 +9447,7 @@ You must attach this model to a Kastelan Robots unit, even if one or more other 
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5e10-1682-b7f2-22da" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f81e-58fd-2b5f-9816" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -10208,7 +10208,7 @@ You must attach this model to a Kastelan Robots unit, even if one or more other 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7897-a0e3-8b41-d000" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a0be-9f30-8692-fe1a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11129,7 +11129,7 @@ You must attach this model to a Kastelan Robots unit, even if one or more other 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dd50-2c0d-e934-3cfa" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f380-d972-aecc-c5b2" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11407,7 +11407,7 @@ You must attach this model to a Kastelan Robots unit, even if one or more other 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="17c0-b628-f991-3fc1" type="selectionEntryGroup" targetId="631d-2f3a-99a1-2ab0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1bb9-6993-6eb3-6d3e" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38e-0532-05d3-c44a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11556,7 +11556,7 @@ You must attach this model to a Kastelan Robots unit, even if one or more other 
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f4c6-e5ac-ee78-c50a" type="max" />
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="a0ab-248d-d910-5899" includeChildSelections="true" />
       </constraints>
-      <selectionEntries>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Explorator Dispensation" hidden="false" id="b613-f86c-2342-3b83"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ade3-746b-d6f0-06da" includeChildSelections="true" /></constraints><profiles><profile name="Explorator Dispensation" typeId="367f-5f53-33a7-ad1e" typeName="Abilities" hidden="false" id="37f2-030a-0387-3ff5"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6346-75d7-e460-37d1" shared="true" id="24dc-c943-ccf1-910f" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Cohort Acquisitus</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Tl-4Ø9" hidden="false" id="4b5c-9ab5-ee26-8732"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="61fc-88d7-025e-9869" includeChildSelections="true" /></constraints><profiles><profile name="Tl-4Ø9" typeId="367f-5f53-33a7-ad1e" typeName="Abilities" hidden="false" id="5ad2-90fe-5df4-c5ca"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Tech-Priest model only. Grants a ranged weapon with [DEVASTATING WOUNDS, HAZARDOUS]: Range 24", A3, BS2+, S11, AP-2, D D3+2.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="7e3c-0947-9624-c3e8" shared="true" id="9e70-35f3-e716-8ce2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Lords Of The Forge</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Vingh’S Wafers Of Dynamism" hidden="false" id="0110-6613-86ba-e542"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="13d2-ac00-e91b-5c76" includeChildSelections="true" /></constraints><profiles><profile name="Vingh’S Wafers Of Dynamism" typeId="367f-5f53-33a7-ad1e" typeName="Abilities" hidden="false" id="6ba9-198a-f3d2-cb1a"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="7e3c-0947-9624-c3e8" shared="true" id="0ce3-e047-bfab-0f01" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Lords Of The Forge</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Electromiasmic Brazier" hidden="false" id="2ec3-6c3e-9ba7-8883"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="59cd-2fd5-ac0f-6496" includeChildSelections="true" /></constraints><profiles><profile name="Electromiasmic Brazier" typeId="367f-5f53-33a7-ad1e" typeName="Abilities" hidden="false" id="277f-0f5d-0bdc-5a00"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="4247-ab70-a67a-d7fc" shared="true" id="fb6d-a4f6-a78f-7c21" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Luminen Auto-Choir</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Voltagheist Reliquary" hidden="false" id="b130-9318-ed38-d150"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2f3f-d45c-6e64-b76f" includeChildSelections="true" /></constraints><profiles><profile name="Voltagheist Reliquary" typeId="367f-5f53-33a7-ad1e" typeName="Abilities" hidden="false" id="6876-7249-7ae8-111d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="4247-ab70-a67a-d7fc" shared="true" id="432e-c12b-e3cd-eb82" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Luminen Auto-Choir</comment></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Cantic Thrallnet" hidden="false" id="8007-cd63-594a-6fc9">
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="25" />
@@ -14969,9 +14969,18 @@ You can attach this model to a ^^**Kastelan Robots**^^ unit, even if one or more
     <selectionEntryGroup name="Detachments" hidden="false" id="6972-dcc-e567-d509" defaultSelectionEntryId="none">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="84d8-83f4-4622-52a2" />
-        <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5912-73fd-3067-17ac" />
-      </constraints>
-      <selectionEntries>
+        <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="5912-73fd-3067-17ac" />
+      <constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-6972-dcc" includeChildSelections="true" /></constraints>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Cohort Acquisitus" hidden="false" id="6346-75d7-e460-37d1"><rules><rule name="Noospheric Recon" id="8277-b86b-1695-a0b1" hidden="false"><description>Friendly Pteraxii, Infiltrators, Rangers, Serberys Raiders, and Serberys Sulphurhounds units gain the Recon Augury ability, which lets them mark visible enemy units within 12" so those enemies suffer +3" detection range.
+
+STRATAGEMS:
+- Defect Scrutiny (1CP, Shooting phase): When a friendly Adeptus Mechanicus unit is chosen to shoot, pick one visible enemy unit within 12" of a friendly Recon Augury unit; that unit's ranged attacks against the enemy gain [IGNORES COVER].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-6346-75d" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Lords Of The Forge" hidden="false" id="7e3c-0947-9624-c3e8"><rules><rule name="War-Form Mantles" id="65ac-bcee-6356-7596" hidden="false"><description>Friendly Tech-Priest models gain a 4+ invulnerable save and Feel No Pain 5+. They also gain Baffling Data Screed: in your Shooting phase roll a D6, and on a 2+ pick one enemy Vehicle within 12" to take a battle-shock test at -1. A unit cannot be selected by this more than once per turn.
+
+STRATAGEMS:
+- Holy Avarice (1CP, Shooting phase): When a friendly Tech-Priest unit starts an action, that action does not stop the unit from being eligible to shoot.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7e3c-094" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Luminen Auto-Choir" hidden="false" id="4247-ab70-a67a-d7fc"><rules><rule name="Cyber-Static Canticles" id="ee84-7c32-4d3d-3147" hidden="false"><description>Friendly Corpuscarii units' ranged attacks gain [LETHAL HITS]. When a friendly Fulgurite unit has fought, it heals D3 wounds. This is a Data-Psalm detachment and cannot be combined with another Data-Psalm detachment.
+
+STRATAGEMS:
+- Momentum Feedback (1CP, Opponent's Shooting phase): After an enemy unit shoots an unengaged friendly Electro-Priests unit, that friendly unit makes a surge move of up to D6".</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-4247-ab7" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Rad-zone Corps" hidden="false" id="7aa5-4c0c-40c3-e2a">
           <rules>
             <rule name="Rad-bombardment" hidden="false" id="4981-c675-821-f9f1">
@@ -14984,7 +14993,7 @@ FALLOUT
 At the start of your Command phase during the second, third, fourth and fifth battle rounds, roll one D6 for each enemy unit within your opponent’s deployment zone. On a 3+, that unit suffers 1 mortal wound and must take a Battle-shock test.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7aa5-4c0" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Skitarii Hunter Cohort" hidden="false" id="48bd-eeae-171d-a10a">
           <rules>
             <rule name="Skitarii Hunter Cohort" hidden="false" id="66a8-d10b-deee-fe42">
@@ -14994,14 +15003,14 @@ At the start of your Command phase during the second, third, fourth and fifth ba
           <infoLinks>
             <infoLink name="Stealth" id="d3c5-8f74-cd57-f35e" hidden="false" type="rule" targetId="bec5-4288-34a6-ccfa" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-48bd-eea" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Explorator Maniple" hidden="false" id="e01f-8783-4769-2eb6">
           <rules>
             <rule name="Acquisition at any cost" hidden="false" id="1bc3-7b38-21d2-2d73">
               <description>At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your Acquisition objective marker. Each time an ADEPTUS MECHANICUS model from your army makes an attack, if that model’s  unit is within range of your Acquisition objective marker, or if the target of that attack is within range of your Acquisition objective marker, re-roll a Wound roll of 1.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e01f-878" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Data-psalm Conclave" hidden="false" id="e282-2b49-bd6a-679c">
           <rules>
             <rule name="Benediction of the Omnissiah" hidden="false" id="650a-c3b2-3606-f927">
@@ -15016,14 +15025,14 @@ Citation in Savagery:
 Each time a **^^Cult Mechanicus^^** unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Strength and Attacks characteristics of melee weapons equipped by models in that unit.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e282-2b4" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Cohort Cybernetica" hidden="false" id="f67d-6f59-21b8-e1f9">
           <rules>
             <rule name="Cyber Psalm-Programming" hidden="false" id="6cd2-7fa1-3feb-5b8b">
               <description>Add 2" to the Move characteristic of models in Legio Cybernetica units from your army. In addition, unless that unit is Battle‑shocked, add 1 to the Objective Control characteristic of models in that unit.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f67d-6f5" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Haloscreed Battleclade" hidden="false" id="ce65-6b89-4a0e-4f3b">
           <rules>
             <rule name="Noospheric Transference" id="d8b4-a13d-c7da-cfb7" hidden="false">
@@ -15049,7 +15058,7 @@ Muted Servomotors
 Models in this unit have the Stealth ability.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-ce65-6b8" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Eradication Cohort" hidden="false" id="6d06-9e26-0d3c-5317">
           <rules>
             <rule name="Murderous Imperative" hidden="false" id="dc09-cb01-528e-56d9">
@@ -15058,10 +15067,10 @@ Models in this unit have the Stealth ability.</description>
 - If the Conqueror Imperative is active for that unit, re‑roll a Wound roll of 1.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-6d06-9e2" includeChildSelections="true" /></constraints></selectionEntry>
       </selectionEntries>
-    </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+    <modifiers><modifier type="set" value="3" field="dpmax-6972-dcc"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-6972-dcc"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
+  <selectionEntryGroup id="f38e-0532-05d3-c44a" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Stealth-screened Cybercanids" hidden="false" id="9dcb-3b3d-d1a4-25ac"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d9e4-ad1a-6ece-1f3f" includeChildSelections="true" /></constraints><profiles><profile name="Stealth-screened Cybercanids" typeId="367f-5f53-33a7-ad1e" typeName="Abilities" hidden="false" id="267f-688b-a5df-5619"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Serberys Raiders unit only. The bearer's unit gains Lone Operative (15").</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6346-75d7-e460-37d1" shared="true" id="6729-f9ce-92d9-48cc" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Cohort Acquisitus</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="7a21-a958-e47d-5c0d" name="Doctrina Imperatives" hidden="false">
       <description>At the start of the battle round, you can select one of the Doctrina Imperatives below. Until the end of the battle round, that Doctrina Imperative is active for your army, and all units from your army that have the Doctrina Imperatives ability gain the relevant abilities shown below.

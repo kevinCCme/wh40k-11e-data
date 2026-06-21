@@ -2405,7 +2405,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4690-aa27-86de-f4ea" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
         <entryLink import="true" name="Enhancements" hidden="false" id="7ebe-dfc4-f332-8abb" type="selectionEntryGroup" targetId="4e2c-4ba5-749f-745a" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="87fd-114a-818c-009b" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3326,7 +3326,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9f7e-2924-e351-5992" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
         <entryLink import="true" name="Enhancements" hidden="false" id="8a1f-4dae-9075-4c14" type="selectionEntryGroup" targetId="4e2c-4ba5-749f-745a" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="e091-4535-ccf5-955e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3581,7 +3581,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0aad-5ceb-4c8c-de5b" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6fb2-96bc-8ffd-e1b6" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3987,7 +3987,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="d51c-f057-9140-62a2" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="0382-aa0e-2e6b-5ab3" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1c6d-5344-0d23-4c62" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4706,7 +4706,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="b75f-8649-5df0-46f8" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="21ed-8da1-9e05-9251" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e953-2947-2059-df01" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5017,7 +5017,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a5d8-a85a-7c41-bcff" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d957-7c24-ada3-e906" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="ca06-9505-0ac8-8ac8" hidden="false" sortIndex="2">
           <selectionEntries>
@@ -6164,7 +6164,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="8d05-bea1-4620-52ae" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="686c-12cd-7c2f-d5fc" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1183-90d6-9566-6824" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6429,7 +6429,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="75d8-abad-f478-2649" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="197d-9c14-7084-fa13" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6787,7 +6787,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c8db-6103-1b36-f982" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d327-eccb-34ee-24bd" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6956,7 +6956,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b595-bd18-3838-9065" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2fe9-4f6f-a3e6-e8ef" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7392,7 +7392,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="e820-5768-c9f2-5991" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="3519-624f-1793-38b9" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="fd55-7f90-c461-6390" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8342,7 +8342,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3b10-3668-d3e9-3a9f" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="316c-5f54-5684-8694" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8712,7 +8712,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3df3-ea8b-b449-6eef" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0a35-cdf0-6987-9452" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9414,7 +9414,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f1d0-6823-f2ed-b005" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c0e9-8ff7-3ada-79bf" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9626,7 +9626,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9d7e-358c-a97c-351f" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="098c-0e2b-64a3-1773" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9877,7 +9877,7 @@ While this model is leading a Striking Scorpions unit, it has the Infiltrators, 
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ba17-9274-2415-86b2" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b625-1e2e-fb7f-50cc" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -10331,7 +10331,7 @@ Attacks characteristic of this model’s Solitaire weapons.</characteristic>
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c15b-1351-f885-36d2" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ed20-ddf5-7a14-80ec" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Starweaver" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f7-500d-52ff-e195">
           <characteristics>
@@ -10733,7 +10733,7 @@ Attacks characteristic of this model’s Solitaire weapons.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="82c9-5cb7-8bdd-2ed4" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b1fa-2c08-d506-e523" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11146,7 +11146,7 @@ Attacks characteristic of this model’s Solitaire weapons.</characteristic>
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="ebb7-4c6b-85b3-1632" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="4e3e-d8e0-1f86-73f5" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8358-7abb-0516-21f6" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11267,7 +11267,7 @@ Attacks characteristic of this model’s Solitaire weapons.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="57c2-ce08-0972-b732" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="53a9-ab3c-479d-5d38" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="3531-19e7-5e0f-1932" hidden="false" sortIndex="2">
           <entryLinks>
@@ -11707,7 +11707,7 @@ Attacks characteristic of this model’s Solitaire weapons.</characteristic>
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="f169-3daa-86d7-26ea" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="3903-6e96-a8fb-27e6" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="bb20-3e32-4fac-3959" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -12646,7 +12646,7 @@ You can attach this unit to one of the above units, even if Yvraine has already 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0e7f-038a-be1f-f9e5" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5e16-35a6-fe4b-e6ad" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
     </selectionEntry>
     <selectionEntry id="dada-b81b-37bd-1f3b" name="Troupe Master" hidden="false" collective="false" import="true" type="model">
       <categoryLinks>
@@ -13069,7 +13069,7 @@ You can attach this unit to one of the above units, even if Yvraine has already 
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e657-a35f-c2af-bfe9" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8b94-128d-4f49-4c00" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="72fb-ae52-b5e2-9d4d" targetId="b68a-5ded-65ac-98c">
           <modifiers>
@@ -13728,7 +13728,7 @@ You can attach this model to a unit, even  if one ^^Autarch^^ or ^^Farseer^^ m
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4ba4-473d-5fb9-c379" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="68d0-738d-4c6e-36b2" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -14146,7 +14146,7 @@ You can attach this model to a unit, even  if one ^^Autarch^^ or ^^Farseer^^ m
       <entryLinks>
         <entryLink import="true" name="Aspect Shrine Token" hidden="false" id="2f0e-f048-cad2-d34e" type="selectionEntry" targetId="344f-a1d4-6038-7ee7" sortIndex="4" />
         <entryLink import="true" name="Crusade" hidden="false" id="5fd8-b105-f91c-d7eb" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="cec0-690d-d66c-ff9e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -14530,7 +14530,7 @@ You can attach this model to a unit, even  if one ^^Autarch^^ or ^^Farseer^^ m
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="aced-1e95-46bc-e980" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8c60-d09b-78ce-faef" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -14894,7 +14894,7 @@ You can attach this model to a unit, even  if one ^^Autarch^^ or ^^Farseer^^ m
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7585-f05a-2d77-45cc" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0a33-b618-53bb-4ccb" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -15245,7 +15245,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="64af-ae7a-f402-51ee" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="605a-c2fb-1865-d3b7" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -15661,7 +15661,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a732-1049-c647-5336" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1d5a-5c53-2110-dde3" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -15875,7 +15875,7 @@ It can also move through sections of terrain features that are more than 4" in h
               </characteristics>
             </profile>
           </profiles>
-        </selectionEntry>
+        <entryLinks><entryLink id="b93a-2096-ad06-97da" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="145" />
@@ -15906,7 +15906,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c2cf-3026-c51a-612d" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="479b-25bb-440e-d8e0" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -16314,7 +16314,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="eabf-1ad5-3f99-ed98" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b253-cd8e-233f-7cb5" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -17547,7 +17547,7 @@ It can also move through sections of terrain features that are more than 4" in h
           </selectionEntryGroups>
           <entryLinks>
             <entryLink import="true" name="Totemic Presence upgrade" hidden="false" id="9a96-91b3-c026-040a" type="selectionEntry" targetId="6220-fe17-7c2a-8268" sortIndex="1" />
-          </entryLinks>
+          <entryLink id="998b-357c-c2ad-6990" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
           <selectionEntries>
             <selectionEntry type="upgrade" import="true" name="Spirit Vortex" hidden="false" id="f76-9cbf-84e3-b197">
               <constraints>
@@ -17625,7 +17625,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8be4-bbc4-ff85-ed27" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d29a-1e60-6f65-db24" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -18662,7 +18662,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="47a2-f6a6-1125-3b06" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="df13-d178-1e35-4939" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -18812,7 +18812,7 @@ It can also move through sections of terrain features that are more than 4" in h
                 <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="1d26-743a-b208-6c32" />
                 <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="d912-8f42-9a49-b8b0" />
               </constraints>
-            </selectionEntry>
+            <entryLinks><entryLink id="858e-85ec-58b1-8986" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks></selectionEntry>
           </selectionEntries>
           <constraints>
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="803b-ba96-6a93-243" />
@@ -18910,7 +18910,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="87eb-5fbb-d9ef-c31f" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="519e-5c85-aceb-cf28" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -19507,7 +19507,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3b22-d7c4-a70e-f071" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="74cb-91f7-8f15-d68d" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -19870,7 +19870,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2949-a690-07a9-3485" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a306-3d11-f692-8eb5" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -20112,7 +20112,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3b11-aa13-5090-1d67" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4053-51c5-3f14-1640" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -20328,7 +20328,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="01e0-1a26-0fdb-8f36" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b09c-c5ea-9837-0a6e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -20668,7 +20668,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a6c8-2ffb-0f39-9792" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="35b1-57c0-9350-d116" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -21320,7 +21320,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d218-5bff-b7a6-ec5d" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ee8e-8580-84ad-720e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -21810,7 +21810,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5a89-aa07-9f05-6283" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a335-62a0-a020-31e7" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -22343,7 +22343,7 @@ It can also move through sections of terrain features that are more than 4" in h
           </profiles>
           <entryLinks>
             <entryLink import="true" name="Totemic Presence upgrade" hidden="false" id="21e7-db9b-20ae-b432" type="selectionEntry" targetId="6220-fe17-7c2a-8268" sortIndex="1" />
-          </entryLinks>
+          <entryLink id="9f8a-4ced-0a7b-d9ad" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
         </selectionEntry>
       </selectionEntries>
       <profiles>
@@ -22389,7 +22389,7 @@ It can also move through sections of terrain features that are more than 4" in h
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="673e-2690-f859-c1f5" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e402-3b29-89aa-2e69" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -22786,7 +22786,7 @@ Before the battle, at the start of the Declare Battle Formations step, you can 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4927-66e4-bf34-6e82" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="429e-eca5-bacb-9fd5" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -23074,7 +23074,7 @@ Before the battle, at the start of the Declare Battle Formations step, you can 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2b56-161a-6efe-bde8" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c130-d794-10ff-477e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -23453,7 +23453,7 @@ Before the battle, at the start of the Declare Battle Formations step, you can 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="841e-33b1-07c7-9b6e" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="79d5-0dc6-1ee3-7e4e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -23792,7 +23792,7 @@ This unit has a 4+ Invulnerable save against melee attacks.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0d0b-f914-d1af-fee0" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1b16-6b27-c61c-b34d" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -26229,7 +26229,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4654-01e0-0d90-f73b" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8309-e876-cc6d-a1d7" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -26535,7 +26535,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4bb1-30b1-4e47-8ed4" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a1af-e21d-bbf0-aa0a" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -32128,7 +32128,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="87b5-d0d6-a77c-9d08" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="93c2-c57d-d355-bc39" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -32763,7 +32763,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a414-d106-9a29-2cd6" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1e8e-fa6d-dc7a-7a84" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -32907,7 +32907,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c220-8442-db8b-b1b9" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="09b9-68bf-7766-f42f" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="e9b4-57fe-5414-08de" hidden="false" sortIndex="2">
           <entryLinks>
@@ -33072,7 +33072,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="fb50-d965-4395-6365" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c186-25c4-8471-6064" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="8d1d-e052-3be0-5476" hidden="false" sortIndex="2">
           <entryLinks>
@@ -33239,7 +33239,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
           </costs>
           <entryLinks>
             <entryLink import="true" name="Totemic Presence upgrade" hidden="false" id="11c8-3165-5071-55c6" type="selectionEntry" targetId="6220-fe17-7c2a-8268" sortIndex="1" />
-          </entryLinks>
+          <entryLink id="11ef-dbe9-7e5a-f4d9" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
           <profiles>
             <profile name="Vyper" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="99be-d513-66a-e8aa">
               <characteristics>
@@ -33785,7 +33785,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c7ce-249a-2a44-a804" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="7c03-c7e1-40db-e48b" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -34483,7 +34483,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9a39-58b2-07ea-9dda" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="697f-16f5-157a-81ef" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -34775,7 +34775,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c011-1ef5-893b-887c" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="395c-c286-297b-2a85" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -34928,7 +34928,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
                 <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="3741-ee32-77b8-59fa" />
                 <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="a1f7-1188-a078-70e4" />
               </constraints>
-            </selectionEntry>
+            <entryLinks><entryLink id="96a4-37fe-fdca-54ae" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks></selectionEntry>
           </selectionEntries>
           <constraints>
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="20cd-fa8a-2b9b-ac19" />
@@ -35030,7 +35030,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="859e-419d-871a-3935" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e65c-d1e1-48c8-63c8" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -35708,7 +35708,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="cd7e-260d-3f3e-acf4" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a74c-6fea-22c0-8f00" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -35931,7 +35931,7 @@ makes an attack, subtract 1 from the Hit roll</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="130c-3308-99ad-7a49" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="59d1-7d10-d0fa-1ca6" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -36200,7 +36200,7 @@ Before the battle, at the start of the Declare Battle Formations step, you can 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d19a-5abd-c4f8-70a4" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="52c8-db1c-12a3-a1bf" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -37812,7 +37812,7 @@ For every 5 models in this unit, it can have 1 Aspect Shrine token.</characteris
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="371a-24de-b963-fd2d" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e073-2c3a-33e7-dbc6" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -38591,7 +38591,7 @@ For every 5 models in this unit, it can have 1 Aspect Shrine token.</characteris
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1d73-00a3-749b-c867" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
         <entryLink import="true" name="Enhancements" hidden="false" id="c2b0-f277-b60a-0a88" type="selectionEntryGroup" targetId="4e2c-4ba5-749f-745a" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="8522-6ee0-c709-63b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -38674,7 +38674,7 @@ For every 5 models in this unit, it can have 1 Aspect Shrine token.</characteris
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b00a-e30f-b033-e3a0" type="selectionEntryGroup" targetId="eef3-eae9-ce7c-7765" sortIndex="1" />
         <entryLink import="true" name="Enhancements" hidden="false" id="af69-3af0-b110-0eb0" type="selectionEntryGroup" targetId="4e2c-4ba5-749f-745a" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="d71c-6edc-80a9-2aa8" name="Upgrades" hidden="false" collective="false" import="true" targetId="3339-4178-8518-13ee" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Battle Focus" id="9a3f-a82a-44ed-daee" hidden="false" targetId="c324-e193-e23c-7d2e" type="rule" />
         <infoLink name="Scouts" id="b53e-94a4-b946-1538" hidden="false" targetId="ada6-bac1-ffe0-d6f7" type="rule">
@@ -40231,7 +40231,36 @@ For every 5 models in this unit, it can have 1 Aspect Shrine token.</characteris
       </selectionEntries>
     </selectionEntryGroup>
     <selectionEntryGroup name="Detachments" hidden="false" id="7466-16bc-8db6-814" defaultSelectionEntryId="none">
-      <selectionEntries>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Fateful Performance" hidden="false" id="faa1-5b6f-227a-66f5"><rules><rule name="Acrobatic Onslaught" id="5738-e874-6b08-d0d4" hidden="false"><description>While a friendly Harlequins unit makes a Charge move, it can move through enemy models. This is an Acrobatic detachment and cannot be taken with another Acrobatic detachment.
+
+STRATAGEMS:
+- Deceptive Feint (1CP, Opponent's Movement phase): When an enemy unit ends a move within 8" of an unengaged friendly Harlequins Infantry unit, that friendly unit can make a Normal move of up to D3+3".</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-faa1-5b6" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Serpent’S Brood" hidden="false" id="836f-5247-9fbd-ab75"><rules><rule name="Boons Of The Brood" id="ad12-8bc7-3574-847f" hidden="false"><description>Each time an Aeldari Vehicle model from your army makes an attack while its unit is within range of one or more objective markers, add 1 to the Hit roll. Your Aeldari Vehicle units also gain Battleline.
+
+STRATAGEMS:
+- Lance Strike (1CP, Your Shooting phase): Pick an Aeldari Vehicle unit; until the phase ends its ranged weapons gain [ANTI-VEHICLE 2+].
+- Predatory Instinct (1CP, Your Charge phase): Pick an Aeldari Vehicle unit; until the turn ends add 1 to the Wound roll of its melee attacks.
+- Evasive Maneuvers (1CP, Opponent's Shooting phase, when an Aeldari Vehicle unit is targeted): Until the phase ends, subtract 1 from the Hit roll of each attack targeting that unit.
+- Coordinated Assault (2CP, Your Shooting phase): Pick up to two Aeldari Vehicle units; until the phase ends re-roll the Wound roll for their attacks.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-836f-524" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Twilight Flickers" hidden="false" id="3428-4008-5627-ffc6"><rules><rule name="Dance Of Distortion" id="8265-1639-7801-f5c3" hidden="false"><description>Friendly Harlequins units gain Stealth. This is an Acrobatic detachment and cannot be taken with another Acrobatic detachment.
+
+STRATAGEMS:
+- Captivating Performance (1CP, End of Movement phase): Pick one friendly Troupe unit, then select one objective it controls; that objective becomes secured.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3428-400" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Exhibition Of Slaughter" hidden="false" id="9c2b-007e-9179-94a1"><rules><rule name="Exacting Cruelty" id="eeba-229a-a450-903a" hidden="false"><description>Friendly Wych Cult units' melee attacks gain [Lethal Hits] against non-Monster/Vehicle targets.
+
+STRATAGEMS:
+- Planned Strikes (1CP, Fight phase): A selected Wych Cult unit's melee attacks gain [Lethal Hits] this phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-9c2b-007" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Kabalite Agonysts" hidden="false" id="c75c-1002-3e03-4cab"><rules><rule name="Contracted Harvest" id="be6b-147e-a28b-5947" hidden="false"><description>Friendly Blades for Hire and Kabal units' ranged attacks gain [Sustained Hits 1] against non-Monster/Vehicle targets.
+
+STRATAGEMS:
+- Shadows' Reach (1CP, Shooting phase): A unit that shoots stays Hidden despite having attacked.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-c75c-100" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Reaper’S Wager" hidden="false" id="af19-410f-e677-8c1d"><rules><rule name="Callous Competition" id="78d1-04dd-2f7e-3896" hidden="false"><description>At the start of the battle, your DRUKHARI units are winning the wager. Whenever a DRUKHARI unit destroys an enemy unit, DRUKHARI is winning; whenever a HARLEQUINS unit destroys an enemy unit, HARLEQUINS is winning. Units on the winning side re-roll Hit rolls of 1; units on the losing side re-roll Hit and Wound rolls of 1. You may include HARLEQUINS up to a points cap based on battle size (500/1000/1500), but no HARLEQUINS model may be your WARLORD.
+
+STRATAGEMS:
+- Malicious Frenzy (1CP, Shooting or Fight phase): One DRUKHARI or HARLEQUINS unit gains either [LETHAL HITS] or [SUSTAINED HITS 1] (your choice).
+- Fateful Role (1CP, Fight phase): Use after an enemy unit picks its targets. Destroyed models can still fight once the attacking unit finishes; add 1 to the relevant roll if your side is currently losing the wager.
+- Murderer's Circus (1CP, Fight phase): Use after an enemy unit picks its targets. One DRUKHARI or HARLEQUINS unit imposes -1 to enemy Hit rolls against it until the phase ends.
+- Shorten the Odds (1CP, Movement phase): Use after a unit Advances. That unit may still shoot and declare a charge despite having Advanced.
+- Scintillating Tempo (1CP, Movement or Charge phase): Use after a unit moves or charges. Enemy units cannot use Fire Overwatch against that unit.
+- Dance Macabre (2CP, Enemy Movement phase): Use after an enemy unit moves. One DRUKHARI or HARLEQUINS INFANTRY unit within 9 inches may move up to D6 inches, or up to 6 inches if your side is losing the wager.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-af19-410" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Tools Of Torment" hidden="false" id="fe32-b8a8-d354-2dc7"><rules><rule name="Darkest Artifice" id="92c7-fc32-0901-7b65" hidden="false"><description>Attacks against friendly Cronos and Talos units whose Strength exceeds the unit's Toughness take -1 to the Wound roll.
+
+STRATAGEMS:
+- Salting the Wound (1CP, Fight phase): A selected Cronos or Talos unit gains [Devastating Wounds] against Battle-shocked targets.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-fe32-b8a" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Warhost" hidden="false" id="3c31-6fac-9914-827a">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40247,7 +40276,7 @@ Each time a unit from your army performs the Swift as the Wind Agile Manoeuvre, 
 Each time a unit from your army performs an Agile Manoeuvre that involves rolling a D6, add 1 to the result.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3c31-6fa" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Realspace Raiders" hidden="false" id="e299-e560-ccec-eeb3">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40269,7 +40298,7 @@ Designer’s Note: These are all cumulative, so if your army contains at least o
           <infoLinks>
             <infoLink name="Corsairs and Travelling Players" id="b335-1a1d-8fa9-18a1" hidden="true" type="rule" targetId="8344-0055-bb1f-4783" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e299-e56" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Skysplinter Assault" hidden="false" id="7596-e2c8-71fb-1b4f">
           <rules>
             <rule name="Rain of Cruelty" hidden="false" id="c662-6c60-3e77-889e">
@@ -40288,7 +40317,7 @@ Melee weapons equipped by models in that disembarking unit have the ^^**[Lance]*
           <infoLinks>
             <infoLink name="Corsairs and Travelling Players" id="b2c2-a5c1-7a5c-6724" hidden="true" type="rule" targetId="8344-0055-bb1f-4783" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7596-e2c" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Reaper's Wager" hidden="false" id="e688-8140-bc36-3cee">
           <rules>
             <rule name="Callous Competition" id="134d-1e4d-5f9c-2905" hidden="false">
@@ -40306,7 +40335,7 @@ Each time a Drukhari or Harlequins model from your army makes an attack, if th
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e688-814" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Armoured Warhost" hidden="false" id="a27b-ac32-f0fd-8111">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40320,7 +40349,7 @@ Each time a Drukhari or Harlequins model from your army makes an attack, if th
               <description>Ranged weapons equipped by Aeldari Vehicle models from your army have the [ASSAULT] ability and you can re‑roll Advance rolls made for Aeldari Vehicle Fly units from your army.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-a27b-ac3" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Windrider Host" hidden="false" id="c8a3-920b-166b-30d9">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40344,7 +40373,7 @@ In addition, at the end of your opponent's turn, you can select a number of ^^As
 ^^Windriders^^ units from your army gain the ^^Battleline^^ keyword.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-c8a3-920" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Spirit Conclave" hidden="false" id="fc94-43bf-5247-8e7c">
           <rules>
             <rule name="Shepherds of the Dead" id="050c-5c05-99bc-905a" hidden="false">
@@ -40363,7 +40392,7 @@ Wraithblades and Wraithguard units from your army gains the Battleline keyword.<
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-fc94-43b" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Guardian Battlehost" hidden="false" id="9805-eaee-0a84-f86f">
           <rules>
             <rule name="Defend at All Costs" id="7634-617a-fc22-593b" hidden="false">
@@ -40377,7 +40406,7 @@ Wraithblades and Wraithguard units from your army gains the Battleline keyword.<
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-9805-eae" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Ghosts of the Webway" hidden="false" id="be59-ec7d-2f02-b6ec">
           <rules>
             <rule name="Acrobatic Onslaught" id="162a-db5f-15c7-30b7" hidden="false">
@@ -40395,7 +40424,7 @@ You can include up to three of each of the following models in your army: **^^De
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-be59-ec7" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Devoted of Ynnead" hidden="false" id="925e-85fb-b477-70be">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40436,7 +40465,7 @@ Asuryani units (excluding Epic Heroes) from your army gain the Ynnari keyword.
 You must include Yvraine and/or The Yncarne in your army, and one of those models must be your Warlord.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-925e-85f" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Seer Council" hidden="false" id="b525-57b6-8a78-ed75">
           <rules>
             <rule name="Strands of Fate" id="c1b1-0f17-65d1-89b5" hidden="false">
@@ -40469,7 +40498,7 @@ Each time you use one of the detachment Stratagems, if your Fate dice pool conta
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-b525-57b" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Aspect Host" hidden="false" id="8e89-2c14-6bf5-87bf">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40486,7 +40515,7 @@ Each time you use one of the detachment Stratagems, if your Fate dice pool conta
 ■ Each time a model in this unit makes an attack, re-roll a Wound roll of 1.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-8e89-2c1" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Covenite Coterie" hidden="false" id="47c7-52f9-c23d-1e4e">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40503,7 +40532,7 @@ Each time you use one of the detachment Stratagems, if your Fate dice pool conta
           <infoLinks>
             <infoLink name="Corsairs and Travelling Players" id="f740-8d0d-af01-8160" hidden="true" type="rule" targetId="8344-0055-bb1f-4783" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-47c7-52f" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Kabalite Cartel" hidden="false" id="b033-0c01-012e-fcca">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40541,7 +40570,7 @@ Each time you use one of the detachment Stratagems, if your Fate dice pool conta
           <infoLinks>
             <infoLink name="Corsairs and Travelling Players" id="0007-4b4c-3a3d-3955" hidden="true" type="rule" targetId="8344-0055-bb1f-4783" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-b033-0c0" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Spectacle of Spite" hidden="false" id="7008-2116-f479-a791">
           <rules>
             <rule name="Combat Drugs" id="5722-e69a-a553-9dcd" hidden="false">
@@ -40582,7 +40611,7 @@ Improve the Leadership characteristic of ^^**Wych Cult**^^ models from your army
           <infoLinks>
             <infoLink name="Corsairs and Travelling Players" id="b11e-819b-20d1-f5f2" hidden="true" type="rule" targetId="8344-0055-bb1f-4783" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7008-211" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Serpent's Brood" hidden="false" id="5ad5-9b0d-a70e-b9ec">
           <rules>
             <rule name="Boons of the Brood" id="f364-f7a6-30b8-8181" hidden="false">
@@ -40600,7 +40629,7 @@ You can include up to three of each of the following models in your army: **^^De
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-5ad5-9b0" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Eldritch Raiders" hidden="false" id="d519-c125-30b5-9c55">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40617,7 +40646,7 @@ You can include up to three of each of the following models in your army: **^^De
               <description>Each time you add an ^^**Anhrathe**^^ unit to your army, it can be given up to one Corsair Enhancement (see right). Each Corsair Enhancement included in your army must be unique. If a unit is given a Corsair Enhancement, you must increase the points cost of that unit by the amount shown (see Munitorum Field Manual). If this causes your army to exceed the points limit for the battle you are playing, you cannot include that unit in your army.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d519-c12" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Corsair Coterie" hidden="false" id="7224-4f3e-c557-115d">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -40640,9 +40669,9 @@ You can include up to three of each of the following models in your army: **^^De
               <description>Each time you add an ^^**Anhrathe**^^ unit to your army, it can be given up to one Corsair Enhancement (see right). Each Corsair Enhancement included in your army must be unique. If a unit is given a Corsair Enhancement, you must increase the points cost of that unit by the amount shown (see Munitorum Field Manual). If this causes your army to exceed the points limit for the battle you are playing, you cannot include that unit in your army.</description>
             </rule>
           </rules>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7224-4f3" includeChildSelections="true" /></constraints></selectionEntry>
       </selectionEntries>
-    </selectionEntryGroup>
+    <constraints><constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-7466-16b" includeChildSelections="true" /></constraints><modifiers><modifier type="set" value="3" field="dpmax-7466-16b"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-7466-16b"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
     <selectionEntryGroup name="Reaver Wargear" id="aa50-13de-17f0-0c47" hidden="false">
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Cluster Caltrops" hidden="false" id="0777-ae0e-9a5b-3b29">
@@ -41972,7 +42001,7 @@ You can include up to three of each of the following models in your army: **^^De
               </conditionGroups>
             </modifier>
           </modifiers>
-          <selectionEntries>
+          <selectionEntries><selectionEntry type="upgrade" import="true" name="A Foot In The Future" hidden="false" id="eb49-4f56-539f-ac7a"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="b03d-e031-c318-1dec" includeChildSelections="true" /></constraints><profiles><profile name="A Foot In The Future" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="aeed-ba24-bc4a-4b9f"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Troupe Master only. The bearer's unit can re-roll Charge rolls.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="faa1-5b6f-227a-66f5" shared="true" id="54a3-f925-5d71-0553" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Fateful Performance</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Mistweave" hidden="false" id="10b3-76ef-9e49-a1d3"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6fd9-2caa-2e41-24d1" includeChildSelections="true" /></constraints><profiles><profile name="Mistweave" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="4863-3d4a-594c-b683"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="faa1-5b6f-227a-66f5" shared="true" id="26ae-958f-ee1d-d6ef" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Fateful Performance</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Fanged Leer" hidden="false" id="f0b7-5a16-959a-dfa6"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="258f-2d93-8150-4d92" includeChildSelections="true" /></constraints><profiles><profile name="Fanged Leer" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="15df-97f2-e9c8-a14b"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="836f-5247-9fbd-ab75" shared="true" id="ac79-14ff-59db-4747" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Serpent’S Brood</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Key Of Ghosts" hidden="false" id="88b2-48ee-24cc-6028"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="721a-7ae2-d9a8-7db7" includeChildSelections="true" /></constraints><profiles><profile name="Key Of Ghosts" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="000e-8b6c-7b41-4ef9"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="836f-5247-9fbd-ab75" shared="true" id="6a46-06d4-869b-bfa7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Serpent’S Brood</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Shedskin Raiment" hidden="false" id="4b16-75e4-14ee-d432"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="eec4-1043-ea2c-a964" includeChildSelections="true" /></constraints><profiles><profile name="Shedskin Raiment" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="c8a9-3223-adc6-bfab"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="836f-5247-9fbd-ab75" shared="true" id="ce53-e39b-b4ea-7cab" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Serpent’S Brood</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Weavers' Wail" hidden="false" id="765b-237c-56d7-2cf0"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="bcce-0225-a921-7ef6" includeChildSelections="true" /></constraints><profiles><profile name="Weavers' Wail" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="2f31-e94e-c6ee-748e"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="836f-5247-9fbd-ab75" shared="true" id="eccc-70eb-4514-8ad7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Serpent’S Brood</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Prelude Performer" hidden="false" id="ab69-51be-f4d6-9fe0"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="935c-9d71-1ce0-211b" includeChildSelections="true" /></constraints><profiles><profile name="Prelude Performer" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="55c5-397f-fa37-b71d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Harlequins model only. The bearer's unit gains Scouts 6".</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="3428-4008-5627-ffc6" shared="true" id="57f6-f776-c5f5-5b87" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Twilight Flickers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Hyperstimm Trafficker" hidden="false" id="96a3-61af-3644-4579"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ee42-1b47-9929-e54f" includeChildSelections="true" /></constraints><profiles><profile name="Hyperstimm Trafficker" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="4609-7c4a-d888-f09b"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="9c2b-007e-9179-94a1" shared="true" id="40a7-675a-ee21-ed9f" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Exhibition Of Slaughter</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Periapt Of Torments" hidden="false" id="6f00-6cc7-142d-6cdd"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f0df-adc3-95e4-0fcc" includeChildSelections="true" /></constraints><profiles><profile name="Periapt Of Torments" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="3e25-4c7d-bd1d-a274"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Succubus model only. Enemy units cannot target the bearer's unit with snap-shot attacks.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="9c2b-007e-9179-94a1" shared="true" id="d273-f834-4300-4aa2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Exhibition Of Slaughter</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Contempt For Rivals" hidden="false" id="6948-6dca-13bb-111e"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="4ea2-0146-3cea-54ff" includeChildSelections="true" /></constraints><profiles><profile name="Contempt For Rivals" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="f51a-0a41-d075-30ff"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="c75c-1002-3e03-4cab" shared="true" id="e001-b1fe-e921-22e8" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Kabalite Agonysts</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Towering Arrogance" hidden="false" id="a602-6c97-cbf2-cdcd"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="a83f-bd78-5995-cb31" includeChildSelections="true" /></constraints><profiles><profile name="Towering Arrogance" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="7d89-760e-e9f6-6dcd"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Archon model only. The bearer's unit gains +1 Leadership and +1 Objective Control.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="c75c-1002-3e03-4cab" shared="true" id="a743-c18b-a442-eb3f" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Kabalite Agonysts</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Archraider" hidden="false" id="30fe-2462-f31f-acd4"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f780-b726-aac6-bb72" includeChildSelections="true" /></constraints><profiles><profile name="Archraider" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="742e-7d00-ea80-1fd0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">HARLEQUINS or DRUKHARI. If the bearer begins the battle embarked in a DEDICATED TRANSPORT, that transport gains Scouts 9 inches.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af19-410f-e677-8c1d" shared="true" id="c4ec-2a5f-5cbb-3206" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Reaper’S Wager</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Conductor Of Torment" hidden="false" id="8026-b43d-f7d5-e04e"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8f6a-966f-0876-af30" includeChildSelections="true" /></constraints><profiles><profile name="Conductor Of Torment" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="35f4-96e6-e2f7-29c5"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">DRUKHARI only. In your Command phase, spend 1 Pain token to make DRUKHARI the winning side, or discard 1 Pain token to make HARLEQUINS the winning side.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af19-410f-e677-8c1d" shared="true" id="77c1-0093-3f10-3288" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Reaper’S Wager</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Reaper’S Cowl" hidden="false" id="70f5-1426-90ff-6aab"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="05ac-7b90-1b01-8918" includeChildSelections="true" /></constraints><profiles><profile name="Reaper’S Cowl" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="107b-1bd2-170d-49ce"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">HARLEQUINS only. The bearer's unit gains Stealth and Infiltrators.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af19-410f-e677-8c1d" shared="true" id="a54d-b801-9ef5-b837" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Reaper’S Wager</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Webway Walker" hidden="false" id="eaaf-0336-5b22-96ec"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2bea-d622-f551-fb0b" includeChildSelections="true" /></constraints><profiles><profile name="Webway Walker" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="4c15-88fc-79b8-7e51"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">HARLEQUINS or DRUKHARI. The bearer's unit gains Deep Strike; if it is set up while your side is losing the wager, it may re-roll its Charge roll.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af19-410f-e677-8c1d" shared="true" id="38cd-c3f2-f252-3426" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Reaper’S Wager</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Gnarlskin Experimentor" hidden="false" id="d7a4-7ba8-b490-959c"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="55da-b9d2-8637-f079" includeChildSelections="true" /></constraints><profiles><profile name="Gnarlskin Experimentor" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="e2ee-806a-9054-9da0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="fe32-b8a8-d354-2dc7" shared="true" id="02c1-e9b9-31c7-bdad" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Tools Of Torment</comment></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Guiding Presence" hidden="false" id="6716-5adc-b3c9-2acb">
               <costs>
                 <cost name="pts" typeId="51b2-306e-1021-d207" value="25" />
@@ -49018,7 +49047,7 @@ Each time a ranged attack targets this unit, models in that unit have the Benefi
         <entryLink import="true" name="Melee Weapons" hidden="false" id="d991-962d-66fc-4a93" type="selectionEntryGroup" targetId="4dd8-1b23-8476-cd5e" sortIndex="3" />
       </entryLinks>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="3339-4178-8518-13ee" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Shadowfall Masks" hidden="false" id="4364-3a99-fd29-f5ed"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="0f26-3c77-e3b5-60a6" includeChildSelections="true" /></constraints><profiles><profile name="Shadowfall Masks" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="051f-28ca-e4ca-d50d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="3428-4008-5627-ffc6" shared="true" id="b61f-fe64-2544-01a6" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Twilight Flickers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Elixir of the Corpse Courts" hidden="false" id="e109-2601-fafd-aa07"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="7643-c1d3-7f24-8542" includeChildSelections="true" /></constraints><profiles><profile name="Elixir of the Corpse Courts" typeId="ed49-065d-5a54-6aae" typeName="Abilities" hidden="false" id="d66f-54ff-f73a-8c10"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Cronos or Talos unit only. The bearer's unit gains a 5+ invulnerable save.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="fe32-b8a8-d354-2dc7" shared="true" id="c19e-c2cf-a0d3-6360" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Tools Of Torment</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="c324-e193-e23c-7d2e" name="Battle Focus" hidden="false">
       <description>If your Army Faction is ^^Asuryani^^, at the start of the battle round, you receive a number of Battle Focus tokens based on the battle size, as shown below:

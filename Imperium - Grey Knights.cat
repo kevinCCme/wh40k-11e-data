@@ -1603,7 +1603,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="e858-ee64-c66e-3d2e" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2520,7 +2520,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="466a-0d34-ec2e-3f8a" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1a0d-6ef3-cea0-b8c4" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2722,7 +2722,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="828b-cd29-c231-3974" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="30a5-fa6f-dc19-326b" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2986,7 +2986,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0a7d-a9f2-0aca-8e15" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3449-1215-79e2-523d" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3166,7 +3166,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="23ef-1a1a-80a0-2376" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="61e1-d94c-4a6c-5991" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3305,7 +3305,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2f73-7202-afb5-b037" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="487e-7882-2d20-8945" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3558,7 +3558,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="aa98-831c-df45-2eb8" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f59f-9485-616f-7c98" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3868,7 +3868,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b073-4e4c-c8d1-91a2" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0a2b-cb49-0c16-7f76" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4046,7 +4046,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dbf5-db8e-4f32-3e30" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="74a0-abb3-2ab9-b8ca" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4260,7 +4260,7 @@
         <entryLink import="true" name="Crusade" hidden="false" id="8455-442b-48d6-ed72" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
         <entryLink import="true" name="Warlord" hidden="false" id="1e04-20dd-5083-1247" type="selectionEntry" targetId="beae-4593-3686-1672" sortIndex="2" />
         <entryLink import="true" name="Enhancements" hidden="false" id="9efb-316d-e7de-7533" type="selectionEntryGroup" targetId="c440-b056-f09a-c88a" sortIndex="3" />
-      </entryLinks>
+      <entryLink id="44b9-c718-74b0-82e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4533,7 +4533,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="dfa4-f749-1df9-c659" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4917,7 +4917,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1794-e24d-4836-abc4" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6201-1502-7e50-e1a6" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5302,7 +5302,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="2898-edf8-b661-a597" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5585,7 +5585,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6516-bb08-4fbb-b1be" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="71cf-f201-8fa9-acd1" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5873,7 +5873,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="c54c-8126-de8e-7e65" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6461,7 +6461,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="477d-87a1-5009-6afa" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6775,7 +6775,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6b07-92f4-0175-9871" type="selectionEntryGroup" targetId="1f2e-4c6b-19f2-30e0" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6ab3-1de9-f050-8100" name="Upgrades" hidden="false" collective="false" import="true" targetId="3db2-2604-b4eb-c2fb" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9527,7 +9527,7 @@
       </constraints>
       <selectionEntryGroups>
         <selectionEntryGroup name="Warpbane Task Force Enhancements" id="04f9-8033-b71e-0afa" hidden="false" flatten="false">
-          <selectionEntries>
+          <selectionEntries><selectionEntry type="upgrade" import="true" name="Psychic Celerity" hidden="false" id="a63a-4b82-0369-d0f4"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="4161-6785-cbf2-1a89" includeChildSelections="true" /></constraints><profiles><profile name="Psychic Celerity" typeId="e1f9-80b5-6bc7-21f3" typeName="Abilities" hidden="false" id="4a00-5c85-7894-729b"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Terminator model only. The bearer adds +1 to its charge rolls.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="d405-366f-3b46-2d41" shared="true" id="d96d-00aa-bc54-0733" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Argent Assault</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Vigilance Of Titan" hidden="false" id="1426-3c34-d402-9c5a"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ada8-8660-2c61-2ee8" includeChildSelections="true" /></constraints><profiles><profile name="Vigilance Of Titan" typeId="e1f9-80b5-6bc7-21f3" typeName="Abilities" hidden="false" id="e0f3-0305-5c7c-82e6"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="d405-366f-3b46-2d41" shared="true" id="c5da-1d1f-fd2f-d929" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Argent Assault</comment></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Paragon of Sanctity" hidden="false" id="729d-a08a-9b1f-5180">
               <profiles>
                 <profile name="Paragon of Sanctity" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="70e3-6650-d619-84d1">
@@ -10360,7 +10360,16 @@
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup name="Detachments" hidden="false" id="f7f3-a061-3f69-1432" defaultSelectionEntryId="none">
-      <selectionEntries>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Argent Assault" hidden="false" id="d405-366f-3b46-2d41"><rules><rule name="Dauntless Champions" id="409d-3ee0-68cb-d55c" hidden="false"><description>When a friendly Paladin Squad fights and the attack's Strength is lower than the target's Toughness, those attacks get +1 to wound rolls.
+
+STRATAGEMS:
+- Aura of Vengeance (1CP, Fight phase): When an enemy unit targets a friendly Paladin Squad, that enemy's melee attacks gain [HAZARDOUS].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d405-366" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Fires Of Purgation" hidden="false" id="00f3-afeb-2dd9-f174"><rules><rule name="Searing Soulflame" id="a9fc-7a47-c716-9e39" hidden="false"><description>When an enemy is pinned by a friendly Purgation Squad's Righteous Persecution ability, that enemy must take a battle-shock test with -1 to the roll.
+
+STRATAGEMS:
+- Focused Immolation (1CP, Shooting phase): Pick one enemy unit; against it your ranged attacks gain [DEVASTATING WOUNDS] and [SUSTAINED HITS 1].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-00f3-afe" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Immaterial Interdiction" hidden="false" id="1114-b8ed-d7b3-6ecc"><rules><rule name="Echojump" id="ac47-c522-5ba9-ad6b" hidden="false"><description>After an Interceptor Squad shoots, if it made no ingress move it may make a surge move of up to D6+1", but cannot use its Personal Teleporters ability.
+
+STRATAGEMS:
+- Blades from the Beyond (1CP, Fight phase): If an Interceptor Squad charged this turn, its melee attacks gain [LANCE].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-1114-b8e" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Hallowed Conclave" hidden="false" id="bcb7-c2a7-e7fb-3aae">
           <rules>
             <rule name="Duty Before All" id="e00e-7255-398a-d7fc" hidden="false">
@@ -10374,7 +10383,7 @@
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-bcb7-c2a" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Warpbane Task Force" hidden="false" id="ce9d-e896-d9bc-767c">
           <rules>
             <rule name="Hallowed Ground" id="9872-36bc-6295-dd34" hidden="false">
@@ -10398,7 +10407,7 @@ Each time a model in a **^^Grey Knights^^** unit from your army makes a ranged a
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-ce9d-e89" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Brotherhood Strike" hidden="false" id="3f06-4e57-edb4-28e5">
           <rules>
             <rule name="Fury of Titan" id="5845-81f6-ba0d-3357" hidden="false">
@@ -10412,7 +10421,7 @@ Each time a model in a **^^Grey Knights^^** unit from your army makes a ranged a
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3f06-4e5" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Augurium Task Force" hidden="false" id="9ed8-0b64-4e6a-5733">
           <rules>
             <rule name="Prescient Redeployment" id="ff5f-b5a9-1735-6b1d" hidden="false">
@@ -10429,7 +10438,7 @@ Each time a model in a **^^Grey Knights^^** unit from your army makes a ranged a
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-9ed8-0b6" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Sanctic Spearhead" hidden="false" id="fb9d-20f7-3a78-22a3">
           <rules>
             <rule name="Mailed Fist" id="7b7c-44a0-ccbd-ecaf" hidden="false">
@@ -10443,7 +10452,7 @@ Each time a model in a **^^Grey Knights^^** unit from your army makes a ranged a
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-fb9d-20f" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Banishers" hidden="false" id="1eb7-d49c-5fd4-9906">
           <rules>
             <rule name="Channelled Force" id="c4f2-c8d1-6e71-08bb" hidden="false">
@@ -10459,7 +10468,7 @@ Each time a model in a **^^Grey Knights^^** unit from your army makes a ranged a
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-1eb7-d49" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Void Purge Force" hidden="false" id="ae8e-359f-01ff-52d1">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -10508,7 +10517,7 @@ You can include up to one of the following units:
           <infoLinks>
             <infoLink targetId="5622-43f1-c599-8ec7" id="559a-8d90-50d0-0308" type="rule" name="Eye of the Prognosticars" hidden="false" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-ae8e-359" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Baneslayer Strike" hidden="false" id="29c0-f8cf-111e-a87c">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -10545,9 +10554,9 @@ You can include up to two of each of the following units:
           <infoLinks>
             <infoLink targetId="5622-43f1-c599-8ec7" id="f1b9-c1de-cdea-678c" type="rule" name="Eye of the Prognosticars" hidden="false" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-29c0-f8c" includeChildSelections="true" /></constraints></selectionEntry>
       </selectionEntries>
-    </selectionEntryGroup>
+    <constraints><constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-f7f3-a06" includeChildSelections="true" /></constraints><modifiers><modifier type="set" value="3" field="dpmax-f7f3-a06"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-f7f3-a06"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
     <selectionEntryGroup name="Crusade" id="1f2e-4c6b-19f2-30e0" hidden="false" collapsible="true">
       <entryLinks>
         <entryLink import="true" name="Experience Points" hidden="false" id="dca1-46c4-64a2-c8fc" type="selectionEntry" targetId="2dbf-4d49-5d74-85c9" sortIndex="1" />
@@ -13111,7 +13120,7 @@ The bearer can use this Crusade Relic to be given a Psychic Fortitude Battle Tra
         <entryLink import="true" name="Boarding Actiions Upgrades" hidden="false" id="bace-cc13-3e50-7510" type="selectionEntryGroup" targetId="3167-0f5b-caba-d96e" />
       </entryLinks>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="3db2-2604-b4eb-c2fb" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Boons of Deimos" hidden="false" id="adec-02ab-a1e2-b5c2"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="3a38-55c6-6faf-c226" includeChildSelections="true" /></constraints><profiles><profile name="Boons of Deimos" typeId="e1f9-80b5-6bc7-21f3" typeName="Abilities" hidden="false" id="b4ba-5926-78db-ce64"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Purgation Squad unit only. The unit's ranged attacks get +2 Strength.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="00f3-afeb-2dd9-f174" shared="true" id="92fe-1a3c-389d-d2f4" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Fires Of Purgation</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Precognicient Volleys" hidden="false" id="fbce-e49a-8f5d-a176"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="c8fb-5326-903e-18bd" includeChildSelections="true" /></constraints><profiles><profile name="Precognicient Volleys" typeId="e1f9-80b5-6bc7-21f3" typeName="Abilities" hidden="false" id="2c2c-d06d-69f8-a7c7"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="00f3-afeb-2dd9-f174" shared="true" id="7f24-c170-81c9-b0dd" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Fires Of Purgation</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Astral Overlap" hidden="false" id="0659-9c14-f06e-8770"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="28ea-0d54-5854-07ef" includeChildSelections="true" /></constraints><profiles><profile name="Astral Overlap" typeId="e1f9-80b5-6bc7-21f3" typeName="Abilities" hidden="false" id="ca91-dae5-20a0-2615"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Interceptor Squad unit only. The unit gains Stealth.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="1114-b8ed-d7b3-6ecc" shared="true" id="ede3-f23e-4b0e-e7dc" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Immaterial Interdiction</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Predestined Coordinates" hidden="false" id="dcd7-9f88-13a0-960f"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8ee0-d68f-e1d9-cdfe" includeChildSelections="true" /></constraints><profiles><profile name="Predestined Coordinates" typeId="e1f9-80b5-6bc7-21f3" typeName="Abilities" hidden="false" id="94db-6ff8-a6d0-c07f"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="1114-b8ed-d7b3-6ecc" shared="true" id="f17a-295b-1882-a7fa" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Immaterial Interdiction</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <entryLinks>
     <entryLink import="true" name="Brother-Captain" hidden="false" type="selectionEntry" id="8421-ca98-c324-ec3a" targetId="dce9-6eb4-fa33-e869" />
     <entryLink import="true" name="Brother-Captain Stern [Legends]" hidden="false" type="selectionEntry" id="1712-989f-bbec-8109" targetId="aec2-ded6-fa0-3b75" />
