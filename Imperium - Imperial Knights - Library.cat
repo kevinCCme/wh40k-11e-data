@@ -7461,10 +7461,10 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <selectionEntries><selectionEntry type="upgrade" import="true" name="Dominus Foebreakers" hidden="false" id="7123-1b5d-653f-a5e7"><rules><rule name="Rain Of Devastation" id="7e6d-dd3c-ed42-3d7d" hidden="false"><description>Attacks made by friendly Imperial Knights Dominus units against an enemy unit within a terrain feature get +1 to hit.
 
 STRATAGEMS:
-- Foebreaker Firestorm (1CP, Your Shooting phase, when a friendly engaged Imperial Knights Dominus unit shoots.): Until the end of the phase, that unit's [BLAST] ranged weapons lose the [BLAST] ability and gain +1 Attack.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Throne-Bonded Outriders" hidden="false" id="5d39-fe26-9cd0-a1cb"><rules><rule name="Driven From Their Lairs" id="543d-bc17-f9cd-c73c" hidden="false"><description>While a friendly Armiger unit is affected by a Bondsman ability, that unit's ranged attacks gain [IGNORES COVER]. This detachment cannot be taken alongside another Armigers detachment.
+- Foebreaker Firestorm (1CP, Your Shooting phase, when a friendly engaged Imperial Knights Dominus unit shoots.): Until the end of the phase, that unit's [BLAST] ranged weapons lose the [BLAST] ability and gain +1 Attack.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-7123-1b5" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Throne-Bonded Outriders" hidden="false" id="5d39-fe26-9cd0-a1cb"><rules><rule name="Driven From Their Lairs" id="543d-bc17-f9cd-c73c" hidden="false"><description>While a friendly Armiger unit is affected by a Bondsman ability, that unit's ranged attacks gain [IGNORES COVER]. This detachment cannot be taken alongside another Armigers detachment.
 
 STRATAGEMS:
-- Neural Lash (1CP, Your Command phase.): Select one friendly Imperial Knights Titanic unit, then select one friendly battle-shocked Armiger unit within 12" of it; that Armiger unit is no longer battle-shocked.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+- Neural Lash (1CP, Your Command phase.): Select one friendly Imperial Knights Titanic unit, then select one friendly battle-shocked Armiger unit within 12" of it; that Armiger unit is no longer battle-shocked.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5d39-fe2" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Valourstrike Lance" id="e424-58f3-8e79-19a6">
           <rules>
             <rule name="Bold Gallantry" id="92f9-bfbb-ce23-f12a" hidden="false">
@@ -7474,7 +7474,7 @@ STRATAGEMS:
           <infoLinks>
             <infoLink name="Assault" id="0b9b-7084-d257-0fd8" hidden="false" type="rule" targetId="fc8a-8c24-bae9-cc1c" />
           </infoLinks>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e424-58f" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Questor Forgepact" id="9a4a-a4c8-a16a-c969">
           <rules>
             <rule name="Cogbound Alliance" id="8558-649f-07a3-13ee" hidden="false">
@@ -7496,7 +7496,7 @@ Divine Inspiration: Each time a model in this unit makes a ranged attack, re‑r
 No ADEPTUS MECHANICUS models from your army can be your WARLORD.</description>
             </rule>
           </rules>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9a4a-a4c" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Gate Warden Lance" id="884c-fbb7-9f22-1297">
           <rules>
             <rule name="Dauntless Defenders" id="f5bc-534b-8e6d-53fb" hidden="false">
@@ -7517,7 +7517,7 @@ Each time one of your foundations is removed from the battlefield (e.g. by a Pri
               </characteristics>
             </profile>
           </profiles>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-884c-fbb" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Questoris Companions" id="a692-b024-09d9-b79f">
           <rules>
             <rule name="Heroes of Legend" id="310a-eb31-9066-259b" hidden="false">
@@ -7529,7 +7529,7 @@ The Qualities from Oaths you have fulfilled continue to apply to all models in y
               <description>The Enhancements for this detachment can become expended. You cannot use such Enhancements while they are expended. Each time you fulfil your Oath, each expended Enhancement is no longer expended.</description>
             </rule>
           </rules>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a692-b02" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Spearhead-at-Arms" id="d469-239c-7e4c-4210">
           <rules>
             <rule name="Knightly Teachings" id="cbdf-f7c7-5729-419a" hidden="false">
@@ -7539,7 +7539,7 @@ The Qualities from Oaths you have fulfilled continue to apply to all models in y
               <description>**^^Armiger^^** models from your army gain the **^^Battleline^^** keyword.</description>
             </rule>
           </rules>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d469-239" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Freeblade Company" id="4e8e-50db-0d32-423c">
           <rules>
             <rule name="Knights of Legend" id="762c-3127-9381-5daa" hidden="false">
@@ -7553,7 +7553,7 @@ The Qualities from Oaths you have fulfilled continue to apply to all models in y
               </modifiers>
             </infoLink>
           </infoLinks>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-4e8e-50d" /></constraints></selectionEntry>
       </selectionEntries>
       <constraints>
         <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="b27-2395-910d-8372" includeChildSelections="false" />

@@ -8718,10 +8718,10 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Brazen Engines" hidden="false" id="a5c7-3912-757b-ba89"><rules><rule name="Rampaging Terrors" id="f57e-7605-634b-3ffd" hidden="false"><description>Friendly Daemon Vehicle units gain Terror of Khorne: at the start of the Fight phase, select one enemy unit engaged with the Daemon Vehicle and force that enemy unit to take a Battle-shock test with -1 to the roll.
 
 STRATAGEMS:
-- Apoplectic Clarity (1CP, Your Shooting phase or the Fight phase, when a friendly Daemon Vehicle unit is selected to attack.): That unit's attacks can ignore modifiers to its Ballistic Skill, Weapon Skill, Hit rolls and Wound rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Butchers Of Khorne" hidden="false" id="57c0-ef13-28ce-0731"><rules><rule name="Adamantine Avalanche" id="20f7-d5a0-2417-afa2" hidden="false"><description>At the start of the Fight phase, if a friendly Terminator Squad unit is engaged, make a Blessings of Khorne roll and activate one Blessing of Khorne. Until the end of the phase that Blessing is active for friendly Terminator Squad units, in addition to any other Blessings of Khorne already active.
+- Apoplectic Clarity (1CP, Your Shooting phase or the Fight phase, when a friendly Daemon Vehicle unit is selected to attack.): That unit's attacks can ignore modifiers to its Ballistic Skill, Weapon Skill, Hit rolls and Wound rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a5c7-391" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Butchers Of Khorne" hidden="false" id="57c0-ef13-28ce-0731"><rules><rule name="Adamantine Avalanche" id="20f7-d5a0-2417-afa2" hidden="false"><description>At the start of the Fight phase, if a friendly Terminator Squad unit is engaged, make a Blessings of Khorne roll and activate one Blessing of Khorne. Until the end of the phase that Blessing is active for friendly Terminator Squad units, in addition to any other Blessings of Khorne already active.
 
 STRATAGEMS:
-- A Trophy for the Throne (1CP, Fight phase, when a friendly Terminator Squad unit is selected to fight.): That unit's attacks that target a Monster or Vehicle unit gain +1 to Wound rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+- A Trophy for the Throne (1CP, Fight phase, when a friendly Terminator Squad unit is selected to fight.): That unit's attacks that target a Monster or Vehicle unit gain +1 to Wound rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-57c0-ef1" /></constraints></selectionEntry>
             <selectionEntry id="3490-ec82-70b3-c5cf" name="Berzerker Warband" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
                 <cost name="pts" typeId="51b2-306e-1021-d207" value="0" />
@@ -8731,12 +8731,12 @@ STRATAGEMS:
                   <description>Each time a ^^**World Eaters^^** unit from your army makes a Charge move, until the end of the turn, add 1 to the Attacks characteristic and add 2 to the Strength characteristic of melee weapons equipped by models in that unit.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3490-ec8" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Vessels of Wrath" hidden="false" id="70d9-0c7a-6b46-65fa">
               <infoLinks>
                 <infoLink name="Wrath of Khorne" id="7328-609a-e1fc-56e9" hidden="false" type="rule" targetId="269f-6b39-4a8e-0872" />
               </infoLinks>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-70d9-0c7" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Cult of Blood" hidden="false" id="9c45-483a-44b9-536c">
               <rules>
                 <rule name="Idols of Khorne" id="a16e-406b-5111-da3f" hidden="false">
@@ -8758,7 +8758,7 @@ While a friendly ^^**Jakhals^^** or ^^**Goremongers^^** unit is within 6" of thi
 ^^**Jakhals^^** or ^^**Goremongers^^** units from your army have the ^^**Battleline^^** keyword.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9c45-483" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Khorne Daemonkin" hidden="false" id="1558-660f-466b-a087">
               <rules>
                 <rule name="Blood Tithe" id="ece7-477d-069f-b782" hidden="false">
@@ -8781,7 +8781,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
 ^^**Blood Legions^^** units from your army gain the Blessings of Khorne ability.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-1558-660" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Possessed Slaughterband" hidden="false" id="dda8-a874-feac-1f81">
               <rules>
                 <rule name="Brazen Fury" id="4d60-d00d-497d-ca18" hidden="false">
@@ -8791,14 +8791,14 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
 **Brazen Fury**: In your opponent's Shooting phase, each time an enemy unit has shot, if any models from this unit were destroyed as a result of those attacks, this unit can make a Brazen Fury move. To do so, roll one D6: models in this unit move a number of inches up to the result of this roll, but this unit must end that move as close as possible to the closest enemy unit (excluding ^^**Aircraft^^**). When doing so, those models can be moved within Engagement Range of that enemy unit. This unit cannot make a Brazen Fury move while Battle-shocked or within Engagement Range of one or more enemy units, and can only make one Brazen Fury move per phase.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-dda8-a87" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Goretrack Onslaught" hidden="false" id="8a29-5bbd-3ee6-b64a">
               <rules>
                 <rule name="Rush to the Fray" id="2b4b-2f29-7f3f-e161" hidden="false">
                   <description>Each time a ^^**World Eaters^^** unit from your army disembarks from a ^^**Transport^^**, until then end of the turn, add 1 to Charge rolls made for that unit and that unit's melee weapons have the [Lance] ability.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-8a29-5bb" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-8b1e-8d5"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-8b1e-8d5"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>

@@ -5505,7 +5505,7 @@ STRATAGEMS:
 - Inviolate Jurisdiction (1CP, Opponent's Shooting or Fight phase): A targeted Infantry unit near an objective marker gains Feel No Pain 5+.
 - Execution Order (2CP, Command phase): All weapons targeting one chosen enemy Character gain Precision until your next Command phase.
 - Line of Fire (1CP, Shooting phase): Your models may target enemy units that are within Engagement Range of friendly units, so long as they are within 12 inches.
-- Exact Punishment (1CP, Opponent's Shooting phase): A unit within 6 inches of a just-destroyed Agents unit may immediately shoot as if it were your Shooting phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Ordo Malleus, Daemon Hunters" hidden="false" id="534e-0a04-1cce-c1b7"><rules><rule name="Destroy The Daemonic" id="9111-ac19-93f1-eb96" hidden="false"><description>Inquisitor, Inquisitorial Agents and Ordo Malleus models re-roll hit rolls of 1; against Daemon targets they also re-roll wound rolls of 1.
+- Exact Punishment (1CP, Opponent's Shooting phase): A unit within 6 inches of a just-destroyed Agents unit may immediately shoot as if it were your Shooting phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-6038-ee0" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Ordo Malleus, Daemon Hunters" hidden="false" id="534e-0a04-1cce-c1b7"><rules><rule name="Destroy The Daemonic" id="9111-ac19-93f1-eb96" hidden="false"><description>Inquisitor, Inquisitorial Agents and Ordo Malleus models re-roll hit rolls of 1; against Daemon targets they also re-roll wound rolls of 1.
 
 STRATAGEMS:
 - Ritual of Warding (1CP, Start of Command phase): One objective marker becomes Warded, staying under your control even with no models in range, and enemy Daemon units cannot be set up within 6 inches of it.
@@ -5513,7 +5513,7 @@ STRATAGEMS:
 - Steel Heart (1CP, Movement phase (after Falling Back)): Your unit can still shoot and declare a charge this turn despite having Fallen Back.
 - Truesilver Armour (1CP, Opponent's Shooting or Fight phase): Worsen the Armour Penetration of attacks targeting your unit by 1.
 - Hexagrammic Wards (1CP, Opponent's Shooting or Fight phase): All Psychic weapons in the attacking unit gain Hazardous.
-- Psybolt Ammunition (1CP, Shooting phase): Ranged weapons in your unit gain Lethal Hits and the Psychic keyword.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Ordo Xenos, Alien Hunters" hidden="false" id="9b16-e62d-a78f-f29c"><rules><rule name="Deathwatch Mission Tactics" id="47ec-a88b-4c90-1daa" hidden="false"><description>At the start of your Command phase, choose one Mission Tactic for all Deathwatch units until your next Command phase; each may only be chosen once per battle. Furor: weapons gain Sustained Hits 1. Malleus: weapons gain Lethal Hits. Purgatus: on a Critical Wound, attacks gain Precision.
+- Psybolt Ammunition (1CP, Shooting phase): Ranged weapons in your unit gain Lethal Hits and the Psychic keyword.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-534e-0a0" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Ordo Xenos, Alien Hunters" hidden="false" id="9b16-e62d-a78f-f29c"><rules><rule name="Deathwatch Mission Tactics" id="47ec-a88b-4c90-1daa" hidden="false"><description>At the start of your Command phase, choose one Mission Tactic for all Deathwatch units until your next Command phase; each may only be chosen once per battle. Furor: weapons gain Sustained Hits 1. Malleus: weapons gain Lethal Hits. Purgatus: on a Critical Wound, attacks gain Precision.
 
 STRATAGEMS:
 - Armour of Contempt (1CP, Opponent's Shooting or Fight phase): Worsen the Armour Penetration of attacks targeting your unit by 1.
@@ -5521,7 +5521,7 @@ STRATAGEMS:
 - Hellfire Rounds (1CP, Shooting phase): Your unit's ranged weapons (excluding Devastating Wounds weapons) gain Anti-Infantry 2+ and Anti-Monster 5+.
 - Dragonfire Rounds (1CP, Shooting phase): Your unit's ranged weapons gain Assault and Ignores Cover.
 - Kraken Rounds (1CP, Shooting phase): Improve the Armour Penetration of your unit's ranged weapons by 1 and add 6 inches to their Range.
-- Rapid Tactical Relocation (1CP, End of opponent's Fight phase): Remove your unit; in your next Movement phase Reinforcements step, set it up anywhere more than 9 inches horizontally from all enemy models.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+- Rapid Tactical Relocation (1CP, End of opponent's Fight phase): Remove your unit; in your next Movement phase Reinforcements step, set it up anywhere more than 9 inches horizontally from all enemy models.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9b16-e62" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Alien Hunters (Ordo Xenos)" hidden="false" id="aabf-4988-4054-bed2">
               <rules>
                 <rule name="Deathwatch Mission Tactics" id="e9d9-5b1a-3377-bf4f" hidden="false">
@@ -5540,7 +5540,7 @@ While this Mission Tactic is active, weapons equipped by ^^Deathwatch^^ units fr
 While this Mission Tactic is active, each time a ^^Deathwatch^^ model from your army makes an attack, on a Critical Wound, that attack has the [PRECISION] ability.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-aabf-498" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Purgation Force (Ordo Hereticus)" hidden="false" id="cfc6-5531-53cb-1964">
               <rules>
                 <rule name="Root Out Heresy" id="9e60-00d6-ecf7-929f" hidden="false">
@@ -5550,14 +5550,14 @@ While this Mission Tactic is active, each time a ^^Deathwatch^^ model from your 
 Each time an ^^Adeptus Arbites, Inquisitor, Inquisitorial Agents^^ or ^^Ordo Hereticus^^ model from your army makes an attack that targets a ^^Chaos^^ unit containing 5 or more models, that attack has the [SUSTAINED HITS 1] ability.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-cfc6-553" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Daemon Hunters (Ordo Malleus)" hidden="false" id="bd6f-97c7-6ac4-8320">
               <rules>
                 <rule name="Destroy the Daemonic" id="e6e1-7189-70a5-f53b" hidden="false">
                   <description>Each time an ^^Inquisitor, Inquisitorial Agents^^ or ^^Ordo Malleus^^ model from your army makes an attack, re-roll a Hit roll of 1 and, if the target is a ^^Daemon^^ unit, re-roll a Wound roll of 1 as well.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-bd6f-97c" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Imperialis Fleet" hidden="false" id="5347-93e5-b3f2-366d">
               <rules>
                 <rule name="At All Costs" id="dd5f-5aac-a976-1d59" hidden="false">
@@ -5572,7 +5572,7 @@ Select one enemy unit on the battlefield. Until the start of your next Command p
 Select one objective marker on the battlefield. Until the start of your next Command phase, while an ^^Agents of the Imperium^^ unit from your army is within range of that objective marker, improve the Leadership and Objective Control characteristics of models in that unit by 1 and models in that unit have a 5+ invulnerable save.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5347-93e" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Veiled Blade Elimination Force" hidden="false" id="e203-73dc-18d9-f390">
               <rules>
                 <rule name="Extremis Sanction" id="1da6-2e09-b9c2-9504" hidden="false">
@@ -5581,7 +5581,7 @@ Select one objective marker on the battlefield. Until the start of your next Com
 When mustering your army, each ^^Officio Assassinorum^^ unit from your army has the relevant Extremis ability, and you must increase the points cost of each of those units by the amount shown. If this causes your army to exceed the points limit for the battle you are playing, you cannot include that unit in your army.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e203-73d" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-bd35-3b8"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-bd35-3b8"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>

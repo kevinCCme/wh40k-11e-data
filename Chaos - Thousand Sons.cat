@@ -2134,13 +2134,13 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Ritual Of Regeneration" hidden="false" id="18b8-b316-5af2-d0df"><rules><rule name="Ritual Of Regeneration" id="9df7-5248-e4bb-3f94" hidden="false"><description>When a friendly Thousand Sons Psyker unit (excluding Monsters) successfully manifests a Ritual, that unit heals D3 wounds, once per turn per unit.
 
 STRATAGEMS:
-- Mutagenic Magicks (1CP, Start of the Fight phase.): Pick a friendly engaged Psyker, which selects one enemy unit; roll six D6, inflicting 1 mortal wound for each 4+.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Sekhetar Cohort" hidden="false" id="af10-3db9-05a8-57b9"><rules><rule name="Sekhetar Cohort" id="cd8b-4299-5b88-ac5f" hidden="false"><description>Sekhetar Robots gain psychic attacks; friendly Psykers within 12" grant +1 Weapon Skill to Sekhetar Robots' melee attacks.
+- Mutagenic Magicks (1CP, Start of the Fight phase.): Pick a friendly engaged Psyker, which selects one enemy unit; roll six D6, inflicting 1 mortal wound for each 4+.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-18b8-b31" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Sekhetar Cohort" hidden="false" id="af10-3db9-05a8-57b9"><rules><rule name="Sekhetar Cohort" id="cd8b-4299-5b88-ac5f" hidden="false"><description>Sekhetar Robots gain psychic attacks; friendly Psykers within 12" grant +1 Weapon Skill to Sekhetar Robots' melee attacks.
 
 STRATAGEMS:
-- Warp Fields (1CP, Your opponent's Shooting phase, when a nearby friendly Sekhetar Robots unit is targeted.): Ranged attacks with Strength greater than the unit's Toughness suffer -1 to wound rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Servants Of Change" hidden="false" id="466a-940a-332d-d58c"><rules><rule name="Servants Of Change" id="a308-b1c3-e2dd-ad68" hidden="false"><description>Tzaangors gain the Battleline keyword. When a friendly mutant unit shoots, the target enemy unit gains a 6" detection range.
+- Warp Fields (1CP, Your opponent's Shooting phase, when a nearby friendly Sekhetar Robots unit is targeted.): Ranged attacks with Strength greater than the unit's Toughness suffer -1 to wound rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-af10-3db" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Servants Of Change" hidden="false" id="466a-940a-332d-d58c"><rules><rule name="Servants Of Change" id="a308-b1c3-e2dd-ad68" hidden="false"><description>Tzaangors gain the Battleline keyword. When a friendly mutant unit shoots, the target enemy unit gains a 6" detection range.
 
 STRATAGEMS:
-- Prismatic Displacement (1CP, Your Movement phase, when a friendly Infantry or Mounted Mutant unit Advances or Falls Back.): That unit's ranged attacks gain the Assault ability, and moving does not prevent it from shooting or charging.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+- Prismatic Displacement (1CP, Your Movement phase, when a friendly Infantry or Mounted Mutant unit Advances or Falls Back.): That unit's ranged attacks gain the Assault ability, and moving does not prevent it from shooting or charging.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-466a-940" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Hexwarp Thrallband" hidden="false" id="7b92-cca6-0617-1b6d">
               <rules>
                 <rule name="Flow of Magic" id="9fa6-3c29-04b1-b428" hidden="false">
@@ -2153,7 +2153,7 @@ STRATAGEMS:
 Each time a Thousand Sons model from your army makes a Psychic Attack, re‑roll a Wound roll of 1. If such a model is wholly within your army’s Flow of Magic, each time it makes a Psychic Attack, add 1 to the Wound roll instead.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-7b92-cca" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Grand Coven" hidden="false" id="9aba-cb08-cd38-9e01">
               <rules>
                 <rule name="Kindred Sorcery" id="59b7-88a6-8e96-f854" hidden="false">
@@ -2172,7 +2172,7 @@ Each time a ^^**Thousand Sons^^** model from your army makes an attack with a Ps
 Psychic weapons equipped by ^^**Thousand Sons^^** models in your army have the [Devastating Wounds] ability.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9aba-cb0" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Changehost of Deceit" hidden="false" id="6acc-9928-2b67-73c3">
               <rules>
                 <rule name="Infernal Pacts" id="9cef-5b49-7f6c-e17c" hidden="false">
@@ -2188,7 +2188,7 @@ Psychic weapons equipped by ^^**Thousand Sons^^** models in your army have the [
 **Mortal Sorcery (Aura)**: While a friendly ^^**Scintillating Legions Psyker^^** unit from your army is within 6" of and visible to this unit, that ^^**Scintillating Legions^^** unit has the Cabal of Sorcerers ability.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-6acc-992" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Warpmeld Pact" hidden="false" id="5be7-3aa8-5d64-cbaf">
               <rules>
                 <rule name="Warpmeld Sacrifice" id="051d-bef5-f9ed-7178" hidden="false">
@@ -2199,14 +2199,14 @@ Each time a ^^**Tzeentch Mutant Infantry^^** or ^^**Tzeentch Mutant Mounted^^***
 ^^**Tzaangors^^** units from your army have the Battleline keyword, and while such a unit is not Battle-shocked, add 1 to the Objective Control characteristic of models in that unit.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5be7-3aa" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Rubricae Phalanx" hidden="false" id="7510-5cb8-60fe-61a0">
               <rules>
                 <rule name="All is Dust" id="88a5-7db5-fba3-cf36" hidden="false">
                   <description>Each time an attack with an unmodified Damage characteristic of 1 is allocated to a ^^**Rubricae^^** model from your army, add 1 to any armour saving throw made against that attack.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-7510-5cb" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Warpforged Cabal" hidden="false" id="8839-1789-36e7-b66a">
               <rules>
                 <rule name="Warpfire Infusion" id="5d2b-1237-8705-fb00" hidden="false">
@@ -2218,7 +2218,7 @@ Each time a ^^**Tzeentch Mutant Infantry^^** or ^^**Tzeentch Mutant Mounted^^***
 Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly Demise ability is destroyed while it is within 6" of one or more friendly ^^**Thousand Sons Psyker^^** models, that model's Deadly Demise ability inflicts mortal wounds on a D6 roll of 5+ instead of only a 6.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-8839-178" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-e74a-04a"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-e74a-04a"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>

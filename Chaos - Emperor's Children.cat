@@ -4594,10 +4594,10 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Elegant Brutes" hidden="false" id="74f8-73cc-967e-c03f"><rules><rule name="Elegant Brutes" id="21e4-b1e3-d3a9-8682" hidden="false"><description>Each time a friendly Emperor's Children Terminator unit is set up on the battlefield, it gains +1 to its charge rolls for the rest of that turn.
 
 STRATAGEMS:
-- Warp Plunge (1CP, End of the opponent's Fight phase.): Pick one friendly Emperor's Children Terminator unit that is not engaged and place it into Strategic Reserves.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Frenzied Host" hidden="false" id="f67a-99ea-c714-314a"><rules><rule name="Frenzied Host" id="6222-5a42-75e1-5b4e" hidden="false"><description>Each time a friendly Emperor's Children Battleline unit is selected to Advance or Fall Back, that unit's attacks gain +1 Strength until the end of the turn. (HOST detachment - cannot be combined with another HOST detachment.)
+- Warp Plunge (1CP, End of the opponent's Fight phase.): Pick one friendly Emperor's Children Terminator unit that is not engaged and place it into Strategic Reserves.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-74f8-73c" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Frenzied Host" hidden="false" id="f67a-99ea-c714-314a"><rules><rule name="Frenzied Host" id="6222-5a42-75e1-5b4e" hidden="false"><description>Each time a friendly Emperor's Children Battleline unit is selected to Advance or Fall Back, that unit's attacks gain +1 Strength until the end of the turn. (HOST detachment - cannot be combined with another HOST detachment.)
 
 STRATAGEMS:
-- Possessive Mania (1CP, Opponent's Shooting phase or Fight phase, when an enemy unit selects a friendly Emperor's Children Battleline unit within range of an objective as the target of its attacks.): That Battleline unit's attacks gain -1 AP until that attacking enemy unit has finished making its attacks.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Slaanesh’S Chosen" hidden="false" id="c710-2eb9-d3a7-49d5"><rules><rule name="Internal Rivalries" id="4d1e-41c1-8e56-0b09" hidden="false"><description>Emperor's Children Characters ignore modifiers to their Move, Advance, and Charge rolls. At the start of the battle the Warlord's unit becomes the Favoured Champions; whenever a Character destroys an enemy unit, that Character's unit becomes the new Favoured Champions. Models in the Favoured Champions unit can re-roll Wound rolls.
+- Possessive Mania (1CP, Opponent's Shooting phase or Fight phase, when an enemy unit selects a friendly Emperor's Children Battleline unit within range of an objective as the target of its attacks.): That Battleline unit's attacks gain -1 AP until that attacking enemy unit has finished making its attacks.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f67a-99e" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Slaanesh’S Chosen" hidden="false" id="c710-2eb9-d3a7-49d5"><rules><rule name="Internal Rivalries" id="4d1e-41c1-8e56-0b09" hidden="false"><description>Emperor's Children Characters ignore modifiers to their Move, Advance, and Charge rolls. At the start of the battle the Warlord's unit becomes the Favoured Champions; whenever a Character destroys an enemy unit, that Character's unit becomes the new Favoured Champions. Models in the Favoured Champions unit can re-roll Wound rolls.
 
 STRATAGEMS:
 - Devoted Duellists (1CP, Fight phase): A Character unit's melee weapons gain [SUSTAINED HITS 1] against one selected enemy unit.
@@ -4605,10 +4605,10 @@ STRATAGEMS:
 - Heightened Jealousy (1CP, Shooting or Fight phase): A Character unit that is not the Favoured Champions adds 1 to the Strength of its attacks.
 - Diabolic Majesty (1CP, Shooting or Fight phase): Enemy units within 6" take a Battle-shock test, subtracting 1 from the result.
 - Refusal to Be Outdone (1CP, Charge phase): Add 2 to the selected unit's Charge roll against a chosen enemy unit.
-- Vengeful Surge (1CP, Opponent's Shooting phase): After an enemy unit shoots, the selected unit rolls a D6 and moves that many inches toward the closest enemy unit.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Spectacle Of Slaughter" hidden="false" id="3216-1b3c-6ae8-e882"><rules><rule name="Spectacle Of Slaughter" id="968f-6de0-d3a6-c6ba" hidden="false"><description>Friendly Flawless Blades units have the Fights First ability.
+- Vengeful Surge (1CP, Opponent's Shooting phase): After an enemy unit shoots, the selected unit rolls a D6 and moves that many inches toward the closest enemy unit.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-c710-2eb" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Spectacle Of Slaughter" hidden="false" id="3216-1b3c-6ae8-e882"><rules><rule name="Spectacle Of Slaughter" id="968f-6de0-d3a6-c6ba" hidden="false"><description>Friendly Flawless Blades units have the Fights First ability.
 
 STRATAGEMS:
-- Single-minded Strike (1CP, Charge phase, when a Flawless Blades unit begins a charge move.): That unit can move through enemy models (other than Monsters and Vehicles) during its charge move.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
+- Single-minded Strike (1CP, Charge phase, when a Flawless Blades unit begins a charge move.): That unit can move through enemy models (other than Monsters and Vehicles) during its charge move.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3216-1b3" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Slaanesh's Chosen" hidden="false" id="8635-b1cc-e7bb-e8a1">
               <rules>
                 <rule name="Internal Rivalries" id="26e3-58c8-a7f2-9697" hidden="false">
@@ -4619,7 +4619,7 @@ At the start of the battle, your **^^Warlord^^**'s unit is your army's Favoured 
 Each time a model in your army's Favoured Champions unit makes an attack, you can re-roll the Wound roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-8635-b1c" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Peerless Bladesmen" hidden="false" id="faf3-053d-d290-a3d9">
               <rules>
                 <rule name="Exquisite Swordsmanship" id="39f0-3f81-55b0-5da6" hidden="false">
@@ -4628,14 +4628,14 @@ Each time a model in your army's Favoured Champions unit makes an attack, you ca
 - [^^Sustained Hits 1^^]</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-faf3-053" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Rapid Evisceration" hidden="false" id="26ff-306a-fca9-ebfd">
               <rules>
                 <rule name="Mechanised Murder" id="543c-c7fe-bd85-793c" hidden="false">
                   <description>Each time an ^^**Emperor's Children^^** model from your army makes an attack, if it is a ^^**Transport^^** model or disembarked from a ^^**Transport^^** this turn, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-26ff-306" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Coterie of the Conceited" hidden="false" id="9db8-cf55-983f-9671">
               <rules>
                 <rule name="Pledges to the Dark Prince" id="2aec-b6cb-9185-ff51" hidden="false">
@@ -4649,14 +4649,14 @@ Each time a model in your army's Favoured Champions unit makes an attack, you ca
 7+: Each time a model in this unit makes an attack, a Critical Hit is scored on an unmodified Hit roll of 5+.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9db8-cf5" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Mercurial Host" hidden="false" id="ae45-3e0d-eac7-7edb">
               <rules>
                 <rule name="Quicksilver Grace" id="f70e-ecaa-833d-bbb7" hidden="false">
                   <description>You can re-roll Advance rolls made for **^^Emperor's Children^^** units from your army.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-ae45-3e0" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Carnival of Excess" hidden="false" id="3c9e-2156-254e-66e8">
               <rules>
                 <rule name="Daemonic Empowerment" id="079a-b3a3-72ce-f4de" hidden="false">
@@ -4666,7 +4666,7 @@ Each time a model in your army's Favoured Champions unit makes an attack, you ca
 While a unit from your army is Empowered, weapons equipped by models in that unit have the [^^Sustained Hits 1^^] ability. If such a weapon already has that ability, each time an attack is made with that weapon, an unmodified Hit roll of 5+ scores a Critical Hit.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3c9e-215" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Court of the Phoenician" hidden="false" id="12b9-2601-5150-66f4">
               <rules>
                 <rule name="Sensational Performance" id="b26d-f768-30b7-9556" hidden="false">
@@ -4680,7 +4680,7 @@ While a unit from your army is Empowered, weapons equipped by models in that uni
                   <description>Once per battle round, when you target a ^^**Fulgrim^^** unit from your army with the Sinuous Breach or Prideful Superiority Stratagem, you can reduce the CP cost of that use of that Stratagem by 1CP.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-12b9-260" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-399b-3c2"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-399b-3c2"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>
