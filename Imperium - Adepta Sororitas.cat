@@ -430,7 +430,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="724c-9f6e-2b19-0f2b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Battle Sisters Squad" hidden="false" id="f26d-450d-1c55-caeb" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -725,7 +725,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a5d9-cc34-bc30-f8a6" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Boltgun" hidden="false" id="9378-6ba3-6811-68a7" collective="true">
       <infoLinks>
         <infoLink name="Rapid Fire" hidden="false" type="rule" id="74fc-6ddf-6c62-6ead" targetId="c5c8-8b58-b8b6-7786" />
@@ -1727,7 +1727,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2e3d-7589-4059-537f" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="d378-4bb7-d204-f8eb" name="Celestian Sacresant (Anointed Halberd)" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="b15a-a167-9fa4-2755" name="Celestian Sacresant" hidden="false" targetId="135c-b9f6-befe-a2cc" type="profile" />
@@ -1962,7 +1962,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="16c0-081f-9aaf-0f6b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="d420-94b9-b82b-73e5" name="Celestian Sacresant (Hallowed Mace)" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="dd8b-9ec3-220f-3050" name="Celestian Sacresant" hidden="false" targetId="135c-b9f6-befe-a2cc" type="profile" />
@@ -2836,7 +2836,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9666-ea9a-7a6f-0124" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Exorcist" hidden="false" id="684e-4dd3-340a-23ee" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
@@ -3076,7 +3076,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d46a-9ba5-1f46-c47d" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Hospitaller" hidden="false" id="938e-1c24-4e63-4cf3" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -3750,7 +3750,7 @@ At the start of the Declare Battle Formations step, you can select one BATTLE SI
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="cb1e-a900-a421-46b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Junith Eruita" hidden="false" id="8f9a-8a8b-2539-547f" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
@@ -4299,7 +4299,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d532-e090-6ce3-a6c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Morvenn Vahl" hidden="false" id="7188-4d20-8216-c68a" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="185" />
@@ -5239,7 +5239,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2bd4-0cf9-aaf7-f217" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Penitent Engines" hidden="false" id="327d-a6df-26b-bb9b" publicationId="7d85-6d0f-57e0-5dea">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="5eea-d8b0-be9e-a242" primary="true" name="Vehicle" />
@@ -5541,7 +5541,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5d74-c7b0-7e3c-1ecb" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Ministorum Priest" hidden="false" id="599d-1e2a-eb0e-430e" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="40" />
@@ -6015,7 +6015,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="08da-049f-ed7e-f398" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Retributor Squad" hidden="false" id="c49d-f150-4b3-c118" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="105" />
@@ -6246,7 +6246,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d48b-6e24-6fde-b610" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Saint Celestine" hidden="false" id="21f1-8ed6-52c6-54c7" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="150" />
@@ -6892,7 +6892,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4b9a-7486-aca2-6eb7" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Sisters Novitiate Squad" hidden="false" id="4269-a229-1461-67d0" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -7189,7 +7189,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="abb5-9c22-d257-b99b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Sororitas Rhino" hidden="false" id="52c7-3f6b-cece-8101">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -7348,7 +7348,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1448-1eb8-0646-a9d0" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Triumph of Saint Katherine" hidden="false" id="9f5f-d769-7900-c8a1" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="245" />
@@ -7740,7 +7740,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e2ab-746f-fdee-66dc" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Geminae Superia" hidden="false" id="9516-5ea3-ec42-dcfe">
       <profiles>
         <profile name="Geminae Superia" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="540-3ea-bd3a-e538">
@@ -9468,7 +9468,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2ef1-6a04-6a0d-89fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Autopistol" hidden="false" id="836e-4f46-1837-b270" collective="true">
       <infoLinks>
         <infoLink name="Novitiate autopistol" id="46fe-d226-42eb-6fb3" hidden="false" type="profile" targetId="3e10-d7df-b71c-6af3" />
@@ -9813,7 +9813,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
           </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="9db2-a783-ba90-6138" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Null mace" hidden="false" id="0c2d-0fea-e434-a32e">
       <comment>Insidiants</comment>
       <profiles>
@@ -11040,7 +11040,7 @@ Death Before Disgrace: Each time a PENITENT model from your army is destroyed by
     <selectionEntryGroup name="Enhancements" id="09e3-bb9d-b978-8202" hidden="false" collapsible="true">
       <selectionEntryGroups>
         <selectionEntryGroup name="Army of Faith Enhancements" id="2979-4efb-1ec1-70ed" hidden="false" collapsible="false">
-          <selectionEntries><selectionEntry type="upgrade" import="true" name="Clarion Of Urgency" hidden="false" id="4cfd-d51f-9649-3a6d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="94ec-55ed-5a22-1807" includeChildSelections="true" /></constraints><profiles><profile name="Clarion Of Urgency" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="8ca9-b39b-1eaf-70fe"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="b0be-c3b4-8680-feae" shared="true" id="76e5-a0b3-dd69-c90b" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Chorus Of Condemnation</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Symphonic Payload (Upgrade)" hidden="false" id="5b45-20d3-69c6-5287"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="0984-8d0d-d329-a1f9" includeChildSelections="true" /></constraints><profiles><profile name="Symphonic Payload (Upgrade)" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="66a0-6f01-8106-1ca0"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="b0be-c3b4-8680-feae" shared="true" id="963e-6f2b-c691-2445" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Chorus Of Condemnation</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Perfervid Haste" hidden="false" id="8650-7801-daa9-8b8a"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f0af-f05a-69ca-eb7e" includeChildSelections="true" /></constraints><profiles><profile name="Perfervid Haste" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="7ecf-341f-74ff-d79f"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="0d32-24e6-28b4-afb5" shared="true" id="b03c-03f1-eac7-35e2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Sacred Champions</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Writ Of Compunction (Upgrade)" hidden="false" id="3f63-0ba7-bf43-d791"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="4f48-8b8f-e5bc-451c" includeChildSelections="true" /></constraints><profiles><profile name="Writ Of Compunction (Upgrade)" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="5a4b-fd5d-d86e-97ab"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b">The bearer's Celestian Sacresants unit gains +1 OC.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="0d32-24e6-28b4-afb5" shared="true" id="bd75-877e-2fcc-16da" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Sacred Champions</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Hagiomnifex (Upgrade)" hidden="false" id="852d-6947-8c4b-7435"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="c42f-3a74-c381-76d7" includeChildSelections="true" /></constraints><profiles><profile name="Hagiomnifex (Upgrade)" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="6744-e149-6699-df26"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b">Bearer must be an Adepta Sororitas Character (not a Penitent unit). Once per turn, per unit, at the start of a phase, select one ability: Rite of Revelation (while this unit shoots, enemy units have +6" detection range); Sermon of Intolerance (this unit's Battle-shock tests automatically pass); Catechism of Raging Fervour (+1" Move); Psalm of Righteous Smiting (this unit's attacks gain +1 Strength); Chorus of Repudiation (attacks against this unit with Strength greater than its Toughness suffer -1 to Wound rolls).</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="8982-c250-2507-8c75" shared="true" id="33f5-4514-59a1-5c97" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Sanctified Orators</comment></selectionEntry>
+          <selectionEntries><selectionEntry type="upgrade" import="true" name="Clarion Of Urgency" hidden="false" id="4cfd-d51f-9649-3a6d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="94ec-55ed-5a22-1807" includeChildSelections="true" /></constraints><profiles><profile name="Clarion Of Urgency" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="8ca9-b39b-1eaf-70fe"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="b0be-c3b4-8680-feae" shared="true" id="76e5-a0b3-dd69-c90b" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Chorus Of Condemnation</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Perfervid Haste" hidden="false" id="8650-7801-daa9-8b8a"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f0af-f05a-69ca-eb7e" includeChildSelections="true" /></constraints><profiles><profile name="Perfervid Haste" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="7ecf-341f-74ff-d79f"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="0d32-24e6-28b4-afb5" shared="true" id="b03c-03f1-eac7-35e2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Sacred Champions</comment></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Divine Aspect" hidden="false" id="ea36-91b8-f9d0-524b">
               <profiles>
                 <profile name="Divine Aspect" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="9993-24dd-50ab-77d9">
@@ -14643,7 +14643,7 @@ When you intone Hymns of Battle, you can either select one Hymn to apply to unit
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="fc5f-7b05-faa7-94b9" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Symphonic Payload" hidden="false" id="6d32-57e3-6548-ed10"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="b2e6-90ba-657b-f1d9" includeChildSelections="true" /></constraints><profiles><profile name="Symphonic Payload" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="6ee5-a7cc-2edb-2d28"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="b0be-c3b4-8680-feae" shared="true" id="2eb7-b2c8-4cd8-321c" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Chorus Of Condemnation</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Writ of Compunction" hidden="false" id="4a4a-e1e9-9a59-567d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="0b3f-c5af-24cf-131b" includeChildSelections="true" /></constraints><profiles><profile name="Writ of Compunction" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="af8a-05a9-f910-1a88"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b">The bearer's Celestian Sacresants unit gains +1 OC.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="0d32-24e6-28b4-afb5" shared="true" id="0af5-a853-ee18-1187" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Sacred Champions</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Hagiomnifex" hidden="false" id="006e-4a59-9a95-7a7c"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="5a61-8454-a15a-4cd8" includeChildSelections="true" /></constraints><profiles><profile name="Hagiomnifex" typeId="4ced-f030-661-af4c" typeName="Abilities" hidden="false" id="38ae-bc19-f37d-21bc"><characteristics><characteristic name="Description" typeId="3699-66b5-01a3-2f9b">Bearer must be an Adepta Sororitas Character (not a Penitent unit). Once per turn, per unit, at the start of a phase, select one ability: Rite of Revelation (while this unit shoots, enemy units have +6" detection range); Sermon of Intolerance (this unit's Battle-shock tests automatically pass); Catechism of Raging Fervour (+1" Move); Psalm of Righteous Smiting (this unit's attacks gain +1 Strength); Chorus of Repudiation (attacks against this unit with Strength greater than its Toughness suffer -1 to Wound rolls).</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="8982-c250-2507-8c75" shared="true" id="7ac5-e88a-5111-25ca" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Sanctified Orators</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <entryLinks>
     <entryLink import="true" name="Aestred Thurga and Agathae Dolan" hidden="false" type="selectionEntry" id="29b2-5ee-95ac-8fe9" targetId="4b94-c22e-84f9-8d32" />
     <entryLink import="true" name="Arco-Flagellants" hidden="false" type="selectionEntry" id="f3c2-5612-d827-c8ba" targetId="ca59-3760-5efc-9846" />

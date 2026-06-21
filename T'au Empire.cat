@@ -2775,7 +2775,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="97b4-82de-6213-bdd1" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Pulse pistol" hidden="false" id="4310-a1ce-dde7-70e3" collective="true">
       <comment>BS4+</comment>
       <infoLinks>
@@ -3055,7 +3055,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="485e-cc72-1de6-7bca" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Kroot Carnivores" hidden="false" id="d631-3ca5-e206-4e6a">
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="3e32-9dc4-8879-670d" primary="true" name="Infantry" />
@@ -3129,7 +3129,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
                   </constraints>
                 </entryLink>
               </entryLinks>
-            </selectionEntry>
+            <entryLink id="3393-414c-09ea-573d" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
             <selectionEntry type="model" import="true" name="Kroot Carnivore w/ tanglebomb launcher" hidden="false" id="28df-9a4e-649-f27f" collective="false">
               <constraints>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="91e5-9162-70cf-b4b1" />
@@ -3385,7 +3385,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="02f6-1bf4-b2b6-dd54" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Krootox Riders" hidden="false" id="c523-a2e2-a398-ea00">
       <categoryLinks>
         <categoryLink targetId="14a0-40c9-2748-ae6e" id="1058-9207-5fba-7776" primary="true" name="Mounted" />
@@ -3759,7 +3759,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="cd89-39a7-f41f-63eb" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Crisis Battlesuits [Legends]" hidden="false" id="de16-2476-9749-b603">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="f5f0-e952-6dc3-ed3c" primary="true" name="Vehicle" />
@@ -4554,7 +4554,7 @@ Designer’s Note: Place a Support Turret token next to this unit to remind you.
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="022d-d4f6-d96e-54d0" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Battlesuit fists" hidden="false" id="6cf1-5611-ba26-a9b1" collective="true">
       <comment>Stealth</comment>
       <profiles>
@@ -4891,7 +4891,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="26c7-060c-6ebe-d961" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Firesight Team" hidden="false" id="5fe4-86de-b88c-a47b">
       <categoryLinks>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="596f-7d8-2b91-436a" primary="true" name="Character" />
@@ -5667,7 +5667,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
           </conditionGroups>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="4553-408c-2cb1-f2e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Semi-automatic grenade launcher" hidden="false" id="6af0-a6dd-ddeb-4178" collective="false">
       <profiles>
         <profile name="➤ Semi-automatic grenade launcher - EMP" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="31a1-c5dd-a259-1d89">
@@ -5859,7 +5859,7 @@ Designer’s Note: Place two Stealth Drone tokens next to the unit, removing one
               <comment>Boarding Actions modifiers</comment>
             </modifierGroup>
           </modifierGroups>
-        </selectionEntry>
+        <entryLink id="0d7c-6ae6-5f9d-ba93" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="5813-9a21-20f-db72" />
@@ -6435,7 +6435,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="c33c-1432-4422-7212" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Kroot Hounds" hidden="false" id="6883-85aa-b338-b88">
       <profiles>
         <profile name="Kroot Hounds" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7ea4-6afc-c272-1f86">
@@ -6519,7 +6519,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
                   </conditions>
                 </modifier>
               </modifiers>
-            </selectionEntry>
+            <entryLink id="54d8-13ed-f306-6aab" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
           </selectionEntries>
           <modifiers>
             <modifier type="set" value="Kroot Hounds" field="name">
@@ -6663,7 +6663,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ca20-9b43-a352-3973" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Broadside Battlesuits" hidden="false" id="a594-317-b90a-a226">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="e4b0-23f1-31ee-dd77" primary="true" name="Vehicle" />
@@ -6964,7 +6964,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </characteristics>
         </profile>
       </profiles>
-    </selectionEntry>
+    <entryLink id="5bc0-1add-e917-8e73" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Riptide Battlesuit" hidden="false" id="5d8f-5530-263d-651b">
       <profiles>
         <profile name="Riptide Battlesuit" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="8bbb-ab93-643e-a31e">
@@ -7274,7 +7274,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5a4b-09bb-1e07-11c3" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Hammerhead Gunship" hidden="false" id="ca9-49ab-17c1-8556">
       <profiles>
         <profile name="Hammerhead Gunship" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="a346-fe31-7e8-7628">
@@ -7588,7 +7588,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1f64-eb93-d40b-b1c2" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Sky Ray Gunship" hidden="false" id="bfe0-2e9f-6f57-b48f">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="e39d-73d-72d7-9be7" primary="true" name="Vehicle" />
@@ -7842,7 +7842,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f51e-38c4-6c28-ba4a" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Devilfish" hidden="false" id="14f3-9aa6-21af-7fe3">
       <profiles>
         <profile name="Devilfish" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="3e4c-15ec-7146-f08">
@@ -8044,7 +8044,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="5fcf-d672-1ede-3558" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Razorshark Strike Fighter" hidden="false" id="cac0-2569-67c8-f492">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="1405-32f7-ce52-7444" primary="true" name="Vehicle" />
@@ -8282,7 +8282,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1061-b451-37a1-6322" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Sun Shark Bomber" hidden="false" id="8d6a-3409-52db-a8c">
       <profiles>
         <profile name="Sun Shark Bomber" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="ff15-9eaa-4168-a8d9">
@@ -8538,7 +8538,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5952-ee7e-7515-46f0" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Tidewall Shieldline" hidden="false" id="1d72-cdbd-796f-7c0d">
       <categoryLinks>
         <categoryLink targetId="19d7-9c74-2140-5851" id="ddd0-a8fc-cc68-1dd2" primary="true" name="Fortification" />
@@ -8622,7 +8622,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="4e78-1662-b3e3-d0bc" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Tidewall Droneport" hidden="false" id="af7f-fc61-e9c0-6a7e">
       <profiles>
         <profile name="Tidewall Droneport" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="5799-a1a2-f1ec-9054">
@@ -8707,7 +8707,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="8479-34af-a588-7a1b" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Tidewall Gunrig" hidden="false" id="e412-ea81-6767-9974">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="1baa-b19f-827d-d55e" />
@@ -8787,7 +8787,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="c9ea-fc58-5d87-752d" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Stormsurge" hidden="false" id="439b-e08-4466-e162">
       <profiles>
         <profile name="Stormsurge" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="fe77-ea50-8315-ea79">
@@ -9206,7 +9206,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="91fa-7ee3-7c6d-c3fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Tactical Drones [Legends]" hidden="false" id="f98a-5aa8-9305-2ed">
       <infoLinks>
         <infoLink name="Deep Strike" hidden="false" type="rule" id="cc1c-2dc-484d-febf" targetId="7cb5-dd6b-dd87-ad3b" />
@@ -9435,7 +9435,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
               </profiles>
             </selectionEntry>
           </selectionEntries>
-        </selectionEntry>
+        <entryLink id="110a-e8cb-5568-6c49" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
         <selectionEntryGroup name="Kroot Farstalkers" hidden="false" id="42b3-7f9a-d4eb-5d6f" sortIndex="4">
@@ -9817,7 +9817,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="5c54-b874-ba43-147a" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Kroot pistol" hidden="false" id="591e-d6ae-6069-c203" collective="true">
       <profiles>
         <profile name="Kroot pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="ae6e-a965-67d4-2f29">
@@ -11167,7 +11167,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="60d8-38f6-b9ea-c88e" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Barracuda [Legends]" hidden="false" id="a422-6066-1c3a-f021">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="c504-da78-d1d0-2d3a" />
@@ -11860,7 +11860,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="731c-741c-cbb4-d341" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="AX-1-0 Tiger Shark" hidden="false" id="6a78-555-46c7-999b">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="2545-93dc-50b4-6fa9" />
@@ -12128,7 +12128,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           <comment>Boarding Actions modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="292b-5065-6eaf-149e" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Manta" hidden="false" id="8e75-7545-e43b-7c67">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="9569-6823-480d-2866" />
@@ -12415,7 +12415,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="059a-c841-8388-b53f" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Orca Dropship [Legends]" hidden="false" id="49c0-f84c-18c4-6377">
       <profiles>
         <profile name="Orca Dropship" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6ff7-c14f-a7f6-a4c3">
@@ -14500,7 +14500,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a09f-e332-cecf-0c75" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Crisis Fireknife Battlesuits" hidden="false" id="9373-d0b3-94c9-e47">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="db2b-1da9-29de-e77e" primary="true" name="Vehicle" />
@@ -14800,7 +14800,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7386-94c2-77f8-b712" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Crisis Starscythe Battlesuits" hidden="false" id="fb32-c683-b38f-d339">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="420f-ef0d-9da1-3bbc" primary="true" name="Vehicle" />
@@ -15101,7 +15101,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="87d1-7ad2-ebf5-8cf5" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Kroot Trail Shaper" hidden="false" id="2ebe-a524-656d-7f0e">
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="29a3-bcf8-5b5e-d22f" primary="false" name="Infantry" />
@@ -16005,7 +16005,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
                   </constraints>
                 </entryLink>
               </entryLinks>
-            </selectionEntry>
+            <entryLink id="7b49-7915-e87e-f19c" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
           </selectionEntries>
           <constraints>
             <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="3eb6-f0b3-c750-edcd" includeChildSelections="false" />
@@ -16104,7 +16104,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a4a5-9f7a-d3c2-8834" name="Upgrades" hidden="false" collective="false" import="true" targetId="6a28-e2f3-cb42-3c90" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Core World" hidden="false" id="1b84-2f37-a5e7-f74a">
       <comment>Crusade Star System tracker</comment>
     </selectionEntry>
@@ -18201,7 +18201,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
     <selectionEntryGroup name="Enhancements" id="fae2-569a-6bec-9167" flatten="false" collapsible="true">
       <selectionEntryGroups>
         <selectionEntryGroup name="Kauyon Enhancements" hidden="false" id="b5fb-aa7c-e6c4-6c25" flatten="false" collapsible="false">
-          <selectionEntries><selectionEntry type="upgrade" import="true" name="Negation Emitters (Upgrade)" hidden="false" id="dec6-accf-906b-e107"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="dc06-6491-a202-8f3d" includeChildSelections="true" /></constraints><profiles><profile name="Negation Emitters (Upgrade)" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="7566-4544-44c1-b261"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="5f82-4f24-4ce2-6295" shared="true" id="6213-ac43-c5b2-54c5" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Advanced Acquisition Cadre</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Unmasking Suite (Upgrade)" hidden="false" id="a33c-677a-609d-6356"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="7de5-8338-c7d5-8cc9" includeChildSelections="true" /></constraints><profiles><profile name="Unmasking Suite (Upgrade)" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="4d29-0342-a176-e1b5"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer's unit reveals enemy targets within 24", extending detection range by 9" until its attacks are resolved.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="5f82-4f24-4ce2-6295" shared="true" id="853d-6031-e478-bd0f" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Advanced Acquisition Cadre</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Coordinated Exploitation" hidden="false" id="00df-9659-db04-9efb"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="02c8-ac28-bb65-263f" includeChildSelections="true" /></constraints><profiles><profile name="Coordinated Exploitation" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="bd28-966e-7252-adee"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">While the bearer's unit acts as an Observer, ranged weapons in the resulting Guided units gain [SUSTAINED HITS 1] against their Spotted unit.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="0dd0-2ca7-7344-a8f7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Mont’Ka</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Exemplar Of The Mont’Ka" hidden="false" id="50d1-27f1-8b3d-10b8"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6dc1-bb01-2dfc-46bf" includeChildSelections="true" /></constraints><profiles><profile name="Exemplar Of The Mont’Ka" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="82b0-1c04-12df-d449"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The unit the bearer leads also benefits from Killing Blow during battle round 4.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="e866-86d1-8124-05ad" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Mont’Ka</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Strategic Conqueror" hidden="false" id="3b20-ed78-9f7b-00dd"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="3264-9fc7-677b-399d" includeChildSelections="true" /></constraints><profiles><profile name="Strategic Conqueror" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="21b4-e4bd-da57-93b0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of battle round 1, choose an objective marker. While the bearer is on the battlefield, friendly T'au Empire models within range of that objective get +1 Objective Control.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="03a6-5737-04f8-4eb6" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Mont’Ka</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Strike Swiftly" hidden="false" id="24fa-4d0c-57c1-a302"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="05e4-7fbc-2d79-f0d9" includeChildSelections="true" /></constraints><profiles><profile name="Strike Swiftly" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="e39f-0b1d-6d98-ee29"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, before Scouts moves, pick up to two friendly T'au Empire units within 6" of the bearer that lack Scouts; for the rest of the battle those units have Scouts 6".</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="1a91-19b4-fc0e-bb56" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="35" /></costs><comment>Mont’Ka</comment></selectionEntry>
+          <selectionEntries><selectionEntry type="upgrade" import="true" name="Coordinated Exploitation" hidden="false" id="00df-9659-db04-9efb"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="02c8-ac28-bb65-263f" includeChildSelections="true" /></constraints><profiles><profile name="Coordinated Exploitation" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="bd28-966e-7252-adee"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">While the bearer's unit acts as an Observer, ranged weapons in the resulting Guided units gain [SUSTAINED HITS 1] against their Spotted unit.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="0dd0-2ca7-7344-a8f7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Mont’Ka</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Exemplar Of The Mont’Ka" hidden="false" id="50d1-27f1-8b3d-10b8"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6dc1-bb01-2dfc-46bf" includeChildSelections="true" /></constraints><profiles><profile name="Exemplar Of The Mont’Ka" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="82b0-1c04-12df-d449"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The unit the bearer leads also benefits from Killing Blow during battle round 4.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="e866-86d1-8124-05ad" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Mont’Ka</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Strategic Conqueror" hidden="false" id="3b20-ed78-9f7b-00dd"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="3264-9fc7-677b-399d" includeChildSelections="true" /></constraints><profiles><profile name="Strategic Conqueror" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="21b4-e4bd-da57-93b0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of battle round 1, choose an objective marker. While the bearer is on the battlefield, friendly T'au Empire models within range of that objective get +1 Objective Control.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="03a6-5737-04f8-4eb6" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Mont’Ka</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Strike Swiftly" hidden="false" id="24fa-4d0c-57c1-a302"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="05e4-7fbc-2d79-f0d9" includeChildSelections="true" /></constraints><profiles><profile name="Strike Swiftly" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="e39f-0b1d-6d98-ee29"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">At the start of the battle, before Scouts moves, pick up to two friendly T'au Empire units within 6" of the bearer that lack Scouts; for the rest of the battle those units have Scouts 6".</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="619e-842b-c4a5-de9d" shared="true" id="1a91-19b4-fc0e-bb56" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="35" /></costs><comment>Mont’Ka</comment></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Exemplar of the Kauyon" hidden="false" id="6588-706c-183-89b6">
               <profiles>
                 <profile name="Exemplar of the Kauyon" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="1ba9-54fb-8c-3672">
@@ -24121,7 +24121,7 @@ You can include up to one of the following units:
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="6a28-e2f3-cb42-3c90" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Negation Emitters" hidden="false" id="f169-a28c-8287-550c"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f606-5476-9c42-f0cd" includeChildSelections="true" /></constraints><profiles><profile name="Negation Emitters" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="377c-e097-1e20-d6cb"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="5f82-4f24-4ce2-6295" shared="true" id="7be6-9f07-a3e6-e507" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Advanced Acquisition Cadre</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Unmasking Suite" hidden="false" id="40bc-ab20-89d5-1ad1"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="184b-0873-7013-a365" includeChildSelections="true" /></constraints><profiles><profile name="Unmasking Suite" typeId="7c13-8707-b827-3d35" typeName="Abilities" hidden="false" id="0e90-b46b-b1ed-8ca4"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer's unit reveals enemy targets within 24", extending detection range by 9" until its attacks are resolved.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="5f82-4f24-4ce2-6295" shared="true" id="57d5-1e57-6438-d4a9" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Advanced Acquisition Cadre</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <categoryEntries>
     <categoryEntry name="Shaper" hidden="false" id="39f9-dcd3-1e80-fa1f" />
     <categoryEntry name="Kroot" hidden="false" id="79c5-9fc4-7b97-7c3f" />

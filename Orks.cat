@@ -321,7 +321,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="77c2-fa82-adab-b4a7" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Beast Snagga Boyz" hidden="false" id="b7c3-d00e-daf2-76fb">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="roster" shared="true" id="dbc9-b7ab-7cf8-3765" />
@@ -688,7 +688,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6e6e-181d-e2c3-fdb3" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Slugga" hidden="false" id="752e-cd9b-4721-f0b0" collective="false">
       <comment>BS5+</comment>
       <profiles>
@@ -2246,7 +2246,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
       </costs>
-    </selectionEntry>
+    <entryLink id="ca3e-1b1a-5878-89bd" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Big shoota" hidden="false" id="1fa0-d99a-154f-ffd8" collective="false">
       <profiles>
         <profile name="Big shoota" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="7984-498c-477b-98ae">
@@ -2426,7 +2426,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a1ea-4b4f-f82c-0750" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin supa-shoota" hidden="false" id="7c7-2cc-12e-c710">
       <profiles>
         <profile name="Twin supa-shoota" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="169f-aa32-d982-1f5a">
@@ -2636,7 +2636,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5a0f-20f8-68e4-ca60" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Grot blasta" hidden="false" id="140d-7163-8a11-81c5" collective="false">
       <profiles>
         <profile name="Grot blasta" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c1fd-a27d-7de7-e6f1">
@@ -3427,7 +3427,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6fdd-920a-e45b-777d" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Big choppa" hidden="false" id="29e9-cd9b-66bd-fe60" collective="false">
       <comment>3A S7</comment>
       <profiles>
@@ -3679,7 +3679,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="16c4-2236-8335-567f" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Rokkit launcha" hidden="false" id="80bc-5c89-4125-2253" collective="false">
       <profiles>
         <profile name="Rokkit launcha" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="2adc-cde3-b9d4-3aaf">
@@ -3918,7 +3918,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="574b-3089-8b8b-360e" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Dakkajet" hidden="false" id="3b42-b41f-d11e-bdca">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="d411-bb45-20ba-649c" />
@@ -4078,7 +4078,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6a9a-1eb1-8b2a-3c4f" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Deff Dread" hidden="false" id="1594-b986-e77e-d89d">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="1-9c95-d630-e01a" />
@@ -4311,7 +4311,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="16b0-b60b-3f08-f6fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Skorcha" hidden="false" id="7a18-2212-5898-1149" collective="false">
       <profiles>
         <profile name="Skorcha" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="2836-aa14-8c6b-da7e">
@@ -4874,7 +4874,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d1cd-4d6e-d4df-caa9" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Flash Gitz" hidden="false" id="1de9-b138-28a1-9c4b">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="56ae-c63d-2946-5ab6" />
@@ -4945,7 +4945,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
                   </constraints>
                 </entryLink>
               </entryLinks>
-            </selectionEntry>
+            <entryLink id="f193-0974-1d1f-d86e" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
           </selectionEntries>
           <constraints>
             <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="9746-d15a-f9bb-22" />
@@ -5108,7 +5108,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="040d-824f-bdca-23d7" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Ghazghkull Thraka" hidden="false" id="4ea0-6b70-c17c-bc00">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="3d9f-ad30-b750-5f5a" />
@@ -5629,7 +5629,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="011c-4b64-6c1d-6254" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Gretchin" hidden="false" id="de8f-24f9-c543-92b7">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="d36b-765f-35d3-1604" />
@@ -5846,7 +5846,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           <comment>Dread Mob modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f0af-5834-ea2c-3e42" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Hunta Rig" hidden="false" id="70de-d621-8465-f7b8">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="a044-9e5e-3479-29f4" />
@@ -6037,7 +6037,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7f3c-aab4-ec26-f4cf" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="’Eavy lobba" hidden="false" id="6dae-573f-7f52-2213">
       <profiles>
         <profile name="’Eavy lobba" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="fb2-4868-ef88-81d7">
@@ -6521,7 +6521,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="97cf-dbdf-98b8-0257" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Killa Kans" hidden="false" id="8c36-c946-2e0f-f648">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="b55e-1d2f-48b7-e000" />
@@ -6854,7 +6854,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="8ce1-d9e9-7454-bab8" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Kan klaw" hidden="false" id="d7b7-a7e-ef2-783a" collective="true">
       <profiles>
         <profile name="Kan klaw" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="b5d1-4e50-edae-b2af">
@@ -7285,7 +7285,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d559-ee75-2a92-4b09" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Kustom Boosta-blasta" hidden="false" id="b803-bafc-2b52-160d">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="eee0-fa25-81d9-3046" />
@@ -7495,7 +7495,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e157-e219-4a0a-a34f" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Lootas" hidden="false" id="3bff-9fad-2d11-7866">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="6741-9eb3-4c5b-a13d" />
@@ -7660,7 +7660,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6a0e-6e2d-308b-2bf3" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Mad Dok Grotsnik [Legends]" hidden="false" id="7d51-e2a3-aab6-f7de">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="fd2f-ec7f-8aaa-b3e0" />
@@ -8316,7 +8316,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5761-9e29-b70b-df4b" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Killsaw" hidden="false" id="a3d0-1971-d5df-1651" collective="true">
       <profiles>
         <profile name="Killsaw" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="79a1-8883-2650-9969">
@@ -8548,7 +8548,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2f6c-dfcf-d7c0-0c9e" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Mek" hidden="false" id="3b2-8c11-616a-1005">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="5a6f-50d6-eff1-a697" />
@@ -9230,7 +9230,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2800-b391-38c5-6467" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Grot crew" hidden="false" id="f7fb-66bf-2cdb-417a" collective="true">
       <profiles>
         <profile name="Grot crew" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="a4a8-dc95-c6af-841c">
@@ -9483,7 +9483,7 @@ Designer’s Note: Place a Grot Helper token next to the bearer, removing it onc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="47b5-60aa-219f-b87e" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Mozrog Skragbad" hidden="false" id="b42b-ea0-38f1-6300">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="4186-9645-6808-b0f5" />
@@ -10227,7 +10227,7 @@ Designer’s Note: Place the relevant number of Ammo Runt tokens next to the uni
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6f4e-2d52-c14e-60df" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Painboss" hidden="false" id="a74a-107a-e2ac-7e4c">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="ac8a-2eab-7657-3dfc" />
@@ -10905,7 +10905,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="774d-5ce7-a5cf-e825" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Saw blades" hidden="false" id="ac5-f391-e379-5b99">
       <profiles>
         <profile name="Saw blades" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="4d22-4a54-7716-45cd">
@@ -11101,7 +11101,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9d64-8ff0-d311-3629" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Squighog Boyz" hidden="false" id="6a83-8e1f-63ef-50c3">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="2f98-4e60-366-9b52" />
@@ -11290,7 +11290,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="b0f0-a43a-ea46-34e5" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Stompa" hidden="false" id="6c08-9131-14a3-a3b4">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="2a1f-1d9a-143a-7f4e" />
@@ -11581,7 +11581,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="23e3-9965-d9b2-43e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Stormboyz" hidden="false" id="4adf-8249-c6b2-dd4f">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="8e38-fda6-cad7-7117" />
@@ -11928,7 +11928,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4039-4c00-de03-2154" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Tankbustas" hidden="false" id="dadc-d370-ef10-853c">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="4eb-a5f-a0bd-ff31" />
@@ -12228,7 +12228,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5104-f538-74d0-8ea6" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Trukk" hidden="false" id="1291-7ba8-2c5a-4a92">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="roster" shared="true" id="d47b-7adb-35f4-a830" />
@@ -12398,7 +12398,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="26dd-071b-a1d0-8859" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Warbikers" hidden="false" id="83a7-ea20-ed9-d14a">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="4f4d-f450-6bac-d647" />
@@ -12729,7 +12729,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="8c52-87bd-3085-1b7f" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Warboss" hidden="false" id="2efc-c4b3-2ecc-5a37">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="90ac-d004-55e1-6a87" />
@@ -13592,7 +13592,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="47b9-1c00-ad3c-cb3a" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Weirdboy" hidden="false" id="260d-9ce4-ea1f-a957">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="454b-53fa-a02b-2f0" />
@@ -15469,7 +15469,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="96ef-0b81-5ac9-7c21" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Kill Tank [Legends]" hidden="false" id="b8fe-c7af-20fd-631d">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="d594-1711-f3c0-7c1a" />
@@ -21410,7 +21410,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </characteristics>
         </profile>
       </profiles>
-    </selectionEntry>
+    <entryLink id="0a6a-0f54-2598-df99" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Runtherd" hidden="false" id="552d-6c0d-80e8-ac32">
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Grot-smacka" hidden="false" id="66fc-b1fe-a869-b8ef" collective="true">
@@ -21927,7 +21927,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9a84-531e-ea79-4154" name="Upgrades" hidden="false" collective="false" import="true" targetId="8689-3689-7fb6-bc81" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Smash hammer" hidden="false" id="5987-fa47-5ae9-93d2">
       <profiles>
         <profile name="Smash hammer" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="eb9e-51da-2dbb-a680">
@@ -23897,7 +23897,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
     <selectionEntryGroup name="Enhancements" id="1dd8-39ae-cbd8-a9fa" collapsible="true">
       <selectionEntryGroups>
         <selectionEntryGroup name="War Horde Enhancements" id="31e9-543f-55ce-7628" hidden="false">
-          <selectionEntries><selectionEntry type="upgrade" import="true" name="Boarding Ramps (Upgrade)" hidden="false" id="60a2-383d-4449-6f95"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ac13-f817-0ef4-035c" includeChildSelections="true" /></constraints><profiles><profile name="Boarding Ramps (Upgrade)" typeId="b13b-8579-e74d-5e09" typeName="Abilities" hidden="false" id="96af-e66c-8071-4365"><characteristics><characteristic name="Description" typeId="5b8c-0fc0-bf7b-a96f">Units embarked on the bearer get +1 to Charge rolls when they disembark, until the end of the turn.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="1293-3493-9836-8184" shared="true" id="0259-0e4c-fdf7-2cd2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Rollin' Deff</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Targetin’ Gizmos (Upgrade)" hidden="false" id="b2ce-c152-2702-e014"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="fd4c-cd8f-b871-71a6" includeChildSelections="true" /></constraints><profiles><profile name="Targetin’ Gizmos (Upgrade)" typeId="b13b-8579-e74d-5e09" typeName="Abilities" hidden="false" id="cf5c-5baf-38fe-0d31"><characteristics><characteristic name="Description" typeId="5b8c-0fc0-bf7b-a96f" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="1293-3493-9836-8184" shared="true" id="c15b-574c-5bd6-48da" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Rollin' Deff</comment></selectionEntry>
+          <selectionEntries>
             <selectionEntry type="upgrade" import="true" name="Supa-Cybork Body" hidden="false" id="bfd3-e26-ad9d-3079">
               <modifiers>
                 <modifier type="set" value="true" field="hidden">
@@ -28461,7 +28461,7 @@ Each time the bearer's unit is selected to shoot, if that unit is not within Eng
         <entryLink import="true" name="Boarding Actiions Upgrades" hidden="false" id="2154-bee0-f523-0303" type="selectionEntryGroup" targetId="3167-0f5b-caba-d96e" />
       </entryLinks>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="8689-3689-7fb6-bc81" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Boarding Ramps" hidden="false" id="1c85-fd2a-ac68-dae2"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="894c-b962-4558-08c5" includeChildSelections="true" /></constraints><profiles><profile name="Boarding Ramps" typeId="b13b-8579-e74d-5e09" typeName="Abilities" hidden="false" id="c188-dda3-4728-7de1"><characteristics><characteristic name="Description" typeId="5b8c-0fc0-bf7b-a96f">Units embarked on the bearer get +1 to Charge rolls when they disembark, until the end of the turn.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="1293-3493-9836-8184" shared="true" id="9f87-d025-0bc8-5769" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Rollin' Deff</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Targetin’ Gizmos" hidden="false" id="08bd-c00d-5dde-f773"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="167b-315e-a32b-6cdc" includeChildSelections="true" /></constraints><profiles><profile name="Targetin’ Gizmos" typeId="b13b-8579-e74d-5e09" typeName="Abilities" hidden="false" id="aebd-2f09-a0d3-b6df"><characteristics><characteristic name="Description" typeId="5b8c-0fc0-bf7b-a96f" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="1293-3493-9836-8184" shared="true" id="6f2c-df3f-748c-6aed" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Rollin' Deff</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <categoryEntries>
     <categoryEntry name="Battlewagon" hidden="false" id="9224-dbd4-36ad-6ab2" />
     <categoryEntry name="Mob" hidden="false" id="5aac-7b7-bf84-cae8" />

@@ -4703,7 +4703,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="457d-c253-3c88-ccac" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Bolt pistol" hidden="false" id="18b0-8c2-173f-5" collective="true">
       <profiles>
         <profile id="d093-797a-4c76-eea3" name="Bolt pistol" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -5097,7 +5097,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="280a-3a32-da2c-afbe" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Pyreblaster" hidden="false" id="bcf-9f6b-f51e-6332" collective="true">
       <profiles>
         <profile name="Pyreblaster" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="26cd-dd97-8f25-7ea7">
@@ -5344,7 +5344,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ab11-d42e-c31b-6cb2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Bolt Pistol" hidden="false" id="83a1-feb8-d495-aa28" collective="true">
       <profiles>
         <profile name="Heavy Bolt Pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="fe04-97bc-6b13-fd1c">
@@ -5650,7 +5650,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e91b-6fb1-dcc1-700e" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Bolter" hidden="false" id="d941-c4cd-8b82-c453">
       <profiles>
         <profile name="Heavy Bolter" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="993e-bdb2-3ac6-f11b">
@@ -5942,7 +5942,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7d9e-0e1f-ab0a-6bf2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Incursor Squad" hidden="false" id="527c-120e-9e4e-9bfe">
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="775b-cf62-9fc-9cbd" primary="true" name="Infantry" />
@@ -6220,7 +6220,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5cfd-b2d0-c9f1-e00c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Tactical Squad" hidden="false" id="c09a-6504-d25f-477">
       <profiles>
         <profile name="Combat Squads" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8fc-8ef9-6b6f-25d9">
@@ -6621,7 +6621,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="97f2-365a-6717-a20a" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Flamer" hidden="false" id="469c-6259-59a5-64c1">
       <profiles>
         <profile name="Flamer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="71c3-20a0-f787-abb2">
@@ -7570,7 +7570,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ebdd-891d-cf93-c490" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Close combat weapon" hidden="false" id="b3b-a615-f023-94ef" collective="true">
       <profiles>
         <profile name="Close combat weapon" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="83d0-18be-e1c5-72c5">
@@ -8092,7 +8092,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e8cb-2066-b17e-1575" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Vanguard Veteran Squad with Jump Packs" hidden="false" id="9e9c-bf4d-2d40-be82">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -8361,7 +8361,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6594-7a45-4ddc-3986" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Vanguard Veteran Squad [Legends]" hidden="false" id="f1b9-b2e8-4ccf-d6cb">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120" />
@@ -8953,7 +8953,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4e2e-3228-4053-9b2e" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Reiver Squad" hidden="false" id="a7ae-e495-683b-7c90">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -9285,7 +9285,7 @@ bearer can be moved during that move</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9b2f-6f30-be51-9028" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Aggressor Squad" hidden="false" id="129d-2da5-66f3-f4ec">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -9624,7 +9624,7 @@ by 1.</characteristic>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="add1-56cd-1967-8556" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="9328-68d5-07d5-773f" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Terminator Assault Squad" hidden="false" id="ae9a-10e3-8091-20">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="155" />
@@ -9959,7 +9959,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="45aa-a9c5-c9fe-08db" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Terminator Squad" hidden="false" id="4808-a80b-309a-7933">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="e219-9a7f-dfee-2d08" />
@@ -10281,7 +10281,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="bd9c-7e51-70b6-98b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Chainfist" hidden="false" id="cb6c-970e-444a-3ec3" collective="true">
       <profiles>
         <profile name="Chainfist" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="aaa8-f6e6-715a-ca9e">
@@ -11061,7 +11061,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2bf7-eca1-a433-2a8d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Centurion Devastator Squad" hidden="false" id="6ba0-cede-e278-f86b">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="175" />
@@ -11353,7 +11353,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d688-b71f-6292-5d20" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Centurion Bolters" hidden="false" id="953c-b525-10be-f7cd">
       <profiles>
         <profile name="Centurion Bolters" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="ff26-fcab-318-9503">
@@ -11684,7 +11684,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="498f-8fc0-10c0-b874" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Dreadnought" hidden="false" id="d204-13c6-dab1-ecdc">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
@@ -11914,7 +11914,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="c2f4-a941-c24d-d6de" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Assault Cannon" hidden="false" id="2de6-ff2-dc37-b20d">
       <profiles>
         <profile name="Assault Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="229a-6aa7-98d9-234d">
@@ -12626,7 +12626,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e791-a762-7261-988d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Onslaught Gatling Cannon" hidden="false" id="39fe-deb4-dde-2c1a">
       <profiles>
         <profile name="Heavy Onslaught Gatling Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9a6f-e83b-69b1-8dbf">
@@ -12954,7 +12954,7 @@ by 1.</characteristic>
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="ef1f-45d8-5909-cba8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Brutalis Dreadnought" hidden="false" id="1c00-9398-b9e7-446a">
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="d3bb-568d-8bbc-bd8b" targetId="b68a-5ded-65ac-98c">
@@ -13206,7 +13206,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="072f-8007-4414-ff6d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin Icarus ironhail heavy stubber" hidden="false" id="6c9-da5-cea7-f3c9">
       <infoLinks>
         <infoLink name="Anti-" hidden="false" type="rule" id="9e03-71d1-2bac-cf3" targetId="4111-82e3-9444-e942" />
@@ -14228,7 +14228,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="0866-1edf-b424-2b8d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin bolt rifle" hidden="false" id="3451-a59-ad9d-cc65" collective="true">
       <profiles>
         <profile name="Twin bolt rifle" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c221-788f-ced8-2">
@@ -14476,7 +14476,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d56a-d81c-4569-4e42" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Attack Bike Squad [Legends]" hidden="false" id="7bef-c609-3897-8bd6">
       <selectionEntries>
         <selectionEntry type="model" import="true" name="Attack Bike" hidden="false" id="332e-608d-ea45-d78c" sortIndex="2">
@@ -15640,7 +15640,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="b3d7-9e4f-f06b-42a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Inceptor Squad" hidden="false" id="3e14-2a-d358-6ada">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120" />
@@ -15967,7 +15967,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ec76-2613-db20-a387" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Storm Speeder Hailstrike" hidden="false" id="9cb9-9ab5-727f-80e5">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="105" />
@@ -16135,7 +16135,7 @@ by 1.</characteristic>
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="f13c-0e82-fded-00b7" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Storm Speeder Thunderstrike" hidden="false" id="993a-9cbc-8052-e40">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
@@ -16354,7 +16354,7 @@ by 1.</characteristic>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="fae4-6bc0-e5bb-10e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Storm Speeder Hammerstrike" hidden="false" id="9489-445c-f950-7292">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="130" />
@@ -16572,7 +16572,7 @@ by 1.</characteristic>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="018f-2bd1-5b66-ab26" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Land Speeder Typhoon [Legends]" hidden="false" id="90fe-d51c-1541-5d60">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -17378,7 +17378,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="beb7-2466-a590-fc5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Eliminator Squad" hidden="false" id="d6c3-e9d2-430d-6c2f">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -17651,7 +17651,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="0b4a-077e-175a-2885" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Eradicator Squad" hidden="false" id="c570-c6ba-c9dc-5a44">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -17904,7 +17904,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="85c5-0e38-47fb-344d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Devastator Squad" hidden="false" id="3f4c-1e67-66dc-ffa5">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120" />
@@ -18237,7 +18237,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="03c4-1df9-2987-4c41" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Desolation Squad" hidden="false" id="a3ea-7a0d-fef8-23bf">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
@@ -18566,7 +18566,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="39b9-0b76-8db0-af1a" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Thunderfire Cannon [Legends]" hidden="false" id="2fa7-e488-c012-4af1">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="8f11-6af1-9bba-dbe4" primary="true" name="Vehicle" />
@@ -19073,7 +19073,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="60f8-1a9a-4b8c-6161" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Hunter [Legends]" hidden="false" id="3ad-729-3235-4777">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -19668,7 +19668,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="cedb-0b01-e2d7-882c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Predator Destructor" hidden="false" id="d4c8-dd6a-cd7a-ccc3">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
@@ -19895,7 +19895,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="a584-a932-fcc3-3712" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Predator Annihilator" hidden="false" id="31a-6c3e-5843-4023">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
@@ -20132,7 +20132,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="b5d3-ba00-6fca-d071" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Gladiator Lancer" hidden="false" id="7814-107b-a498-96f6">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="c8e0-e435-26d2-eefd" primary="true" name="Vehicle" />
@@ -20362,7 +20362,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="026b-30c5-a003-1d15" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Ironhail Heavy Stubber" hidden="false" id="1c66-4903-10ca-2a27">
       <profiles>
         <profile name="Ironhail Heavy Stubber" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9111-913e-ec42-e830">
@@ -20600,7 +20600,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="191e-3da2-1f68-90a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Gladiator Valiant" hidden="false" id="6b89-8147-9b6b-6db1">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="150" />
@@ -20810,7 +20810,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="00d9-eaf5-f98b-d4dd" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Vindicator" hidden="false" id="cb6d-201f-4888-3027">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="185" />
@@ -21005,7 +21005,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="691a-bf04-98a4-feec" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Land Raider" hidden="false" id="8cca-9318-3bec-d360">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="9ac4-3866-c0c6-5b7a" primary="true" name="Vehicle" />
@@ -21229,7 +21229,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="cfb9-0857-0570-42f8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Land Raider Crusader" hidden="false" id="1d65-c592-2e16-b045">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="220" />
@@ -21437,7 +21437,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="91af-8f68-c5f7-22e5" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Land Raider Redeemer" hidden="false" id="d361-a36e-1448-264d">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="250" />
@@ -21668,7 +21668,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="d056-6e5b-8d56-63d5" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin assault cannon" hidden="false" id="4641-242b-9584-c54a">
       <profiles>
         <profile name="Twin assault cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e305-23e6-6fd3-ac5f">
@@ -21910,7 +21910,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="916d-7626-f3a7-bf2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Las-talon" hidden="false" id="126b-4441-71f8-7d5c">
       <profiles>
         <profile name="Las-talon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="6db-ca18-36bb-d8d8">
@@ -22204,7 +22204,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="060f-94c0-0ad6-7862" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Rhino" hidden="false" id="a14e-75ca-ef91-397f">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -22376,7 +22376,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="ebbd-d7dd-d48a-fdb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Razorback" hidden="false" id="ed11-25b9-a0eb-89f4">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -22562,7 +22562,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="3002-4921-2a7c-65fd" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Impulsor" hidden="false" id="bfb1-7512-e1a3-9fa2">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -22821,7 +22821,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="bdcf-5351-29f7-65ff" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Armoured Tracks" hidden="false" id="eaa5-a41b-9e59-a5f3">
       <profiles>
         <profile name="Armoured Tracks" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="5346-57b-924-13b4">
@@ -22967,7 +22967,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f819-25b0-1dbd-25e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Land Speeder Storm [Legends]" hidden="false" id="fce3-2e6f-cede-69cc">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="roster" shared="true" id="029b-64b8-cac8-0102" />
@@ -23359,7 +23359,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7cf1-3fdd-fcf7-19e0" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Skyhammer Missile Launcher" hidden="false" id="beea-63c9-1c06-76f9">
       <profiles>
         <profile name="Skyhammer Missile Launcher" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e95d-5335-b730-da78">
@@ -23579,7 +23579,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="c1a3-2a70-0675-d7b0" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Stormraven Gunship" hidden="false" id="469b-3370-30f3-473a">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="280" />
@@ -23854,7 +23854,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4c72-7cd7-83e7-7566" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Hammerfall Bunker" hidden="false" id="5882-9143-e7c5-ac11">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="175" />
@@ -23996,7 +23996,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="0cc3-7246-4b60-3c27" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Captain on Bike [Legends]" id="faf9-bf62-8eb5-a3cb" hidden="false">
       <categoryLinks>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="9b00-f1a0-c0e8-f618" primary="true" name="Character" />
@@ -29729,7 +29729,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="4ad9-91c3-1afa-dc97" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Thunderhawk Gunship" hidden="false" id="3416-dfee-84ee-e21d">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="840" />
@@ -29983,7 +29983,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="07f8-af7a-8ffd-69c4" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Bolt Pistol" hidden="false" id="3b8f-1cb7-3c6e-4455" collective="false">
       <profiles>
         <profile name="Heavy Bolt Pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a91e-df17-b8f6-bf88">
@@ -35517,7 +35517,7 @@ per turn.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6140-e1d7-7ece-76b8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Company Heroes" hidden="false" id="2f2e-d99b-b235-163a">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="105" />
@@ -35941,7 +35941,7 @@ per turn.</characteristic>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="1260-7f3d-0b44-dc6d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Astartes grenade launcher" hidden="false" id="ca2b-3d9a-e739-cb21">
       <profiles>
         <profile name="➤ Astartes grenade launcher - krak" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e307-f8d3-d06c-9dd9">
@@ -39385,7 +39385,7 @@ Designer’s Note: This means that the selected units can be given  enhancemen
     <selectionEntryGroup name="Enhancements" hidden="false" id="9e5d-de4c-c5d1-1d3e" collapsible="true">
       <selectionEntryGroups>
         <selectionEntryGroup name="Gladius Task Force Enhancements" hidden="false" id="dff5-fd4c-749d-e42">
-          <selectionEntries><selectionEntry type="upgrade" import="true" name="Bellicose Weapon Spirits (Upgrade)" hidden="false" id="9b67-bbe2-20cc-31b9"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="189e-3e9f-f1d1-b753" includeChildSelections="true" /></constraints><profiles><profile name="Bellicose Weapon Spirits (Upgrade)" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="d1e9-cde3-13fd-5097"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer's SPEEDER unit can re-roll its Damage rolls and its Attack Attribute rolls.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="be3b-0eac-80ab-11e4" shared="true" id="9f55-e703-2ac0-3512" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Fulguris Task Force</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Raptorial Cogitator Core (Upgrade)" hidden="false" id="79c4-8a8f-5b2c-6b46"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="fdf0-322a-7a39-39d3" includeChildSelections="true" /></constraints><profiles><profile name="Raptorial Cogitator Core (Upgrade)" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="ca6a-286f-636e-5704"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="be3b-0eac-80ab-11e4" shared="true" id="f16c-f601-ebf2-196b" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Fulguris Task Force</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Death In The Dark (Upgrade)" hidden="false" id="71b7-bbd6-0489-b6da"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="028e-6b89-757b-857f" includeChildSelections="true" /></constraints><profiles><profile name="Death In The Dark (Upgrade)" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="ec27-31bf-0ac8-3095"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="cc36-5866-efeb-fd7d" shared="true" id="6843-42ef-f9e6-dd60" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Subversion Assets</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Shroud Field" hidden="false" id="927c-bc66-f928-a859"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="fddf-530b-6b00-5610" includeChildSelections="true" /></constraints><profiles><profile name="Shroud Field" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="ade7-1bba-e2fc-6370"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer (a Phobos model) gains the Lone Operative and Stealth abilities.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="cc36-5866-efeb-fd7d" shared="true" id="09fe-a07f-359a-9789" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Subversion Assets</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Champion Of The Feast" hidden="false" id="5ea4-2120-bc91-099d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6d73-033f-6906-ec27" includeChildSelections="true" /></constraints><profiles><profile name="Champion Of The Feast" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="8eba-e063-d4cb-ec37"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. Add 1 to the Attacks of the bearer's melee weapons. Once per battle at the start of any phase, the bearer may also add 1 to the Attacks of other models' melee weapons in its unit until end of phase.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="afda-0128-7f09-da51" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Disciple Of Rhetoricus" hidden="false" id="4218-af12-37f8-9096"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="81a3-dc4f-55fd-b6ca" includeChildSelections="true" /></constraints><profiles><profile name="Disciple Of Rhetoricus" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="26db-75ff-a8ea-6e8e"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Terminator model only. Improve the bearer's Objective Control by 1. Once per battle at the start of any phase, the bearer may also add 1 to the Objective Control of other models in its unit until end of phase.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="4e71-74e3-3746-cc2a" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Indomitable Champion" hidden="false" id="4233-577d-6a33-b43d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="974e-f977-3d6f-4e38" includeChildSelections="true" /></constraints><profiles><profile name="Indomitable Champion" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="6775-b2d6-6ff3-acdd"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Terminator model only. The first time the bearer is destroyed, roll a D6 at end of phase; on 2+ set it back up as close as possible to where it died, outside enemy Engagement Range, with 3 wounds remaining.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="7bfe-67bc-2c7d-d0ce" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Malodraxian Standard" hidden="false" id="8377-383a-061f-d42d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f3f8-d5b6-67fd-0cdd" includeChildSelections="true" /></constraints><profiles><profile name="Malodraxian Standard" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="054a-0a4b-fafc-9b75"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Ancient model only. Each time an attack targets the bearer's unit, if the attack's Strength is greater than the unit's Toughness, subtract 1 from the Wound roll.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="8d61-4cd1-903a-9b0a" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Adamantine Mantle" hidden="false" id="73bb-61ce-3130-114a"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="bf71-c5e8-0ff5-1d6e" includeChildSelections="true" /></constraints><profiles><profile name="Adamantine Mantle" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="292a-87ae-4f2e-cc5f"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. Each time an attack is allocated to the bearer, subtract 1 from its Damage; if it was a Melta or Torrent weapon, set its Damage to 1 instead.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="a935-e279-d9ff-b909" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Forged In Battle" hidden="false" id="0882-926e-5436-9756"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="22f7-40d7-1a84-8a13" includeChildSelections="true" /></constraints><profiles><profile name="Forged In Battle" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="ef24-9c22-edf8-502d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. While the bearer leads a unit, once per turn, after a Hit roll or saving throw for a model in that unit, you may change the result to an unmodified 6.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="d99f-52e6-65c8-c4d7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Immolator" hidden="false" id="db30-946f-da2b-7bf7"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="aa1d-c515-54a4-3f2d" includeChildSelections="true" /></constraints><profiles><profile name="Immolator" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="8cfa-e71e-8426-a285"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. Add 1 to the Attacks of Torrent weapons carried by models in the bearer's unit.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="64cd-7c26-d1d4-3cc9" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="War-Tempered Artifice" hidden="false" id="c7d9-82c5-63fe-742d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8c51-190b-56ae-b365" includeChildSelections="true" /></constraints><profiles><profile name="War-Tempered Artifice" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="be7c-1d2e-6f1c-8999"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Infantry model only. Add 3 to the Strength of the bearer's melee weapons.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="e78d-5cfa-2408-2a52" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry>
+          <selectionEntries><selectionEntry type="upgrade" import="true" name="Shroud Field" hidden="false" id="927c-bc66-f928-a859"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="fddf-530b-6b00-5610" includeChildSelections="true" /></constraints><profiles><profile name="Shroud Field" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="ade7-1bba-e2fc-6370"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer (a Phobos model) gains the Lone Operative and Stealth abilities.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="cc36-5866-efeb-fd7d" shared="true" id="09fe-a07f-359a-9789" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Subversion Assets</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Champion Of The Feast" hidden="false" id="5ea4-2120-bc91-099d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6d73-033f-6906-ec27" includeChildSelections="true" /></constraints><profiles><profile name="Champion Of The Feast" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="8eba-e063-d4cb-ec37"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. Add 1 to the Attacks of the bearer's melee weapons. Once per battle at the start of any phase, the bearer may also add 1 to the Attacks of other models' melee weapons in its unit until end of phase.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="afda-0128-7f09-da51" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Disciple Of Rhetoricus" hidden="false" id="4218-af12-37f8-9096"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="81a3-dc4f-55fd-b6ca" includeChildSelections="true" /></constraints><profiles><profile name="Disciple Of Rhetoricus" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="26db-75ff-a8ea-6e8e"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Terminator model only. Improve the bearer's Objective Control by 1. Once per battle at the start of any phase, the bearer may also add 1 to the Objective Control of other models in its unit until end of phase.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="4e71-74e3-3746-cc2a" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Indomitable Champion" hidden="false" id="4233-577d-6a33-b43d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="974e-f977-3d6f-4e38" includeChildSelections="true" /></constraints><profiles><profile name="Indomitable Champion" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="6775-b2d6-6ff3-acdd"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Terminator model only. The first time the bearer is destroyed, roll a D6 at end of phase; on 2+ set it back up as close as possible to where it died, outside enemy Engagement Range, with 3 wounds remaining.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="7bfe-67bc-2c7d-d0ce" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Malodraxian Standard" hidden="false" id="8377-383a-061f-d42d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f3f8-d5b6-67fd-0cdd" includeChildSelections="true" /></constraints><profiles><profile name="Malodraxian Standard" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="054a-0a4b-fafc-9b75"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Ancient model only. Each time an attack targets the bearer's unit, if the attack's Strength is greater than the unit's Toughness, subtract 1 from the Wound roll.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f27-9afd-28a1-6873" shared="true" id="8d61-4cd1-903a-9b0a" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Emperor’S Shield</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Adamantine Mantle" hidden="false" id="73bb-61ce-3130-114a"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="bf71-c5e8-0ff5-1d6e" includeChildSelections="true" /></constraints><profiles><profile name="Adamantine Mantle" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="292a-87ae-4f2e-cc5f"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. Each time an attack is allocated to the bearer, subtract 1 from its Damage; if it was a Melta or Torrent weapon, set its Damage to 1 instead.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="a935-e279-d9ff-b909" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Forged In Battle" hidden="false" id="0882-926e-5436-9756"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="22f7-40d7-1a84-8a13" includeChildSelections="true" /></constraints><profiles><profile name="Forged In Battle" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="ef24-9c22-edf8-502d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. While the bearer leads a unit, once per turn, after a Hit roll or saving throw for a model in that unit, you may change the result to an unmodified 6.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="d99f-52e6-65c8-c4d7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Immolator" hidden="false" id="db30-946f-da2b-7bf7"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="aa1d-c515-54a4-3f2d" includeChildSelections="true" /></constraints><profiles><profile name="Immolator" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="8cfa-e71e-8426-a285"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes model only. Add 1 to the Attacks of Torrent weapons carried by models in the bearer's unit.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="64cd-7c26-d1d4-3cc9" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="War-Tempered Artifice" hidden="false" id="c7d9-82c5-63fe-742d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8c51-190b-56ae-b365" includeChildSelections="true" /></constraints><profiles><profile name="War-Tempered Artifice" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="be7c-1d2e-6f1c-8999"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Astartes Infantry model only. Add 3 to the Strength of the bearer's melee weapons.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="730f-add4-4057-9c90" shared="true" id="e78d-5cfa-2408-2a52" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Forgefather’S Seekers</comment></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Artificer Armour" hidden="false" id="e57e-d55a-be75-2205">
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6d91-8bba-9b7d-e8a1" includeChildSelections="true" includeChildForces="true" />
@@ -54033,7 +54033,7 @@ Vehicle unit is within 6" of the bearer, ranged weapons equipped by models in t
         <constraint type="max" value="1" field="selections" scope="self" shared="true" id="6f7b-3572-afab-21d6" includeChildSelections="true" />
       </constraints>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="2258-3aef-fc37-c512" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Bellicose Weapon Spirits" hidden="false" id="1537-9195-fe00-0138"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="e0cd-85fe-cc0e-2dee" includeChildSelections="true" /></constraints><profiles><profile name="Bellicose Weapon Spirits" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="37e2-4cba-de91-06a1"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer's SPEEDER unit can re-roll its Damage rolls and its Attack Attribute rolls.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="be3b-0eac-80ab-11e4" shared="true" id="28eb-be40-4d0d-c225" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Fulguris Task Force</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Raptorial Cogitator Core" hidden="false" id="a010-5f07-caa0-6554"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f88e-8947-d447-bf5a" includeChildSelections="true" /></constraints><profiles><profile name="Raptorial Cogitator Core" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="74d8-2fd6-7712-b809"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="be3b-0eac-80ab-11e4" shared="true" id="d06e-eaac-d948-9869" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Fulguris Task Force</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Death in the Dark" hidden="false" id="7cca-f059-7823-34eb"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="0324-616a-b305-feaf" includeChildSelections="true" /></constraints><profiles><profile name="Death in the Dark" typeId="65ac-314e-ef32-fc12" typeName="Abilities" hidden="false" id="6a80-75b0-bcc8-ce59"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="cc36-5866-efeb-fd7d" shared="true" id="86de-52ec-3a39-b7b4" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Subversion Assets</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <catalogueLinks>
     <catalogueLink type="catalogue" name="Imperium - Agents of the Imperium" id="c047-b43d-ba0f-5f32" targetId="b00-cd86-4b4c-97ba" importRootEntries="true" />
     <catalogueLink type="catalogue" name="Library - Titans" id="896f-5094-b2f2-8aa8" targetId="7481-280e-b55e-7867" importRootEntries="true" />

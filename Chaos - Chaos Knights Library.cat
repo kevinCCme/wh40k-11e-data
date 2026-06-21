@@ -430,7 +430,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d227-078a-20b9-dfd3" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="dfe8-cea0-8d16-db95" name="Diabolus heavy stubber" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="a4fb-4101-1b27-d2db" name="Diabolus heavy stubber" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -847,7 +847,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="72de-a8a4-db9f-d095" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e96b-ac98-7fd2-a155" name="War Dog Karnivore" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1df3-61b3-1a11-0900" type="max" />
@@ -1081,7 +1081,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="0bc7-698b-f92a-7648" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="753d-4e02-eda3-4809" name="War Dog Brigand" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1995-c5fc-e109-31f1" type="max" />
@@ -1285,7 +1285,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ba04-f7d2-e990-bfe4" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="6e6d-7950-ce6d-4cd4" name="War Dog Huntsman" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="f1a4-0645-a8de-81bd" type="max" />
@@ -1484,7 +1484,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="11cb-034f-bace-7c37" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="0119-8c04-435e-c782" name="Knight Despoiler" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="0131-278b-cb36-f2c2" type="max" />
@@ -3889,7 +3889,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6e55-39b9-2b20-153b" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="28a-8545-4104-4ffa" name="Titanic feet" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4e4f-46f4-c6a1-315c" type="min" />
@@ -4214,7 +4214,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="58ab-7cf9-fd1f-83c6" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="4175-82c6-8e96-bef8" name="Chaos Cerastus Knight Lancer" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="6489-39e1-0d94-80ef" type="max" />
@@ -6256,7 +6256,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7392-2194-3e24-b205" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Show Chaos Knights" hidden="false" id="aeb4-96de-7401-eaa3">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d78d-32a7-5796-202e" />
@@ -6565,7 +6565,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
         <constraint field="selections" scope="self" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1ac3-0c48-a1f5-8b56" type="max" />
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="852b-8a29-1fc7-ebc9" type="max" />
       </constraints>
-      <selectionEntries><selectionEntry type="upgrade" import="true" name="Hate-Filled Dominion" hidden="false" id="edb6-5fb1-5b06-5f71"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2d1d-011d-6f6a-eb76" includeChildSelections="true" /></constraints><profiles><profile name="Hate-Filled Dominion" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="7335-9824-e0dc-3ead"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Knight Tyrant model only. The bearer's unit can re-roll the dice that determine how many attacks any of its weapons make.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="fa02-7384-c590-17b4" shared="true" id="76d9-7899-1952-6fdd" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Bastions Of Tyranny</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Pterrorshade Rookery" hidden="false" id="a42f-e85f-092a-9966"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="30ff-9033-c89e-2332" includeChildSelections="true" /></constraints><profiles><profile name="Pterrorshade Rookery" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="8512-380a-c3a8-e401"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="fa02-7384-c590-17b4" shared="true" id="4806-6aaf-6e5d-3ef2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Bastions Of Tyranny</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Snarling Rivalry (Upgrade)" hidden="false" id="3419-9a0b-4c75-08aa"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="1b7d-353b-fb8c-f215" includeChildSelections="true" /></constraints><profiles><profile name="Snarling Rivalry (Upgrade)" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="4d96-4122-8273-9695"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Executioner unit only. The bearer's ranged attacks gain [IGNORES COVER].</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="75b2-caa3-5534-c123" shared="true" id="0805-de7c-439a-41ef" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Hunting Warpack</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Soul-Spoor Auspicator (Upgrade)" hidden="false" id="1a65-de36-9d74-541b"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="e792-17fd-6b13-a21e" includeChildSelections="true" /></constraints><profiles><profile name="Soul-Spoor Auspicator (Upgrade)" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="a015-d670-8db0-429f"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="75b2-caa3-5534-c123" shared="true" id="0bd8-04bd-43e3-dce8" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Hunting Warpack</comment></selectionEntry>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Hate-Filled Dominion" hidden="false" id="edb6-5fb1-5b06-5f71"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2d1d-011d-6f6a-eb76" includeChildSelections="true" /></constraints><profiles><profile name="Hate-Filled Dominion" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="7335-9824-e0dc-3ead"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Knight Tyrant model only. The bearer's unit can re-roll the dice that determine how many attacks any of its weapons make.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="fa02-7384-c590-17b4" shared="true" id="76d9-7899-1952-6fdd" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Bastions Of Tyranny</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Pterrorshade Rookery" hidden="false" id="a42f-e85f-092a-9966"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="30ff-9033-c89e-2332" includeChildSelections="true" /></constraints><profiles><profile name="Pterrorshade Rookery" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="8512-380a-c3a8-e401"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="fa02-7384-c590-17b4" shared="true" id="4806-6aaf-6e5d-3ef2" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Bastions Of Tyranny</comment></selectionEntry>
         <selectionEntry id="ffa9-e86a-6f79-c949" name="Malevolent Heraldry" hidden="false" collective="false" import="true" type="upgrade" sortIndex="23">
           <constraints>
             <constraint field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="c311-f705-e821-9436" type="max" />
@@ -8977,7 +8977,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
         </modifier>
       </modifiers>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="d65d-68b4-bea1-62a8" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Snarling Rivalry" hidden="false" id="7042-bee7-3c48-6bf7"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="bdb7-81e1-0570-193c" includeChildSelections="true" /></constraints><profiles><profile name="Snarling Rivalry" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="ac77-0b4e-48ef-b4eb"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Executioner unit only. The bearer's ranged attacks gain [IGNORES COVER].</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="75b2-caa3-5534-c123" shared="true" id="ba80-4a72-94f5-6c80" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Hunting Warpack</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Soul-spoor Auspicator" hidden="false" id="6137-1a2d-dc34-0ccf"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="1a5d-9375-bcb8-0528" includeChildSelections="true" /></constraints><profiles><profile name="Soul-spoor Auspicator" typeId="fde0-47bb-5767-5537" typeName="Abilities" hidden="false" id="ab45-2188-740d-b819"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="75b2-caa3-5534-c123" shared="true" id="7f6c-4cde-df40-3ac0" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Hunting Warpack</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="d71a-a59f-aafd-3723" name="Harbingers of Dread" hidden="false">
       <description>If your Army Faction is ^^**Chaos Knights^^**, each model from your army with this ability gains Dread abilities, depending which are active for your army. The Deathly Terror ability is active for your army from the start of the battle. In addition, at the start of the first, third and fifth battle rounds, you can either select one of the other Dread abilities or randomly select two Dread abilities to apply by rolling two D6 and applying the results rolled, from those numbered 1-6 below.

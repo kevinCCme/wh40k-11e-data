@@ -3905,7 +3905,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6290-858a-280b-3c61" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="44b0-1947-ea4a-3005" name="Chainblade" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="07bf-05c2-8ad9-6b15" type="max" />
@@ -4642,7 +4642,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7466-f7f2-a6e9-940c" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="6f81-4538-a414-251e" name="Jakhals" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="140">
@@ -5042,7 +5042,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="b015-0561-4d0d-b3ac" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="32bc-0724-a7cf-f17c" name="Paired accursed weapons" hidden="false" collective="true" import="true" type="upgrade">
       <profiles>
         <profile id="d4df-8ce0-767a-474d" name="Paired accursed weapons" hidden="false" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons">
@@ -5255,7 +5255,7 @@
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
           </costs>
-        </selectionEntry>
+        <entryLink id="758e-a2e9-b440-1ea8" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
         <selectionEntry id="6f2c-fc26-53bc-34bd" name="Eightbound Champion" hidden="false" collective="false" import="true" type="model" sortIndex="2">
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eb72-81ee-3cce-c6df" type="min" />
@@ -5371,7 +5371,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="cb12-59e3-640a-d1f6" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="9932-3d2b-1e47-d53b" name="Exalted Eightbound" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="280">
@@ -5446,7 +5446,7 @@
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
           </costs>
-        </selectionEntry>
+        <entryLink id="25f8-af8c-b1a3-0bcc" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
         <selectionEntry id="d009-9bd9-59a1-9119" name="Exalted Eightbound Champion" hidden="false" collective="false" import="true" type="model" sortIndex="2">
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7061-c5f4-58e6-6604" type="min" />
@@ -5553,7 +5553,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1b81-edd7-8b66-5431" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="4251-bd4f-f7ac-9487" name="Chaos Land Raider" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1f9c-7c84-c0c3-bcfb" type="max" />
@@ -5773,7 +5773,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="8c06-cfb5-a326-a952" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="caa8-634e-b7e4-a286" name="Twin heavy bolter" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="fc72-9f62-b714-d195" name="Twin heavy bolter" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -6091,7 +6091,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="b75d-3a82-fca1-5307" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="f76c-0f51-ad33-c118" name="Armoured tracks" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9cb6-48bc-54e0-6b44" type="min" />
@@ -6376,7 +6376,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a3de-cd9b-c62e-554d" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="ea51-5575-9e74-9346" name="Defiler" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="dfe6-419c-bb1e-5fc7" type="max" />
@@ -6772,7 +6772,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9bb9-3db1-25bc-25d9" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="81e1-b212-69c1-308f" name="Forgefiend" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="2f95-b866-ca01-897d" type="max" />
@@ -7016,7 +7016,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d74a-9026-b6c0-37d2" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="a343-07e9-e8f9-67f2" name="Hades autocannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="dd4d-6efb-fc4e-c3cf" name="Hades autocannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -7559,7 +7559,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e5c5-c507-792c-fa15" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="0fc2-382a-b387-9634" name="Twin lascannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="9eb6-d9a7-c754-c1a6" name="Twin lascannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -7810,7 +7810,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1eaf-f9f8-c7ce-f51a" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="a619-8a52-be03-3bd5" name="Maulerfiend" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="f3fe-d895-183f-355e" type="max" />
@@ -8038,7 +8038,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="100a-3824-c985-2370" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e849-ce40-ee43-7623" name="Chaos Rhino" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4948-64ff-2ada-a602" type="max" />
@@ -8211,7 +8211,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="28f1-7aed-5392-6cf0" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="edde-57bf-bccc-d8b2" name="Chaos Spawn" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="parent" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c7fb-1fe5-6958-8464" type="max" />
@@ -8292,7 +8292,7 @@
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
           </costs>
-        </selectionEntry>
+        <entryLink id="e1db-4391-4c2a-f9c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -8372,7 +8372,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9bcb-e866-da05-0e77" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="836c-f65b-6bcb-9663" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="parent" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2094-1b2f-fef4-0276" type="max" />
@@ -8700,7 +8700,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="0638-1866-07a4-3c12" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="84c8-b821-877d-72e6" name="Detachment" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="roster" shared="true" id="3f16-f1c0-19f3-c328" includeChildSelections="true" />
@@ -9588,7 +9588,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="84b1-2e70-8029-666a" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="d51a-3209-3600-6cb2" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Chainblade" hidden="false" id="81d1-50cc-2825-7475">
       <profiles>
         <profile name="Chainblade" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="6499-8320-6996-5ff5">
@@ -10373,7 +10373,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
           </conditionGroups>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="a5f5-57f6-99ce-f8e4" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Daemonic Icon" hidden="false" id="4932-180c-3eb7-39dd" collective="false">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e57e-8299-7fcf-d88a" percentValue="false" includeChildSelections="false" includeChildForces="false" />
@@ -10531,7 +10531,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="a2c6-ccde-ad88-79c3" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Bladed horn" hidden="false" id="034f-f3cd-9b1d-3f09" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3b51-8660-a3b1-059a" percentValue="false" includeChildSelections="false" includeChildForces="false" />
@@ -10694,7 +10694,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="4fd7-f321-2f8d-efb5" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Collar of Khorne" hidden="false" id="c7e3-601f-3442-250b" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9b3d-9a18-181e-0448" percentValue="false" includeChildSelections="false" includeChildForces="false" />
@@ -11355,7 +11355,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
         <constraint field="selections" scope="self" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="afd7-ae54-74f1-f0ce" type="max" />
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="e02a-ceaa-d20f-a3fb" type="max" />
       </constraints>
-      <selectionEntries><selectionEntry type="upgrade" import="true" name="Murder-Forged Entity (Upgrade)" hidden="false" id="4aec-f816-d638-d02c"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="40cd-8dfc-0d8a-100d" includeChildSelections="true" /></constraints><profiles><profile name="Murder-Forged Entity (Upgrade)" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="7a88-347e-5969-7330"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="a5c7-3912-757b-ba89" shared="true" id="c3be-033d-5774-b11c" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Brazen Engines</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Talons Of Butchery (Upgrade)" hidden="false" id="cee1-0aaf-fec2-1632"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ccce-6bb5-fa5c-9ca9" includeChildSelections="true" /></constraints><profiles><profile name="Talons Of Butchery (Upgrade)" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="b440-0296-4849-4918"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="a5c7-3912-757b-ba89" shared="true" id="c0fa-c884-0c2c-03b4" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Brazen Engines</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Gore-Stained Veterans (Upgrade)" hidden="false" id="b309-7cb5-dbbd-7d89"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="e29f-61dc-5cfd-5a04" includeChildSelections="true" /></constraints><profiles><profile name="Gore-Stained Veterans (Upgrade)" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="8cb8-33e7-a10d-32db"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Terminator Squad unit only. The bearer's unit's melee attacks gain +1 Weapon Skill.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="57c0-ef13-28ce-0731" shared="true" id="77c2-8c86-ecf0-fa6c" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Butchers Of Khorne</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Sanctified In Slaughter (Upgrade)" hidden="false" id="6e5c-06fd-babe-bc40"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ca73-eb0d-f23a-a5eb" includeChildSelections="true" /></constraints><profiles><profile name="Sanctified In Slaughter (Upgrade)" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="e0ba-ce2e-b3cc-1377"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="57c0-ef13-28ce-0731" shared="true" id="2d00-2bd5-0275-088e" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Butchers Of Khorne</comment></selectionEntry>
+      <selectionEntries>
         <selectionEntry id="2c4c-5aac-b510-28ef" name="Berzerker Glaive" hidden="false" collective="false" import="true" type="upgrade" sortIndex="2">
           <constraints>
             <constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6511-59d-8149-65dc" includeChildSelections="true" />
@@ -14630,7 +14630,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="0879-fde1-c843-496a" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Murder-forged Entity" hidden="false" id="3960-e58c-a6d3-c5f0"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="635c-96c8-eebe-7242" includeChildSelections="true" /></constraints><profiles><profile name="Murder-forged Entity" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="d4a3-2c42-ac08-9e95"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="a5c7-3912-757b-ba89" shared="true" id="0f88-8ba3-e53e-f4ea" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Brazen Engines</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Talons of Butchery" hidden="false" id="3090-1003-335f-831f"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="3add-a838-2d77-0885" includeChildSelections="true" /></constraints><profiles><profile name="Talons of Butchery" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="9f1b-067d-8604-9bcb"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="a5c7-3912-757b-ba89" shared="true" id="c1f9-4502-8fe1-0477" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Brazen Engines</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Gore-stained Veterans" hidden="false" id="96fa-4d4a-1571-de17"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="0abc-453c-b9e5-a1c4" includeChildSelections="true" /></constraints><profiles><profile name="Gore-stained Veterans" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="9bae-62ea-8b26-9225"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Terminator Squad unit only. The bearer's unit's melee attacks gain +1 Weapon Skill.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="57c0-ef13-28ce-0731" shared="true" id="d0f5-226d-c45e-42db" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Butchers Of Khorne</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Sanctified in Slaughter" hidden="false" id="c9d4-3774-7603-c878"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f76e-3d7f-9960-5589" includeChildSelections="true" /></constraints><profiles><profile name="Sanctified in Slaughter" typeId="e84c-e5e3-3819-db1e" typeName="Abilities" hidden="false" id="a219-1517-293a-4883"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="57c0-ef13-28ce-0731" shared="true" id="77c2-0871-0c49-c751" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Butchers Of Khorne</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="e68b-b42f-6f7c-4670" name="Blessings of Khorne" hidden="false">
       <description>If your Army Faction is ^^**World Eaters^^**, at the start of the battle round, you can make a Blessings of Khorne roll. To do so, roll eight D6. You can then use those dice to activate up to two Blessings of Khorne. Each Blessing of Khorne specifies the dice results it requires (where a number is specified, a double or triple of that value or higher is required). You can only activate each Blessing of Khorne once per battle round. Any unused dice from the Blessings of Khorne roll are then discarded. Once activated, each Blessing of Khorne applies to all units from your army with this ability until the end of the battle round.

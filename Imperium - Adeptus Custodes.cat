@@ -514,7 +514,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="3628-1147-6c17-f2c7" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="d7cb-7d30-715b-50d2" name="Anathema Psykana Rhino" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="ff64-897e-0812-ab0f" name="Anathema Psykana Rhino" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -704,7 +704,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="b2aa-de82-d207-e20b" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="48b7-e713-d5b1-f11c" name="Blade Champion" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="1a70-8702-4179-b711" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -1219,7 +1219,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="15e3-0d98-8dcb-d896" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="9610-b148-8433-93b8" name="Custodian Wardens" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="260">
@@ -1552,7 +1552,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="82b0-2580-a350-de7e" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="7099-71b-56e8-7191" name="Knight-Centura" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="77f4-76e5-b2df-6483" name="Knight-Centura" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -2123,7 +2123,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e257-c9f2-7545-4f4f" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="4eb3-34fa-d7f1-1588" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="b61c-b815-65c0-b1cc" name="Shield-Captain" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="f8f3-0f06-13d0-6eaa" name="Shield-Captain" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -3433,7 +3433,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="16d3-7447-e1a6-9d1f" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="76be-3bcb-cf4-bcbd" name="Venerable Land Raider" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="23e5-3935-505a-34b2" name="Venerable Land Raider" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -3676,7 +3676,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4eb8-aae4-e1bb-6d89" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="918b-c9ed-7af7-74df" name="Vertus Praetors" hidden="false" collective="false" import="true" type="unit">
       <modifierGroups>
         <modifierGroup>
@@ -3935,7 +3935,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ce3a-8174-b065-21e5" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="a241-6fe3-77ee-55a2" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="dd2d-568a-9c56-1b6e" name="Vigilators" hidden="false" collective="false" import="true" type="unit">
       <modifierGroups>
         <modifierGroup>
@@ -4159,7 +4159,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d94e-0b19-7b8d-aab9" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="3d75-0a2c-13d4-b874" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="503b-f7be-eeeb-9e31" name="Witchseekers" hidden="false" collective="false" import="true" type="unit">
       <modifierGroups>
         <modifierGroup>
@@ -4396,7 +4396,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="abea-a8b9-b379-66e9" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="6560-343f-cc67-7634" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="af0f-5212-907e-7125" name="Custodian Guard with Adrasite and Pyrithite spears" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="9ab1-2eb7-a100-ab90" name="Stand Vigil" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -4625,7 +4625,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4010-4e25-154a-be99" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="6f9f-e6aa-ba13-aab1" name="Sagittarum Custodians" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="85d7-f209-acae-3353" name="Disintegration Beams" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -4802,7 +4802,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2488-9748-9582-c3b2" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="03bc-0141-b967-40e0" name="Aquilon Custodians" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="390">
@@ -5037,7 +5037,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="fb3c-0050-e498-9807" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="00ab-41c4-cf52-4ad2" name="Agamatus Custodians" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="450">
@@ -5337,7 +5337,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="908b-bfe3-2e54-0126" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="201e-e502-a8d1-3974" name="Venatari Custodians" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="330">
@@ -5586,7 +5586,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="7e6c-2675-d433-5d63" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="4988-d93e-5034-2b3c" name="Contemptor-Galatus Dreadnought" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="12f1-b6ca-867b-5c7c" name="Contemptor-Galatus Dreadnought" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5763,7 +5763,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="53e6-9892-ef5f-bc26" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="db3b-02cd-87a2-3b52" name="Contemptor-Achillus Dreadnought" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="1e1f-9a94-957f-9165" name="Contemptor-Achillus Dreadnought" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6026,7 +6026,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="fdb1-aeca-e296-374a" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="06df-2fb2-8dfa-2fce" name="Pallas Grav-attack" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="102e-5ed1-6d31-0d93" name="Palas Grav-attack" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6194,7 +6194,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f03b-a041-1642-913f" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="3ee2-62a9-af84-1a90" name="Caladius Grav-tank" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="f676-72df-2ed7-8834" name="Caladius Grav-tank" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6426,7 +6426,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="397b-3d2e-7e63-f8da" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e7d8-1c73-7d03-8b62" name="Telemon Heavy Dreadnought" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="013b-ab38-f992-ff77" name="Telemon Heavy Dreadnought" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6752,7 +6752,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1321-939d-71cd-ada6" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="f35e-ef9c-9ef4-77e1" name="Coronus Grav-carrier" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="588c-2aa2-db7f-17be" name="Coronus Grav-carrier" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6957,7 +6957,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="d8b0-336e-8120-3a0d" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="9c1a-7efd-ed36-440e" name="Orion Assault Dropship" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="c753-bc07-06bb-6254" name="Orion Assault Dropship" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -7185,7 +7185,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f6e9-ac62-dc1e-848b" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="9335-74d9-ad68-3ff7" name="Ares Gunship" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="e3eb-3331-b91f-eeb5" name="Ares Gunship" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -7379,7 +7379,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="e15e-044f-1173-825e" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="0574-f558-2957-584f" name="Warlord" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3625-fc31-9e05-c2d8" type="max" />
@@ -8135,7 +8135,7 @@ All other **^^Adeptus Custodes**^^ units from your army gain the following abili
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e2a7-700a-3792-20fd" type="max" />
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="1e45-4ce0-9cdf-d90f" includeChildSelections="true" />
       </constraints>
-      <selectionEntries><selectionEntry type="upgrade" import="true" name="Auramite Sarcophagus (Upgrade)" hidden="false" id="f6fc-4758-b1e0-a1fb"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="5f5a-3b68-ed12-cfba" includeChildSelections="true" /></constraints><profiles><profile name="Auramite Sarcophagus (Upgrade)" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="ee0b-b6f1-33ee-d1e7"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Reduces the cost of the Crushing Impact stratagem by 1CP for the bearer's Adeptus Custodes Walker unit.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f3b-0051-46bc-edec" shared="true" id="18da-02ff-f7d7-1152" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Might Of The Moritoi</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Interred Expertise (Upgrade)" hidden="false" id="5882-f4d7-5a41-49fe"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2977-16de-dde4-e201" includeChildSelections="true" /></constraints><profiles><profile name="Interred Expertise (Upgrade)" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="f60b-d0aa-b505-10fa"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f3b-0051-46bc-edec" shared="true" id="5bf1-a463-8431-e842" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Might Of The Moritoi</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Encircling Hunter" hidden="false" id="abfd-525c-818e-a282"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="5cf0-83e3-e760-3cdc" includeChildSelections="true" /></constraints><profiles><profile name="Encircling Hunter" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="a715-85ca-d68f-dacf"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2605-f747-c4af-c8cd" shared="true" id="a349-ec0a-4850-5d68" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Silent Hunters</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Psyk-Out Grenades (Upgrade)" hidden="false" id="b389-8c19-4b87-10d4"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="1f41-dd13-d45a-c5ba" includeChildSelections="true" /></constraints><profiles><profile name="Psyk-Out Grenades (Upgrade)" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="91ab-5a21-3c6c-76f1"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer's Anathema Psykana unit gains the Grenades ability and re-rolls mortal-wound rolls when using the Grenades stratagem against Psykers.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2605-f747-c4af-c8cd" shared="true" id="90c4-1807-d66c-eb73" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Silent Hunters</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Efficient Aggression" hidden="false" id="bea3-4ca6-10b1-84bc"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="057c-bed9-4a0c-6f61" includeChildSelections="true" /></constraints><profiles><profile name="Efficient Aggression" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="8fd7-268d-0526-df16"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="c390-8542-fbdd-e1a2" shared="true" id="4cdc-2b37-6313-8d9b" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Tharanatoi Hammerblow</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Mnemo-Locked Shrine Cipher" hidden="false" id="9762-e247-ae75-ae74"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ac25-766d-9b8d-4b47" includeChildSelections="true" /></constraints><profiles><profile name="Mnemo-Locked Shrine Cipher" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="1bca-e9e2-9014-d6c9"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Custodes Terminator model only. In your first Movement phase, the bearer's unit can make an ingress move.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="c390-8542-fbdd-e1a2" shared="true" id="8a97-66dd-dee9-0821" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Tharanatoi Hammerblow</comment></selectionEntry>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Encircling Hunter" hidden="false" id="abfd-525c-818e-a282"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="5cf0-83e3-e760-3cdc" includeChildSelections="true" /></constraints><profiles><profile name="Encircling Hunter" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="a715-85ca-d68f-dacf"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2605-f747-c4af-c8cd" shared="true" id="a349-ec0a-4850-5d68" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Silent Hunters</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Efficient Aggression" hidden="false" id="bea3-4ca6-10b1-84bc"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="057c-bed9-4a0c-6f61" includeChildSelections="true" /></constraints><profiles><profile name="Efficient Aggression" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="8fd7-268d-0526-df16"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="c390-8542-fbdd-e1a2" shared="true" id="4cdc-2b37-6313-8d9b" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Tharanatoi Hammerblow</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Mnemo-Locked Shrine Cipher" hidden="false" id="9762-e247-ae75-ae74"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ac25-766d-9b8d-4b47" includeChildSelections="true" /></constraints><profiles><profile name="Mnemo-Locked Shrine Cipher" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="1bca-e9e2-9014-d6c9"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Adeptus Custodes Terminator model only. In your first Movement phase, the bearer's unit can make an ingress move.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="c390-8542-fbdd-e1a2" shared="true" id="8a97-66dd-dee9-0821" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Tharanatoi Hammerblow</comment></selectionEntry>
         <selectionEntry id="8d42-66ef-fdf8-2323" name="Raptor Blade" hidden="false" collective="false" import="true" type="upgrade">
           <profiles>
             <profile id="8c82-5364-20d8-6dd6" name="Raptor Blade" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -11371,7 +11371,7 @@ All other **^^Adeptus Custodes**^^ units from your army gain the following abili
       </entryLinks>
       <comment>Solar Spearhead detachment upgrade</comment>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="1d17-8fb0-b44c-9c51" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Auramite Sarcophagus" hidden="false" id="fd6b-c4d0-c56b-026b"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="03ba-8df8-6e61-fdc0" includeChildSelections="true" /></constraints><profiles><profile name="Auramite Sarcophagus" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="c928-e170-babc-34e0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Reduces the cost of the Crushing Impact stratagem by 1CP for the bearer's Adeptus Custodes Walker unit.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f3b-0051-46bc-edec" shared="true" id="bb9c-02a2-b698-f443" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Might Of The Moritoi</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Interred Expertise" hidden="false" id="08bf-2184-089e-a709"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8ed1-c030-f15d-fcb5" includeChildSelections="true" /></constraints><profiles><profile name="Interred Expertise" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="9749-4a0a-da2d-d7ab"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="6f3b-0051-46bc-edec" shared="true" id="f7a0-01c3-7621-80c4" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Might Of The Moritoi</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Psyk-out Grenades" hidden="false" id="3dc3-bcdb-e4d7-013f"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="63eb-4e5d-bd54-3656" includeChildSelections="true" /></constraints><profiles><profile name="Psyk-out Grenades" typeId="957b-3814-759a-a6f9" typeName="Abilities" hidden="false" id="9005-6ee7-02ed-5a2f"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer's Anathema Psykana unit gains the Grenades ability and re-rolls mortal-wound rolls when using the Grenades stratagem against Psykers.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2605-f747-c4af-c8cd" shared="true" id="ce4f-d232-7d92-5505" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Silent Hunters</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="e348-7090-3aff-ee2c" name="Martial Ka'tah" hidden="false">
       <description>Each time a unit with this ability is selected to fight, select one of the Ka'tah stances below. Until that unit has finished making its attacks, the selected Stance is active for it and it gains the relevant ability.

@@ -624,7 +624,7 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
-        </selectionEntry>
+        <entryLink id="b034-0e8c-7508-61ef" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -720,7 +720,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4d0f-64e0-f914-f9af" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Hyperadapted Raveners" hidden="false" id="c10d-772e-a54f-a2b9">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="165" />
@@ -1203,7 +1203,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="46a4-07e6-11ba-4072" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Mawloc" hidden="false" id="2bbb-d811-15f7-1a81">
       <categoryLinks>
         <categoryLink targetId="c729-fe17-f963-16b2" id="f3a9-d3cb-9ee-5241" primary="false" name="Mawloc" />
@@ -1393,7 +1393,7 @@
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="b7e6-40d4-d392-1864" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Neurolictor" hidden="false" id="642f-9302-4fdc-ab68">
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="c3ee-fbd0-ef69-d624" primary="true" name="Infantry" />
@@ -1621,7 +1621,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="4033-66e2-9223-a4de" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Parasite of Mortrex" hidden="false" id="d213-efd8-a2b4-42d2">
       <categoryLinks>
         <categoryLink targetId="6646-3625-4f52-f47c" id="dbb8-1177-ca8-c41c" primary="false" name="Parasite of Mortrex" />
@@ -2077,7 +2077,7 @@
           </modifierGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="d7c7-f61e-242a-4f1d" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Trygon" hidden="false" id="56db-d7c-b349-677f">
       <categoryLinks>
         <categoryLink targetId="c3a7-fdae-a434-6eff" id="df2a-3614-ebd2-8b7" primary="false" name="Trygon" />
@@ -2305,7 +2305,7 @@
           </modifierGroups>
         </selectionEntry>
       </selectionEntries>
-    </selectionEntry>
+    <entryLink id="ab51-56c7-f974-cfc8" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Tyrannocyte" hidden="false" id="fada-677a-f6a4-cd12">
       <categoryLinks>
         <categoryLink targetId="ba07-411c-2832-1f79" id="e23f-a3dc-eb2c-308" primary="true" name="Dedicated Transport" />
@@ -2487,7 +2487,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="0334-47aa-ad92-818d" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Von Ryan's Leapers" hidden="false" id="9bd8-ac8c-2d3b-79f6">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="60" />
@@ -2741,7 +2741,7 @@
           </modifierGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="492a-57b3-458a-76c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="ceab-62d9-31bf-7c61" name="Warlord" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a9c-a415-9934-68cc" type="max" />
@@ -2945,7 +2945,7 @@
           </modifiers>
         </entryLink>
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="3e28-6cbe-1a3c-3c47" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Ravener heavy claws and talons" hidden="false" id="9be2-c3dc-90ac-a3ac">
       <profiles>
         <profile name="Ravener heavy claws and talons" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="7c98-8d1f-50e2-8d73">
@@ -4202,7 +4202,7 @@ In the Deploy Armies step, your opponent must set up their entire army before yo
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="875a-8354-9bf1-886d" type="max" />
           </constraints>
-          <selectionEntries><selectionEntry type="upgrade" import="true" name="Cryptophotaic Camouflage (Upgrade)" hidden="false" id="6fa5-8c2c-a50e-a593"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="4c59-1b98-f250-1cf8" includeChildSelections="true" /></constraints><profiles><profile name="Cryptophotaic Camouflage (Upgrade)" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="bbda-f2bf-79f4-5507"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e037-2908-95c2-27ef" shared="true" id="1550-9dae-3ed5-49d7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Ambush Predators</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Encircling Horrors (Upgrade)" hidden="false" id="6624-412b-8587-3e29"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ea73-ba0a-ac8c-06f0" includeChildSelections="true" /></constraints><profiles><profile name="Encircling Horrors (Upgrade)" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="fcb1-bb53-e4ca-7687"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Neurolictor, Lictor or Von Ryan's Leapers bearer only. When an enemy unit ends a move within 8", the bearer's unit makes a Normal move of D3+3".</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e037-2908-95c2-27ef" shared="true" id="20cb-df9b-3eb2-66e0" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Ambush Predators</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Destabilising Predation (Upgrade)" hidden="false" id="bee3-2517-71d9-a413"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f7e6-623d-4635-eaa4" includeChildSelections="true" /></constraints><profiles><profile name="Destabilising Predation (Upgrade)" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="82bb-7c8e-2044-8549"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Norn Emissary bearer only. The bearer's ranged attacks gain the [Anti-Character 2+] ability.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="080f-7971-ea7c-1895" shared="true" id="d492-3801-97db-ba34" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Talons Of The Norn Queen</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Synaptoprescience (Upgrade)" hidden="false" id="d1d0-6c89-6085-c26d"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="4e95-80e0-a37c-6466" includeChildSelections="true" /></constraints><profiles><profile name="Synaptoprescience (Upgrade)" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="240e-5850-4a68-3067"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="080f-7971-ea7c-1895" shared="true" id="a636-f04d-f963-1725" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Talons Of The Norn Queen</comment></selectionEntry>
+          <selectionEntries>
             <selectionEntry id="1b44-a62d-8dcf-c9d9" name="Alien Cunning" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="set" field="hidden" value="true">
@@ -9434,7 +9434,7 @@ You can include up to one of the following unit:
         <entryLink import="true" name="Boarding Actiions Upgrades" hidden="false" id="aaf1-5125-3c6a-a637" type="selectionEntryGroup" targetId="3167-0f5b-caba-d96e" />
       </entryLinks>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="a980-9d97-c46c-9bae" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Cryptophotaic Camouflage" hidden="false" id="a2f6-706c-2c07-7702"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="bd37-ca9f-de37-ad8f" includeChildSelections="true" /></constraints><profiles><profile name="Cryptophotaic Camouflage" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="5d93-9058-e172-a527"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e037-2908-95c2-27ef" shared="true" id="9de7-978d-334a-920f" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Ambush Predators</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Encircling Horrors" hidden="false" id="2ce4-4bda-38bf-cb11"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="e1c5-174b-3938-7ff3" includeChildSelections="true" /></constraints><profiles><profile name="Encircling Horrors" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="de87-d301-e0fa-4921"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Neurolictor, Lictor or Von Ryan's Leapers bearer only. When an enemy unit ends a move within 8", the bearer's unit makes a Normal move of D3+3".</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e037-2908-95c2-27ef" shared="true" id="bc4d-9dc9-ba16-976f" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Ambush Predators</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Destabilising Predation" hidden="false" id="7032-95d4-ad54-5bd6"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="44d5-599d-184a-1c7e" includeChildSelections="true" /></constraints><profiles><profile name="Destabilising Predation" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="a86e-2ac8-77bc-f177"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Norn Emissary bearer only. The bearer's ranged attacks gain the [Anti-Character 2+] ability.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="080f-7971-ea7c-1895" shared="true" id="be7b-7f54-32bc-d9f3" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Talons Of The Norn Queen</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Synaptoprescience" hidden="false" id="88df-af28-b0eb-bc56"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f06f-7bc5-e14a-5843" includeChildSelections="true" /></constraints><profiles><profile name="Synaptoprescience" typeId="bdac-5b09-9843-5aed" typeName="Abilities" hidden="false" id="d6a2-032e-327c-281e"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="080f-7971-ea7c-1895" shared="true" id="7b90-801f-a0c3-db6d" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="25" /></costs><comment>Talons Of The Norn Queen</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedProfiles>
     <profile name="Damaged: 1-4 Wounds Remaining" hidden="false" id="b4a8-7659-cc29-b18e" typeName="Abilities" typeId="9cc3-6d83-4dd3-9b64">
       <characteristics>

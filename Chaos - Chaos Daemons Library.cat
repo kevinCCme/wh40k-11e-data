@@ -1971,7 +1971,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f217-adca-60ca-621d" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e4f0-79-126a-ac41" name="Hellblade" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6e6a-aca3-cbae-6614" type="min" />
@@ -2208,7 +2208,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5a1a-cdab-a1ef-6452" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="fd31-64a2-b20f-f0bc" name="Flesh Hounds" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="150">
@@ -2426,7 +2426,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4464-b758-5365-7abe" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="fbad-4487-a8bc-9ef0" name="Collar of Khorne" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2c63-de20-b0b5-95f8" type="min" />
@@ -2692,7 +2692,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5b82-7b2e-ebdf-6215" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="464a-b548-355f-2058" name="Skull Altar" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="2678-9993-7e61-dc81" type="max" />
@@ -2750,7 +2750,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="100b-ae59-f759-04fa" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="2c37-2898-8350-ef45" name="Be'lakor" publicationId="e3ec-7a32-ae62-8727" page="109-110" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="d5a2-e715-2f49-38b4" type="max" />
@@ -5969,7 +5969,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a2f7-44d1-736d-be96" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e7b8-aa40-6da7-778e" name="Pink Horrors" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="e8b6-ebeb-25c4-8f3" type="max" />
@@ -6248,7 +6248,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="fe5b-bcdb-da92-130e" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="5f23-4d6-f2f9-5973" name="Flamers" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="130">
@@ -6521,7 +6521,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="a92d-3ced-078d-d2d4" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="de54-5b38-8ca1-c39c" name="Exalted Flamer" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="fd63-575d-f73b-d1f7" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -6901,7 +6901,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6e3e-1039-8c7a-b3df" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="f6eb-b62f-5baf-d96d" name="Burning Chariot" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="e8b6-ebeb-25c4-8f3" type="max" />
@@ -7103,7 +7103,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f229-6041-f23c-577c" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="4f1b-9153-bd36-71ff" name="Fires of Tzeentch" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9a1b-aea9-b24e-c010" type="min" />
@@ -8740,7 +8740,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="03d8-560d-53e7-acd8" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e403-3a9-279e-41b7" name="Nurglings" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="70">
@@ -8923,7 +8923,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1c4a-094d-578a-a002" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="2de0-5897-f724-a592" name="Beasts of Nurgle" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="c3f8-2dac-ca29-750" type="max" />
@@ -9109,7 +9109,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5ba8-6d4b-4bed-073a" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="d620-146a-41cd-f28f" name="Plague Drones" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="220">
@@ -9455,7 +9455,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="9e06-b080-f9ce-0e01" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="13f0-d2b5-6201-ba84" name="Feculent Gnarlmaw" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="a6bf-5d1d-e5cd-b79d" name="Feculent Gnarlmaw" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -9514,7 +9514,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="a22d-1106-04e2-6ae8" percentValue="false" includeChildSelections="true" includeChildForces="false" />
       </constraints>
-    </selectionEntry>
+    <entryLink id="62d7-7b12-6f90-d8da" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="c49d-5ebc-4ee4-689e" name="Shalaxi Helbane" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="b280-61e7-c9e0-f54a" type="max" />
@@ -11555,7 +11555,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6f9e-0dc5-f49c-8d67" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="d1ee-8d05-4fae-1727" name="Fiends" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="190">
@@ -11660,7 +11660,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
           </costs>
-        </selectionEntry>
+        <entryLink id="f124-42c4-c62c-e37c" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -11740,7 +11740,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ce06-fb80-76fe-eda4" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="112d-8078-777f-76a5" name="Seekers" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="160">
@@ -12044,7 +12044,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f41c-262c-40a9-0151" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="e8d-bf22-b29-d20e" name="Hellflayers" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="48f9-159a-3c0d-a439" type="max" />
@@ -12298,7 +12298,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="8c41-8ef7-3277-04c1" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="5fe1-5a7a-9f8e-21e0" name="Seeker Chariot [Legends]" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="907f-21a6-8734-3466" name="Scythed Impact" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -15559,7 +15559,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
         <constraint field="selections" scope="self" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="a3d6-d68e-bad4-87c4" type="max" />
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="beb0-b746-d96b-b611" type="max" />
       </constraints>
-      <selectionEntries><selectionEntry type="upgrade" import="true" name="Apocalyptic Steeds (Upgrade)" hidden="false" id="a563-2c04-0b7a-b7a2"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="c9fa-95da-ef6c-140c" includeChildSelections="true" /></constraints><profiles><profile name="Apocalyptic Steeds (Upgrade)" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="9b1e-d232-7411-dca9"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="f1cb-965e-8b7d-4790" shared="true" id="1d88-d897-500d-068d" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Cavalcade Of Chaos</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Soul-Shattering Charge (Upgrade)" hidden="false" id="c6ce-96eb-6443-84af"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6108-935f-0717-0f6d" includeChildSelections="true" /></constraints><profiles><profile name="Soul-Shattering Charge (Upgrade)" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="bb18-4c56-827c-13cf"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Legiones Daemonica Mounted only. When the bearer's unit is selected to fight after charging this turn, its models within 3" of an enemy unit already engaged can target that enemy in combat.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="f1cb-965e-8b7d-4790" shared="true" id="446d-8ece-050a-1621" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Cavalcade Of Chaos</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Swollen With Power (Upgrade)" hidden="false" id="5036-ae9b-5b2b-1e54"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="9463-a519-2e3e-09ad" includeChildSelections="true" /></constraints><profiles><profile name="Swollen With Power (Upgrade)" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="195b-3b92-5577-6bf5"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Legiones Daemonica Character (excluding Monster) only. The bearer gains +2 Wounds.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="d021-6365-0008-88ff" shared="true" id="21be-3a07-a40b-1a94" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Lords Of The Warp</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Bane-Forged Weapons (Upgrade)" hidden="false" id="335b-506b-4e0d-0a49"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="c856-04f5-2f97-4226" includeChildSelections="true" /></constraints><profiles><profile name="Bane-Forged Weapons (Upgrade)" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="928a-9339-d5ad-373d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Legiones Daemonica Battleline only. Attacks made by the bearer's unit gain +1 Strength (this enhancement can be given to up to three units).</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="3c76-432d-1ef4-eb1e" shared="true" id="c803-34df-c8db-7633" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Warptide</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Soul-Hungry Slaughterers (Upgrade)" hidden="false" id="b864-4aeb-4326-3eed"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="88da-31d6-4012-4a96" includeChildSelections="true" /></constraints><profiles><profile name="Soul-Hungry Slaughterers (Upgrade)" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="e642-14a2-6354-cf0a"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="3c76-432d-1ef4-eb1e" shared="true" id="4a32-ca89-3b06-8f79" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Warptide</comment></selectionEntry>
+      <selectionEntries>
         <selectionEntry id="55e8-3587-8285-d3e0" name="A'rgath, the King of Blades" publicationId="e3ec-7a32-ae62-8727" page="5" hidden="false" collective="false" import="true" type="upgrade" sortIndex="5">
           <modifiers>
             <modifier type="set" field="hidden" value="true">
@@ -18649,7 +18649,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="5d40-93a4-9d64-8989" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Apocalyptic Steeds" hidden="false" id="b027-cb6c-aa7b-61c7"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2f30-fb5e-2437-2e79" includeChildSelections="true" /></constraints><profiles><profile name="Apocalyptic Steeds" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="34b7-0814-c6e6-1b64"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="f1cb-965e-8b7d-4790" shared="true" id="f9f5-e405-df51-f795" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Cavalcade Of Chaos</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Soul-shattering Charge" hidden="false" id="0fa6-89e6-bddf-c7cc"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="116d-f364-f73d-201d" includeChildSelections="true" /></constraints><profiles><profile name="Soul-shattering Charge" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="faa5-851f-2c24-8a17"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Legiones Daemonica Mounted only. When the bearer's unit is selected to fight after charging this turn, its models within 3" of an enemy unit already engaged can target that enemy in combat.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="f1cb-965e-8b7d-4790" shared="true" id="2e7d-f5fc-cc00-4a28" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Cavalcade Of Chaos</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Swollen with Power" hidden="false" id="c574-88c6-2390-8cb3"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="1638-06ba-19a4-9956" includeChildSelections="true" /></constraints><profiles><profile name="Swollen with Power" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="dc58-f0bd-ee6b-3004"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Legiones Daemonica Character (excluding Monster) only. The bearer gains +2 Wounds.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="d021-6365-0008-88ff" shared="true" id="88b4-b9b2-f42f-b2fa" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Lords Of The Warp</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Bane-forged Weapons" hidden="false" id="a628-f7e0-173e-61bc"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="069a-4610-78cb-faf0" includeChildSelections="true" /></constraints><profiles><profile name="Bane-forged Weapons" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="8b59-3eea-95b0-1304"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Legiones Daemonica Battleline only. Attacks made by the bearer's unit gain +1 Strength (this enhancement can be given to up to three units).</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="3c76-432d-1ef4-eb1e" shared="true" id="ee7a-5e8c-2aea-d0aa" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Warptide</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Soul-hungry Slaughterers" hidden="false" id="49d3-f53f-5103-5eba"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8a73-a24b-2f08-2b5b" includeChildSelections="true" /></constraints><profiles><profile name="Soul-hungry Slaughterers" typeId="cffc-137a-2a20-bc57" typeName="Abilities" hidden="false" id="8219-322f-b5c0-bfa4"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="3c76-432d-1ef4-eb1e" shared="true" id="caff-d16b-d89a-3da3" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Warptide</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="a312-a2f1-e1c0-30ed" name="The Shadow of Chaos" publicationId="e3ec-7a32-ae62-8727" page="1" hidden="false">
       <description>If your Army Faction is LEGIONES DAEMONICA, certain areas of the battlefield are considered to be within your army’s Shadow of Chaos, as follows: 

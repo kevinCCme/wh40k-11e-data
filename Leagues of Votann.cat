@@ -1199,7 +1199,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="8546-20e2-fd11-f3cf" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="0369-3c56-a9d1-307d" name="Rampart crest" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6ff2-95cb-4971-9430" type="max" />
@@ -3084,7 +3084,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
               <costs>
                 <cost name="pts" typeId="51b2-306e-1021-d207" value="130" />
               </costs>
-            </selectionEntry>
+            <entryLink id="9f2c-d66f-8d67-90a9" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
@@ -3165,7 +3165,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="3ddc-3857-784f-7ef7" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="415a-e6f6-d17f-d700" name="Cthonian Beserks" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="200">
@@ -3607,7 +3607,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1344-b2f5-8aad-37a5" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="9086-5272-398b-bbce" name="Hernkyn Pioneers" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="160">
@@ -4057,7 +4057,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ef7e-e496-1339-7dc9" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="4a84-915b-cfe5-a091" name="Bolt revolver" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="229d-ae61-24f2-ae25" type="min" />
@@ -4412,7 +4412,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5bbf-382d-71f3-8fe3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="ea1b-99f6-c398-06b1" name="Brôkhyr Thunderkyn" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="160">
@@ -4640,7 +4640,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
           </costs>
-        </selectionEntry>
+        <entryLink id="6eac-8692-249c-a31a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -4719,7 +4719,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="60cb-e0ac-db47-3bc1" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="a110-e538-4e85-159b" name="Hekaton Land Fortress" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="3d20-658f-d5de-a094" name="Hekaton Land Fortress" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5059,7 +5059,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="26a9-f155-a0fe-ec30" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="43cd-5e9f-e550-83e0" name="Twin bolt cannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="a63c-aa6e-395c-714d" name="Twin bolt cannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -5525,7 +5525,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    </selectionEntry>
+    <entryLink id="a89d-1630-692e-833c" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Buri Aegnirssen" hidden="false" id="b7e1-55fd-9aae-b690">
       <categoryLinks>
         <categoryLink name="Epic Hero" hidden="false" id="dfd4-6487-d581-1742" targetId="4f3a-f0f7-6647-348d" primary="true" />
@@ -6287,7 +6287,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
         </infoLink>
         <infoLink name="Guerrilla Adepts" id="e4bd-3851-f0fb-6f76" hidden="false" type="profile" targetId="3ec4-7c77-e372-884e" />
       </infoLinks>
-    </selectionEntry>
+    <entryLink id="0d86-ea6a-b77d-eef4" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin magna-coil autocannon" hidden="false" id="9767-47cb-3455-140e">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3d27-16f3-5e53-237d-min" includeChildSelections="false" />
@@ -6519,7 +6519,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="fecb-61f9-aa37-335d" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Ironkin Steeljacks with Heavy Volkanite Disintegrators" hidden="false" id="1e3f-209d-798f-3a42">
       <categoryLinks>
         <categoryLink name="Faction: Leagues of Votann" hidden="false" id="0f71-01de-1ab3-694c" targetId="8474-765-16a9-f00d" primary="false" />
@@ -6712,7 +6712,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
           </conditions>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="2517-56f5-21fa-dac0" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy volkanite disintegrator" hidden="false" id="3909-7f26-8361-4746" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8864-77e0-f148-f060-min" includeChildSelections="false" />
@@ -6962,7 +6962,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
         <cost name="Blackstone Fragments" typeId="ac6b-ced3-9b5e-9a6e" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="41a2-bd98-ecd8-c94a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Preymark crest" hidden="false" id="2ced-2cf6-7ef8-5430">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6013-eb54-cb05-05da-min" includeChildSelections="false" />
@@ -7242,7 +7242,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="dd22-56aa-2d68-bcc3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Close combat weapon" hidden="false" id="ad15-fc45-03eb-59ac" collective="true">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4089-76ae-1216-dc45" percentValue="false" includeChildSelections="false" includeChildForces="false" />
@@ -7871,7 +7871,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <constraint field="selections" scope="self" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="0c91-7a29-79f7-7a20" type="max" />
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="7161-ad42-57a5-8b41" type="max" />
       </constraints>
-      <selectionEntries><selectionEntry type="upgrade" import="true" name="Optimised Attack Lines (Upgrade)" hidden="false" id="7b16-7c1f-5b42-8710"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="1455-9cb7-9c6c-2e9c" includeChildSelections="true" /></constraints><profiles><profile name="Optimised Attack Lines (Upgrade)" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="c276-2045-1273-1c46"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Sagitaur unit only. The bearer's unit gains the Mobile ability, letting it move horizontally through dense terrain.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2c1f-9b2a-af50-580f" shared="true" id="76f7-b6d6-a0d7-e7a8" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Armoured Trailblazers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Saturation Rounds (Upgrade)" hidden="false" id="050e-f6a4-7d8e-be6f"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="ed2d-2ba0-93e2-3ed4" includeChildSelections="true" /></constraints><profiles><profile name="Saturation Rounds (Upgrade)" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="27a6-a8ba-2bf2-545c"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2c1f-9b2a-af50-580f" shared="true" id="707b-d2e1-438d-f096" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Armoured Trailblazers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Pan-Spectral Lockons (Upgrade)" hidden="false" id="4a32-fd67-776a-9fa8"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="40c6-5050-004b-68c1" includeChildSelections="true" /></constraints><profiles><profile name="Pan-Spectral Lockons (Upgrade)" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="8715-37d1-7d3f-7726"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Pioneers unit only. In the Shooting phase, select one visible enemy unit within 12"; that unit becomes spotted and suffers +3" detection range.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e612-78c7-719c-e3c9" shared="true" id="f7fc-4305-e0b4-35f7" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Farseekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Shroudwërke Talismans (Upgrade)" hidden="false" id="a44a-dc47-c98e-01ac"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="9a96-16d0-0dea-c9a0" includeChildSelections="true" /></constraints><profiles><profile name="Shroudwërke Talismans (Upgrade)" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="e612-c5fc-6a26-abc0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e612-78c7-719c-e3c9" shared="true" id="ce1b-9ed4-6739-2764" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Farseekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="High Kâhl" hidden="false" id="b563-4591-c1a1-ccbc"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8f58-78bc-4b5d-35a9" includeChildSelections="true" /></constraints><profiles><profile name="High Kâhl" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="63c9-e065-4b10-ac9d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Kâhl model only. In the Fight phase, when the bearer would be destroyed and has not yet fought this phase, roll a D6; on a 4+ it is not removed and instead is removed after the unit fights or the phase ends.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="27b4-20b3-bc28-c770" shared="true" id="bcd9-b464-f2ec-7cce" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Hearthguard Covenant</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Ironskein" hidden="false" id="3bf6-e36e-c170-6d5b"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="7996-f5ae-af61-ab6c" includeChildSelections="true" /></constraints><profiles><profile name="Ironskein" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="bd65-9d02-24f3-4685"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="27b4-20b3-bc28-c770" shared="true" id="f046-db2a-3b95-f7d4" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Hearthguard Covenant</comment></selectionEntry>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="High Kâhl" hidden="false" id="b563-4591-c1a1-ccbc"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="8f58-78bc-4b5d-35a9" includeChildSelections="true" /></constraints><profiles><profile name="High Kâhl" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="63c9-e065-4b10-ac9d"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Kâhl model only. In the Fight phase, when the bearer would be destroyed and has not yet fought this phase, roll a D6; on a 4+ it is not removed and instead is removed after the unit fights or the phase ends.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="27b4-20b3-bc28-c770" shared="true" id="bcd9-b464-f2ec-7cce" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Hearthguard Covenant</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Ironskein" hidden="false" id="3bf6-e36e-c170-6d5b"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="7996-f5ae-af61-ab6c" includeChildSelections="true" /></constraints><profiles><profile name="Ironskein" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="bd65-9d02-24f3-4685"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="27b4-20b3-bc28-c770" shared="true" id="f046-db2a-3b95-f7d4" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Hearthguard Covenant</comment></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Bastion Shield" hidden="false" id="7d25-b49e-85d4-d20a" sortIndex="9">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -13101,7 +13101,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="f38d-d3bc-eb1b-302d" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Optimised Attack Lines" hidden="false" id="a288-7dd6-9e64-b681"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f1c3-86c1-cefe-b986" includeChildSelections="true" /></constraints><profiles><profile name="Optimised Attack Lines" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="3a77-b420-9260-43a2"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Sagitaur unit only. The bearer's unit gains the Mobile ability, letting it move horizontally through dense terrain.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2c1f-9b2a-af50-580f" shared="true" id="9ba7-eb5f-e506-3c2d" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Armoured Trailblazers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Saturation Rounds" hidden="false" id="80a6-44e1-1a46-01c5"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d213-4435-585e-09c3" includeChildSelections="true" /></constraints><profiles><profile name="Saturation Rounds" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="f1b3-fed0-7410-b170"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="2c1f-9b2a-af50-580f" shared="true" id="5a11-98f8-ba4b-054b" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Armoured Trailblazers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Pan-spectral Lockons" hidden="false" id="0c54-b5c7-a971-aa52"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="3af4-51f4-ea99-e74e" includeChildSelections="true" /></constraints><profiles><profile name="Pan-spectral Lockons" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="2f5a-9bfe-20d5-5d07"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Pioneers unit only. In the Shooting phase, select one visible enemy unit within 12"; that unit becomes spotted and suffers +3" detection range.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e612-78c7-719c-e3c9" shared="true" id="3768-744b-98b5-7068" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Farseekers</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Shroudwërke Talismans" hidden="false" id="1565-c5a3-bba0-6899"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="bf76-3709-6d2e-14af" includeChildSelections="true" /></constraints><profiles><profile name="Shroudwërke Talismans" typeId="d3b8-a9b6-d4ff-013e" typeName="Abilities" hidden="false" id="df8a-2d64-f982-991b"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="e612-78c7-719c-e3c9" shared="true" id="e25b-3a1a-5065-0956" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Farseekers</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedRules>
     <rule id="351a-a702-9080-7f08" name="Prioritised Efficiency" hidden="false">
       <description>If your Army Faction is ^^**Leagues of Votann^^**, ^^**Leagues of Votann^^** units from your army have one of two abilities: Hostile Acquisition or Fortify Takeover (see below). During the battle, which ability those ^^**Leagues of Votann^^** units have will change depending on how many Yield points (YP) you currently have:

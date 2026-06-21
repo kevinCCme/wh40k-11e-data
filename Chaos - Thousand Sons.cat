@@ -2590,7 +2590,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="762d-d00b-0d75-9d44" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="6cce-b8be-75bc-c249" name="Havoc launcher" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5c14-aa7a-d051-ae07" type="max" />
@@ -2912,7 +2912,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="1ca9-37e7-c4a0-780d" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="04ac-1d06-d97b-2787" name="Inferno heavy bolter" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="4d05-ae06-7ab1-5240" name="Inferno heavy bolter" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -3197,7 +3197,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="c2e8-ca25-9d37-eaae" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="8d9b-b949-2557-dcc4" name="Chaos Rhino" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="bfd2-930d-d229-597e" type="max" />
@@ -3378,7 +3378,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="6f39-4126-646a-f665" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="60de-4c77-95e1-1337" name="Chaos Spawn" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="9f3a-bee0-a8c9-7e27" type="max" />
@@ -3462,7 +3462,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
               </characteristics>
             </profile>
           </profiles>
-        </selectionEntry>
+        <entryLink id="4ac5-c982-2b8c-827c" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -3537,7 +3537,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="bd0b-80fd-2d1a-e17c" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="3413-b8fd-e22c-da4f" name="Chaos Vindicator" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="163c-a891-7b3a-891f" name="Siege Shield" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -3724,7 +3724,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5140-26ad-b139-4244" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="2a9b-ad35-cc84-4bc4" name="Twin lascannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="bba0-0f79-30a3-4e54" name="Twin lascannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -4523,7 +4523,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="49f3-1bb4-a9ff-626e" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="9d23-6265-b5c6-934e" name="Ectoplasma cannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="e726-eb35-b0d2-4a0f" name="Ectoplasma cannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -5092,7 +5092,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4673-ba2e-f450-fd52" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="637a-d542-35aa-e95c" name="Heldrake" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="21aa-9756-2f87-2ab4" type="max" />
@@ -5294,7 +5294,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5a3f-7833-f0d3-a44b" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="1693-5e00-da69-57bb" name="Infernal Master" hidden="false" collective="false" import="true" type="model" publicationId="48fc-15aa-b307-9443" page="35-36">
       <profiles>
         <profile id="318e-b78f-2100-6cba" name="Infernal Master" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5960,7 +5960,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="5059-0402-332d-ace8" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry id="094c-c618-92c1-b394" name="Mutalith Vortex Beast" hidden="false" collective="false" import="true" type="model" publicationId="015a-6212-d737-9044" page="41-42">
       <profiles>
         <profile id="412e-dff0-6427-a1a4" name="Mutalith Vortex Beast" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6202,7 +6202,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="ee53-0134-b929-73c1" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Rubric Marines" hidden="false" id="5d3d-e13b-8b76-dad3">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -6780,7 +6780,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="3d4e-098e-3b08-3f7d" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Scarab Occult Terminators" hidden="false" id="b1cf-c5-5121-92a4" publicationId="015a-6212-d737-9044" page="45-46">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
@@ -7325,7 +7325,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="b034-b87d-4947-75f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Sorcerer" hidden="false" id="af1e-9a3d-785c-47f8">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="fe6a-6cdf-d8fc-aada" primary="false" name="Faction: Thousand Sons" />
@@ -8479,7 +8479,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="2887-ac17-9e02-2b23" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Tzaangor Shaman" hidden="false" id="c251-bd54-441-4799">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="60" />
@@ -8979,7 +8979,7 @@ Wound roll.</characteristic>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3339-ebf2-df7c-a206" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
       </entryLinks>
-    </selectionEntry>
+    <entryLink id="6db0-e078-7009-20d8" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="model" import="true" name="Hellblade [Legends]" hidden="false" id="c4ab-b52d-3ac0-5d56">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
@@ -10558,7 +10558,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4d26-96ab-34bc-8db7" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Hellfyre missile rack" hidden="false" id="ae78-f3d8-6cf0-6a89">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3d70-eaf9-a207-08e7-min" includeChildSelections="false" />
@@ -10855,7 +10855,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="f3ce-01b9-7cc9-6bb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Fatecaster greatbow" hidden="false" id="8097-77df-1ed5-1e1a">
       <profiles>
         <profile name="Fatecaster greatbow" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="ec1c-d5f8-b7b4-6c46">
@@ -11400,7 +11400,7 @@ Wound roll.</characteristic>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="be7b-7516-9dd7-f18b" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Screamers" hidden="false" id="7cbe-2406-8e67-aff5">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="cbaa-b9fc-8182-759d" includeChildSelections="true" />
@@ -11497,7 +11497,7 @@ Wound roll.</characteristic>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="178a-ba12-1832-40ad" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Pink Horrors" hidden="false" id="4c73-cbd1-f052-80c3">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="force" shared="true" id="b02c-b4ee-1394-730a" includeChildSelections="true" />
@@ -11711,7 +11711,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    </selectionEntry>
+    <entryLink id="3973-e17b-55be-86bd" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Blue Horrors" hidden="false" id="aec5-4419-39e7-3e63" collective="false">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="force" shared="true" id="a1e0-c6bb-f6aa-0a93" percentValue="false" includeChildSelections="true" includeChildForces="false" />
@@ -11874,7 +11874,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </conditionGroups>
         </modifier>
       </modifiers>
-    </selectionEntry>
+    <entryLink id="45a8-4481-d64a-8053" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="unit" import="true" name="Chaos Spawn (Flesh Change)" hidden="false" id="dd17-8cb8-ed8c-f6c8" collective="false">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="b42a-7fde-53f6-f96c" percentValue="false" includeChildSelections="true" includeChildForces="false" />
@@ -11957,7 +11957,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
           </costs>
-        </selectionEntry>
+        <entryLink id="1631-5bc3-db91-3e43" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="65" />
@@ -12931,7 +12931,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    </selectionEntry>
+    <entryLink id="4d34-569f-fedc-89f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Electroscourge" hidden="false" id="fd72-4efb-3ef6-6368">
       <profiles>
         <profile name="Electroscourge" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="45a0-ae9c-5a00-bb57">
@@ -13013,7 +13013,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="c3a6-0da1-ace0-94eb" type="max" />
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f186-2d27-e6db-1673" includeChildSelections="false" />
       </constraints>
-      <selectionEntries><selectionEntry type="upgrade" import="true" name="Curse Of Life" hidden="false" id="941a-9a41-ad6f-4185"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="64a2-7387-99ba-4468" includeChildSelections="true" /></constraints><profiles><profile name="Curse Of Life" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="53b2-7c20-23f8-cce7"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="18b8-b316-5af2-d0df" shared="true" id="9d0d-a3e3-b4ce-0485" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Ritual Of Regeneration</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Eruption Of Vitality" hidden="false" id="4670-b340-06e6-f422"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="c3e9-72f3-5ebd-a8c3" includeChildSelections="true" /></constraints><profiles><profile name="Eruption Of Vitality" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="21ca-923c-360d-05c9"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Infantry or Mounted Psyker bearer only. The first time the bearer is destroyed, on a 2+ it returns to the battlefield with 3 wounds remaining.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="18b8-b316-5af2-d0df" shared="true" id="fbdd-1c1b-87a8-25aa" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="35" /></costs><comment>Ritual Of Regeneration</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Occulus Infernum" hidden="false" id="3e49-8c9e-96ce-1458"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2b5a-123c-0d10-39f5" includeChildSelections="true" /></constraints><profiles><profile name="Occulus Infernum" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="8a15-5d61-e1f0-9df0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Sorcerer bearer can grant a nearby friendly Sekhetar Robots unit +1 Ballistic Skill until the start of your next turn.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af10-3db9-05a8-57b9" shared="true" id="6bf9-9c34-bee7-6b2c" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Sekhetar Cohort</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Walking Rampart" hidden="false" id="834c-1175-254f-e0ab"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6ef7-fd4b-7ace-e214" includeChildSelections="true" /></constraints><profiles><profile name="Walking Rampart" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="1762-5b56-e5b8-efca"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af10-3db9-05a8-57b9" shared="true" id="d693-16ce-10d5-bb81" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Sekhetar Cohort</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Thicket Of Bladed Bone (Upgrade)" hidden="false" id="f21d-b3dc-d498-9107"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="95f1-3c2e-669f-0f88" includeChildSelections="true" /></constraints><profiles><profile name="Thicket Of Bladed Bone (Upgrade)" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="5e23-d144-52b3-4882"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Chaos Spawn bearer's unit gains +1 AP and the [Cleave 1] ability on its melee attacks.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="466a-940a-332d-d58c" shared="true" id="afe8-ac66-55d4-6784" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Servants Of Change</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Unravelled Fates" hidden="false" id="4eaf-451c-96c7-6845"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f81e-0503-9b6d-95a3" includeChildSelections="true" /></constraints><profiles><profile name="Unravelled Fates" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="a45b-a218-39ac-680a"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="466a-940a-332d-d58c" shared="true" id="340c-76f1-11d0-0bfc" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Servants Of Change</comment></selectionEntry>
+      <selectionEntries><selectionEntry type="upgrade" import="true" name="Curse Of Life" hidden="false" id="941a-9a41-ad6f-4185"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="64a2-7387-99ba-4468" includeChildSelections="true" /></constraints><profiles><profile name="Curse Of Life" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="53b2-7c20-23f8-cce7"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="18b8-b316-5af2-d0df" shared="true" id="9d0d-a3e3-b4ce-0485" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Ritual Of Regeneration</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Eruption Of Vitality" hidden="false" id="4670-b340-06e6-f422"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="c3e9-72f3-5ebd-a8c3" includeChildSelections="true" /></constraints><profiles><profile name="Eruption Of Vitality" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="21ca-923c-360d-05c9"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Infantry or Mounted Psyker bearer only. The first time the bearer is destroyed, on a 2+ it returns to the battlefield with 3 wounds remaining.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="18b8-b316-5af2-d0df" shared="true" id="fbdd-1c1b-87a8-25aa" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="35" /></costs><comment>Ritual Of Regeneration</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Occulus Infernum" hidden="false" id="3e49-8c9e-96ce-1458"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="2b5a-123c-0d10-39f5" includeChildSelections="true" /></constraints><profiles><profile name="Occulus Infernum" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="8a15-5d61-e1f0-9df0"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Sorcerer bearer can grant a nearby friendly Sekhetar Robots unit +1 Ballistic Skill until the start of your next turn.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af10-3db9-05a8-57b9" shared="true" id="6bf9-9c34-bee7-6b2c" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="20" /></costs><comment>Sekhetar Cohort</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Walking Rampart" hidden="false" id="834c-1175-254f-e0ab"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="6ef7-fd4b-7ace-e214" includeChildSelections="true" /></constraints><profiles><profile name="Walking Rampart" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="1762-5b56-e5b8-efca"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="af10-3db9-05a8-57b9" shared="true" id="d693-16ce-10d5-bb81" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="30" /></costs><comment>Sekhetar Cohort</comment></selectionEntry><selectionEntry type="upgrade" import="true" name="Unravelled Fates" hidden="false" id="4eaf-451c-96c7-6845"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="f81e-0503-9b6d-95a3" includeChildSelections="true" /></constraints><profiles><profile name="Unravelled Fates" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="a45b-a218-39ac-680a"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573" /></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="466a-940a-332d-d58c" shared="true" id="340c-76f1-11d0-0bfc" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="15" /></costs><comment>Servants Of Change</comment></selectionEntry>
         <selectionEntry id="eef6-4b12-1eff-f412" name="Lord of Forbidden Lore" hidden="false" collective="false" import="true" type="upgrade" sortIndex="7">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -17110,7 +17110,7 @@ of Battle and remove one Battle Scar from that unit.</characteristic>
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntryGroup>
-  </sharedSelectionEntryGroups>
+  <selectionEntryGroup id="567f-7c0d-5d9e-04a7" name="Upgrades" hidden="false" collective="false" import="true" collapsible="true"><selectionEntries><selectionEntry type="upgrade" import="true" name="Thicket of Bladed Bone" hidden="false" id="0ac3-0b0c-a4f1-3b52"><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="457c-728a-d72c-2c82" includeChildSelections="true" /></constraints><profiles><profile name="Thicket of Bladed Bone" typeId="bc90-518c-1b07-1238" typeName="Abilities" hidden="false" id="68d9-3ce4-0337-45a2"><characteristics><characteristic name="Description" typeId="9b8f-694b-e5e-b573">Chaos Spawn bearer's unit gains +1 AP and the [Cleave 1] ability on its melee attacks.</characteristic></characteristics></profile></profiles><modifiers><modifier type="set" value="true" field="hidden"><conditionGroups><conditionGroup type="and"><conditions><condition type="lessThan" value="1" field="selections" scope="force" childId="466a-940a-332d-d58c" shared="true" id="c932-c743-14ed-75e9" includeChildSelections="true" /></conditions></conditionGroup></conditionGroups></modifier></modifiers><costs><cost name="pts" typeId="51b2-306e-1021-d207" value="10" /></costs><comment>Servants Of Change</comment></selectionEntry></selectionEntries></selectionEntryGroup></sharedSelectionEntryGroups>
   <sharedProfiles>
     <profile id="cb08-29a7-4ffc-2561" name="Damaged: 1-5 wounds remaining" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
       <characteristics>
