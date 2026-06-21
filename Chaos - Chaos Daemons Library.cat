@@ -348,13 +348,13 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Cavalcade Of Chaos" hidden="false" id="f1cb-965e-8b7d-4790"><rules><rule name="Unholy Avalanche" id="61b6-1798-5b39-5cad" hidden="false"><description>Friendly Legiones Daemonica Mounted units that Fell Back this turn are still allowed to shoot and to declare a charge.
 
 STRATAGEMS:
-- Warp-Riders (1CP, Your Movement phase, when a Legiones Daemonica Mounted unit is selected to move.): That unit gains the [MOBILE] ability for the move.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f1cb-965" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Lords Of The Warp" hidden="false" id="d021-6365-0008-88ff"><rules><rule name="Loci Of Power" id="52b7-08c7-59c8-f011" hidden="false"><description>Friendly Legiones Daemonica Character models (excluding Monster) gain +1 Leadership and +1 Objective Control.
+- Warp-Riders (1CP, Your Movement phase, when a Legiones Daemonica Mounted unit is selected to move.): That unit gains the [MOBILE] ability for the move.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f1cb-965" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Lords Of The Warp" hidden="false" id="d021-6365-0008-88ff"><rules><rule name="Loci Of Power" id="52b7-08c7-59c8-f011" hidden="false"><description>Friendly Legiones Daemonica Character models (excluding Monster) gain +1 Leadership and +1 Objective Control.
 
 STRATAGEMS:
-- Carnival of Excess (1CP, Fight phase, just after an enemy unit has fought.): Select one friendly Legiones Daemonica Character Slaanesh unit (excluding Monster) that has not yet fought this phase. It is eligible to fight, gains Fights First, and must be selected to fight next.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d021-636" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Warptide" hidden="false" id="3c76-432d-1ef4-eb1e"><rules><rule name="Shudderblink" id="236e-828a-641f-3f6d" hidden="false"><description>When a friendly Legiones Daemonica Battleline unit makes an Advance move, until the end of the turn its ranged weapons gain the [ASSAULT] ability and it is still eligible to declare a charge.
+- Carnival of Excess (1CP, Fight phase, just after an enemy unit has fought.): Select one friendly Legiones Daemonica Character Slaanesh unit (excluding Monster) that has not yet fought this phase. It is eligible to fight, gains Fights First, and must be selected to fight next.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d021-636" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Warptide" hidden="false" id="3c76-432d-1ef4-eb1e"><rules><rule name="Shudderblink" id="236e-828a-641f-3f6d" hidden="false"><description>When a friendly Legiones Daemonica Battleline unit makes an Advance move, until the end of the turn its ranged weapons gain the [ASSAULT] ability and it is still eligible to declare a charge.
 
 STRATAGEMS:
-- Daemonic Infestation (1CP, Your Command phase.): Select one friendly Legiones Daemonica Battleline unit (excluding Pink Horrors); it regains up to 3 lost wounds.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3c76-432" /></constraints></selectionEntry>
+- Daemonic Infestation (1CP, Your Command phase.): Select one friendly Legiones Daemonica Battleline unit (excluding Pink Horrors); it regains up to 3 lost wounds.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3c76-432" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry id="a7cf-90fa-4093-6047" name="Daemonic Incursion" hidden="false" collective="false" import="true" type="upgrade">
               <costs>
                 <cost name="pts" typeId="51b2-306e-1021-d207" value="0" />
@@ -362,14 +362,14 @@ STRATAGEMS:
               <infoLinks>
                 <infoLink name="Warp Rifts" id="7258-c7da-21ec-4fa4" hidden="false" type="rule" targetId="877e-cc0c-8a1d-be46" />
               </infoLinks>
-            <constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a7cf-90f" /></constraints></selectionEntry>
+            <constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-a7cf-90f" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Legion of Excess" hidden="false" id="24f0-3c89-41be-0675">
               <rules>
                 <rule name="Beguiling Aura" id="39be-93e1-e33d-c052" hidden="false">
                   <description>LEGIONES DAEMONICA SLAANESH units from your army are eligible to declare a charge in a turn in which they Fell Back.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-24f0-3c8" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-24f0-3c8" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Scintillating Legion" hidden="false" id="dec0-c9cb-c265-cae0">
               <rules>
                 <rule name="Fates in Flux" id="80bc-eca8-f505-af8f" hidden="false">
@@ -385,7 +385,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
 **Designer’s Note**: *When using fast dice rolling, this rule can be used to spend any number of Flux tokens (up to the amount you have), to re‑roll a number of dice up to the amount spent, after rolling multiple rolls or saving throws at once.*</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-dec0-c9c" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-dec0-c9c" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Blood Legion" hidden="false" id="21b4-7a36-fec6-b7ea">
               <rules>
                 <rule name="Murdercall" id="a060-8e3c-1962-c159" hidden="false">
@@ -395,21 +395,21 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
                   <description>At the end of a phase in which a LEGIONES DAEMONICA KHORNE unit from your army destroyed an enemy unit that was within range of an objective marker at the start of the phase, if your unit has a higher Level of Control over that objective marker, that objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-21b4-7a3" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-21b4-7a3" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Plague Legion" hidden="false" id="9ad0-91ee-ae18-b5aa">
               <rules>
                 <rule name="Melancholic Miasma" id="5d0f-7c63-fb1e-c882" hidden="false">
                   <description>While an enemy unit is within 9" of one or more LEGIONES DAEMONICA NURGLE units from your army, that enemy unit is within your army’s Shadow of Chaos. In each player’s Command phase, select one enemy unit within your army’s Shadow of Chaos. That unit must take a Battle‑shock test.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9ad0-91e" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-9ad0-91e" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Shadow Legion" hidden="false" id="5063-25bd-d22e-665b">
               <rules>
                 <rule name="First Prince of Chaos" id="78ed-576b-c0bf-0182" hidden="false">
                   <description>Abilities for this Detachment are linked to the relevant units.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5063-25b" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-5063-25b" includeChildSelections="true" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-5b57-21b"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-5b57-21b"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>

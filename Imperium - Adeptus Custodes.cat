@@ -7405,13 +7405,13 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Might Of The Moritoi" hidden="false" id="6f3b-0051-46bc-edec"><rules><rule name="March Of The Honoured Dead" id="4ae1-fb49-e2ba-4f40" hidden="false"><description>Friendly Adeptus Custodes Walker units gain +2" Movement and +1 to Advance and Charge rolls.
 
 STRATAGEMS:
-- Prioritised Eradication (1CP, Shooting phase): A Telemon Heavy Dreadnought's Arachnus Storm Cannons gain [Rapid Fire 6] and its Iliastus Accelerator Culverins gain [Rapid Fire 2] this phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-6f3b-005" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Silent Hunters" hidden="false" id="2605-f747-c4af-c8cd"><rules><rule name="Skin-Crawling Disorientation" id="479d-6857-bacd-5fca" hidden="false"><description>Anathema Psykana units can Advance without preventing them starting actions, and gain Ceaseless Vigilance — in your Shooting phase pick a visible enemy within 12" that becomes easier to detect while it is nulled.
+- Prioritised Eradication (1CP, Shooting phase): A Telemon Heavy Dreadnought's Arachnus Storm Cannons gain [Rapid Fire 6] and its Iliastus Accelerator Culverins gain [Rapid Fire 2] this phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-6f3b-005" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Silent Hunters" hidden="false" id="2605-f747-c4af-c8cd"><rules><rule name="Skin-Crawling Disorientation" id="479d-6857-bacd-5fca" hidden="false"><description>Anathema Psykana units can Advance without preventing them starting actions, and gain Ceaseless Vigilance — in your Shooting phase pick a visible enemy within 12" that becomes easier to detect while it is nulled.
 
 STRATAGEMS:
-- Synchronised Inferno (1CP, Shooting phase): Witchseekers' flamers gain [Blast] on their Torrent attacks this phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-2605-f74" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Tharanatoi Hammerblow" hidden="false" id="c390-8542-fbdd-e1a2"><rules><rule name="The Hammer Falls" id="70dc-aed0-eaad-dda5" hidden="false"><description>Adeptus Custodes Terminator units that made an ingress move this turn can re-roll Charge rolls.
+- Synchronised Inferno (1CP, Shooting phase): Witchseekers' flamers gain [Blast] on their Torrent attacks this phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-2605-f74" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Tharanatoi Hammerblow" hidden="false" id="c390-8542-fbdd-e1a2"><rules><rule name="The Hammer Falls" id="70dc-aed0-eaad-dda5" hidden="false"><description>Adeptus Custodes Terminator units that made an ingress move this turn can re-roll Charge rolls.
 
 STRATAGEMS:
-- Hardened Resolve (1CP, Opponent's Shooting or Fight phase): A targeted Adeptus Custodes Terminator unit gains +1 Toughness until the end of the phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-c390-854" /></constraints></selectionEntry>
+- Hardened Resolve (1CP, Opponent's Shooting or Fight phase): A targeted Adeptus Custodes Terminator unit gains +1 Toughness until the end of the phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-c390-854" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Shield Host" hidden="false" id="70eb-2978-3ad5-5901" sortIndex="4">
               <rules>
                 <rule name="Martial Mastery" hidden="false" id="d6d9-f1f1-2687-7b51">
@@ -7421,7 +7421,7 @@ STRATAGEMS:
 - Improve the Armour Penetration characteristic of melee weapons equipped by ^^**Adeptus Custodes^^** models from your army with the Martial Ka'tah ability by 1.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-70eb-297" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-70eb-297" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Talons of the Emperor" hidden="false" id="757a-b5ed-a43f-3cdd" sortIndex="6">
               <rules>
                 <rule name="Revered Companions" id="a02c-6c3c-b9f4-4ef" hidden="false">
@@ -7433,21 +7433,21 @@ All other **^^Adeptus Custodes**^^ units from your army gain the following abili
 **Deadly Unity (Aura)**: While an **^Anathema Psykana^^** unit is within 6" of this unit, each time a model in that ^^**Anathema Psykana^^** unit makes an attack, add 1 to the Hit roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-757a-b5e" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-757a-b5e" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Null Maiden Vigil" hidden="false" id="d3ee-47e1-4540-dfe5" sortIndex="3">
               <rules>
                 <rule name="Creeping Dread (Aura)" id="bda3-9533-2380-a4e1" hidden="false">
                   <description>In the Battle-shock step of your opponent's Command phase, if an enemy unit that is either a ^^**Psyker^^** unit or below its Starting Strength is within 12" of one or more ^^**Anathema Psykana^^** models from your army, that enemy unit must take a Battle-shock test. If that unit is below Half-strength, it must subtract 1 from its Battle-shock test this phase instead.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d3ee-47e" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d3ee-47e" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Auric Champions" hidden="false" id="a36b-bb22-1a15-2a48" sortIndex="1">
               <rules>
                 <rule name="Assemblage of Might" id="9eb2-2cdd-3df7-a94e" hidden="false">
                   <description>At the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, each time a model in an ^^**Adeptus Custodes Character^^** unit from your army makes an attack that targets that enemy unit, add 1 to the Wound roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a36b-bb2" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-a36b-bb2" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Solar Spearhead" hidden="false" id="a060-3a8d-670c-25f0" sortIndex="5">
               <rules>
                 <rule name="Auric Armour" id="bd48-ecd6-2149-355e" hidden="false">
@@ -7464,14 +7464,14 @@ All other **^^Adeptus Custodes**^^ units from your army gain the following abili
               <modifiers>
                 <modifier type="increment" value="2" field="e703-ecb6-5ce7-aec1" scope="force" affects="self.entries.5085-b471-39f3-1aa1.profiles.Unit" />
               </modifiers>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a060-3a8" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-a060-3a8" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Lions of the Emperor" hidden="false" id="3b75-a700-050c-06f5" sortIndex="2">
               <rules>
                 <rule name="Against All Odds" id="ddd9-c874-560d-1edf" hidden="false">
                   <description>Each time an ^^**Adeptus Custodes^^** unit from your army (excluding ^^**Vehicles^^**) makes an attack, if there are no other friendly units within 6" of that unit, add 1 to the Hit roll and add 1 to the Wound roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3b75-a70" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3b75-a70" includeChildSelections="true" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-3fba-26f"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-3fba-26f"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>

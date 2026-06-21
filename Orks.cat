@@ -25929,7 +25929,7 @@ Designer’s Note: Place a Squig Mine token next to the model, removing it once 
       <selectionEntries><selectionEntry type="upgrade" import="true" name="Rollin' Deff" hidden="false" id="1293-3493-9836-8184"><rules><rule name="Thundering Wagons" id="6f8f-75a8-07f1-2252" hidden="false"><description>Friendly Battlewagon, Hunta Rig and Kill Rig units gain the WAGON keyword. Friendly WAGON units may re-roll Charge rolls, and when one is selected to Advance you can treat its Advance roll as a 6.
 
 STRATAGEMS:
-- Brutal Broadside (1CP, Your Shooting phase, when a friendly Battlewagon is selected to shoot.): That unit's ranged attacks gain [RAPID FIRE X], where X equals the Attacks characteristic of each weapon.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-1293-349" /></constraints></selectionEntry>
+- Brutal Broadside (1CP, Your Shooting phase, when a friendly Battlewagon is selected to shoot.): That unit's ranged attacks gain [RAPID FIRE X], where X equals the Attacks characteristic of each weapon.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-1293-349" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="War Horde" hidden="false" id="496c-ddb9-3e71-e0b3">
           <rules>
             <rule name="Get Stuck In" id="7d88-fb67-ac56-ec9" hidden="false">
@@ -25946,7 +25946,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-496c-ddb" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-496c-ddb" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Da Big Hunt" hidden="false" id="80e6-2190-9767-a7ed">
           <rules>
             <rule name="Da Hunt Is On" id="b82f-6b0d-7564-87df" hidden="false">
@@ -25962,7 +25962,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-80e6-219" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-80e6-219" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Dread Mob" hidden="false" id="807c-9732-5465-5ca5">
           <rules>
             <rule name="Try Dat Button!" id="3664-2bb3-64e4-e684" hidden="false">
@@ -26002,7 +26002,7 @@ If a weapon equipped by a model you army has the **[HAZARDOUS]** ability from mu
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-807c-973" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-807c-973" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Green Tide" hidden="false" id="795f-b961-9504-bd08">
           <rules>
             <rule name="Mob Mentality" id="4e1-4598-e547-e79c" hidden="false">
@@ -26016,7 +26016,7 @@ If a weapon equipped by a model you army has the **[HAZARDOUS]** ability from mu
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-795f-b96" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-795f-b96" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Bully Boyz" hidden="false" id="4b17-a73a-7a0a-a265">
           <rules>
             <rule name="Da Boss Is Watchin'" id="2195-4d6e-a1f1-1b63" hidden="false">
@@ -26030,7 +26030,7 @@ If a weapon equipped by a model you army has the **[HAZARDOUS]** ability from mu
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-4b17-a73" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-4b17-a73" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Kult of Speed" hidden="false" id="b404-44f-e9b4-7fe2">
           <rules>
             <rule name="Adrenaline Junkies" id="800f-b674-d975-c458" hidden="false">
@@ -26044,7 +26044,7 @@ If a weapon equipped by a model you army has the **[HAZARDOUS]** ability from mu
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-b404-44f" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-b404-44f" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Taktikal Brigade" hidden="false" id="fdd5-9868-a9ee-e9f1">
           <rules>
             <rule name="Keywords" id="00e6-fb6e-31b0-9bdb" hidden="false">
@@ -26073,7 +26073,7 @@ Taktiks abilities cannot be issued to Battle shocked units, and if a unit affect
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-fdd5-986" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-fdd5-986" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="More Dakka!" hidden="false" id="f607-6488-0765-b901">
           <rules>
             <rule name="Dakka! Dakka! Dakka!" id="0d8a-1996-f526-5ca4" hidden="false">
@@ -26093,7 +26093,7 @@ While the Waaagh! is active for your army, during your Shooting phase, ranged we
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f607-648" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f607-648" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Freebooter Krew" hidden="false" id="bea1-1e34-5f31-78f2">
           <rules>
             <rule name="Here Be Loot" id="078c-99f5-cc7a-9ad9" hidden="false">
@@ -26115,7 +26115,7 @@ Each time a model in an **^^Orks Infantry^^**, **^^Orks Mounted^^** or **^^Orks 
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-bea1-1e3" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-bea1-1e3" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Ramship Raiders" hidden="false" id="09d3-a08a-0671-fe86">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -26173,7 +26173,7 @@ You can include up to one of each of the following units:
           <infoLinks>
             <infoLink targetId="07ef-c552-cfd5-29ad" id="9200-8671-16e8-3058" type="rule" name="Void Waaagh!" hidden="false" />
           </infoLinks>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-09d3-a08" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-09d3-a08" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Kaptin Killers" hidden="false" id="726a-fa36-dac2-0b11">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -26205,7 +26205,7 @@ You can include up to two of each of the following units:
           <infoLinks>
             <infoLink targetId="07ef-c552-cfd5-29ad" id="536f-ba95-13eb-0cbb" type="rule" name="Void Waaagh!" hidden="false" />
           </infoLinks>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-726a-fa3" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-726a-fa3" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Speedwaaagh!" hidden="false" id="14af-440a-6fef-b231">
           <rules>
             <rule name="Turbo Boostas" id="6962-5dfc-36e6-7687" hidden="false">
@@ -26224,7 +26224,7 @@ You can include up to two of each of the following units:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-14af-440" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-14af-440" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Blitz Brigade" hidden="false" id="63cc-721f-b263-9d4a">
           <rules>
             <rule name="Eager For The Fight" id="5742-4494-1463-2670" hidden="false">
@@ -26241,7 +26241,7 @@ You can include up to two of each of the following units:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-63cc-721" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-63cc-721" includeChildSelections="true" /></constraints></selectionEntry>
       </selectionEntries>
       <constraints>
         <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="1104-154-3ed3-527a" includeChildSelections="false" />

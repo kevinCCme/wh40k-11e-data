@@ -2128,7 +2128,7 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Contagion Engines" hidden="false" id="e9e1-33e8-c1dc-a7a6"><rules><rule name="Warped And Rusted Animus" id="47d9-6d82-cdfa-d78a" hidden="false"><description>Foetid Bloat-drones, Helbrutes and Myphitic Blight-haulers gain the Contagion Engine keyword; friendly Contagion Engine units' ranged weapons gain [Assault].
 
 STRATAGEMS:
-- Bloodrust Deluge (1CP, Shooting phase): Pick a visible enemy unit; it becomes Afflicted until your Contagion Engine unit has finished attacking.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e9e1-33e" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Death Lord’S Chosen" hidden="false" id="d418-c633-2c4b-18b7"><rules><rule name="Deadly Vectors" id="ad6a-03e2-93fe-bca0" hidden="false"><description>In your opponent's Command phase, roll 2D6 for each Afflicted enemy unit, with -1 to the result if that unit is Below Half-strength. On a result of 6 or less, that unit takes D3 mortal wounds.
+- Bloodrust Deluge (1CP, Shooting phase): Pick a visible enemy unit; it becomes Afflicted until your Contagion Engine unit has finished attacking.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e9e1-33e" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Death Lord’S Chosen" hidden="false" id="d418-c633-2c4b-18b7"><rules><rule name="Deadly Vectors" id="ad6a-03e2-93fe-bca0" hidden="false"><description>In your opponent's Command phase, roll 2D6 for each Afflicted enemy unit, with -1 to the result if that unit is Below Half-strength. On a result of 6 or less, that unit takes D3 mortal wounds.
 
 STRATAGEMS:
 - Blooming Pestilence (1CP, Start of any phase): Add 3" to your unit's Contagion Range until end of phase.
@@ -2136,7 +2136,7 @@ STRATAGEMS:
 - Undying Spite (1CP, Fight phase (just after enemy selects targets)): Until end of phase, when a model in your unit is destroyed before it has fought, roll a D6: on a 4+ it isn't removed yet and may fight after the attacker finishes, then is removed.
 - Signal Pox (1CP, Command phase): Pick an objective within 30" of and visible to your model. Until the start of your next turn, enemy units within range of it are Afflicted.
 - Mortarion's Teachings (1CP, Shooting phase): Ranged weapons in your unit gain [ASSAULT] and [HEAVY] until end of phase.
-- Sickening Impact (1CP, Charge phase (just after a Terminator unit ends its Charge move)): Pick an enemy unit in Engagement Range of your unit; roll a D6 for each of your models in Engagement Range of it: each 2+ deals 1 mortal wound (max 6).</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d418-c63" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Mortarion’S Hammer" hidden="false" id="459d-a4bf-da0d-66fb"><rules><rule name="Miasmic Bombardment" id="a125-6baf-30f3-5681" hidden="false"><description>At the start of each battle round, choose enemy units that are more than 12" from every model in your army; they are Afflicted until the end of that battle round. The number you may pick scales with battle size (1 at Incursion, 2 at Strike Force, 3 at Onslaught).
+- Sickening Impact (1CP, Charge phase (just after a Terminator unit ends its Charge move)): Pick an enemy unit in Engagement Range of your unit; roll a D6 for each of your models in Engagement Range of it: each 2+ deals 1 mortal wound (max 6).</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d418-c63" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Mortarion’S Hammer" hidden="false" id="459d-a4bf-da0d-66fb"><rules><rule name="Miasmic Bombardment" id="a125-6baf-30f3-5681" hidden="false"><description>At the start of each battle round, choose enemy units that are more than 12" from every model in your army; they are Afflicted until the end of that battle round. The number you may pick scales with battle size (1 at Incursion, 2 at Strike Force, 3 at Onslaught).
 
 STRATAGEMS:
 - Blighted Land (2CP, Any phase): Choose a terrain feature within 24" of and visible to your unit. Until the start of your next turn, enemy units within 3" of it are Afflicted.
@@ -2144,24 +2144,24 @@ STRATAGEMS:
 - Drawn to Despair (1CP, Shooting or Fight phase): Until end of phase, when a model in your unit attacks a visible enemy unit (excluding Aircraft) inside your opponent's deployment zone, you may re-roll the Hit roll.
 - Font of Filth (1CP, Shooting phase): Ranged weapons in your unit gain the [ASSAULT] ability until end of phase.
 - Eyestinger Storm (1CP, Shooting phase): Pick an objective visible to your unit. Every Afflicted enemy unit within range of it must take a Battle-shock test. Those units take no other Battle-shock tests this phase.
-- Stinking Mire (1CP, Opponent's Charge phase (when targeted by a charge)): Until end of phase, enemy units charging your unit subtract 2 from their Charge roll (not cumulative with other negative Charge modifiers).</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-459d-a4b" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Paragons Of Putrescence" hidden="false" id="53da-628c-e1b4-83c0"><rules><rule name="Hypervirulent Strains" id="911b-54e1-8840-9b5c" hidden="false"><description>Friendly Death Guard Character units add 3" to their Contagion Range (up to a maximum of 12").
+- Stinking Mire (1CP, Opponent's Charge phase (when targeted by a charge)): Until end of phase, enemy units charging your unit subtract 2 from their Charge roll (not cumulative with other negative Charge modifiers).</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-459d-a4b" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Paragons Of Putrescence" hidden="false" id="53da-628c-e1b4-83c0"><rules><rule name="Hypervirulent Strains" id="911b-54e1-8840-9b5c" hidden="false"><description>Friendly Death Guard Character units add 3" to their Contagion Range (up to a maximum of 12").
 
 STRATAGEMS:
-- Aggravus Spasms (1CP, Start of Shooting phase): Pick a visible enemy unit within Contagion Range of a friendly Death Guard Character; it becomes easier to detect (+6" detection range).</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-53da-628" /></constraints></selectionEntry>
+- Aggravus Spasms (1CP, Start of Shooting phase): Pick a visible enemy unit within Contagion Range of a friendly Death Guard Character; it becomes easier to detect (+6" detection range).</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-53da-628" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Flyblown Host" hidden="false" id="df4a-2ead-43d5-ea61">
               <rules>
                 <rule name="Verminous Haze" id="adba-7d95-8104-80da" hidden="false">
                   <description>^^**Death Guard Infantry**^^ units (excluding ^^**Poxwalkers^^** units) from your army that are not embarked within a ^^**Transport**^^ have the Scouts 5" and Stealth abilities.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-df4a-2ea" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-df4a-2ea" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Virulent Vectorium" hidden="false" id="e2ff-ece0-6cbb-be05">
               <rules>
                 <rule name="Worldblight" id="7fd0-7e69-2e30-8a86" hidden="false">
                   <description>If you control an objective marker at the end of your Command phase and a ^^**Death Guard**^^ unit from your army (excluding Battle-shocked units) is within range of that objective marker, that objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase. In addition, until you lose control of that objective marker, it has the Nurgle's Gift ability as if it were a ^^**Death Guard**^^ unit from your army.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e2ff-ece" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e2ff-ece" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Shamblerot Vectorium" hidden="false" id="7a84-2212-be14-a713">
               <rules>
                 <rule name="Numberless Horde" id="0f02-f07b-0ef7-7df4" hidden="false">
@@ -2176,14 +2176,14 @@ Onslaught - Battle Round 2,3,4,5
 ^^**Poxwalkers**^^ unit from your army gain the ^^**Battleline**^^ keyword.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-7a84-221" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7a84-221" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Death Lord's Chosen" hidden="false" id="f038-29f5-5625-6cc1">
               <rules>
                 <rule name="Deadly Vectors" id="f105-0f20-ed0e-317f" hidden="false">
                   <description>In your opponent's Command phase, roll 2D6 for each Afflicted enemy unit, subtracting 1 from the result if that unit is Below Half-strength. If the result is 6 or less, that enemy unit suffers D3 mortal wounds.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f038-29f" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f038-29f" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Mortarion's Hammer" hidden="false" id="18b0-2d87-798f-ef1c">
               <rules>
                 <rule name="Miasmic Bombardment" id="bdb7-fa1a-4ee8-a078" hidden="false">
@@ -2195,14 +2195,14 @@ Strike Force - 2 Units
 Onslaught - 3 Units</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-18b0-2d8" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-18b0-2d8" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Champions of Contagion" hidden="false" id="fd92-8b6d-0ef2-e14d">
               <rules>
                 <rule name="Manifold Maladies" id="0ce6-ea96-c84b-c600" hidden="false">
                   <description>At the start of the battle round, you can select one of the Plagues listed in Nurgle's Gift. Until the end of the battle, that is your chosen Plague instead of any previously chosen Plague.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-fd92-8b6" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-fd92-8b6" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Tallyband Summoners" hidden="false" id="69e5-13c7-06bf-d454">
               <rules>
                 <rule name="Reverberant Rancidity" id="54f8-e273-c8e4-03e2" hidden="false">
@@ -2212,7 +2212,7 @@ Onslaught - 3 Units</description>
 While a ^^**Death Guard^^** unit from your army is within 7" of one or more ^^**Plague Legions^^** units from your army, add 3" to that ^^**Death Guard^^** unit's Contagion Range.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-69e5-13c" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-69e5-13c" includeChildSelections="true" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-72c8-a74"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-72c8-a74"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>

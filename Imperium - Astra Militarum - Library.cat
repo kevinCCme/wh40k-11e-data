@@ -37591,10 +37591,10 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       <selectionEntries><selectionEntry type="upgrade" import="true" name="Abhuman Auxiliaries" hidden="false" id="fbae-4334-944f-e36d"><rules><rule name="Absolutist Principles" id="b48e-ff10-4271-20b9" hidden="false"><description>Friendly Bullgryn, Ogryn and Ratlings units gain the ABHUMAN keyword. Commissars can issue the Take Aim! order, and can give one order to a friendly ABHUMAN unit.
 
 STRATAGEMS:
-- Low Profile (1CP, Your Shooting phase, after a friendly Ratlings unit has shot.): That shooting does not prevent the unit from being hidden.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-fbae-433" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Designation Force" hidden="false" id="e8d5-bbd2-3248-ed1f"><rules><rule name="Designated Targets" id="1688-c9e7-b086-5ad3" hidden="false"><description>Friendly Scout Sentinel and Astra Militarum Infantry Smoke units can designate visible enemy units within 12". Designated units get +3" detection range and gain the RECON tag.
+- Low Profile (1CP, Your Shooting phase, after a friendly Ratlings unit has shot.): That shooting does not prevent the unit from being hidden.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-fbae-433" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Designation Force" hidden="false" id="e8d5-bbd2-3248-ed1f"><rules><rule name="Designated Targets" id="1688-c9e7-b086-5ad3" hidden="false"><description>Friendly Scout Sentinel and Astra Militarum Infantry Smoke units can designate visible enemy units within 12". Designated units get +3" detection range and gain the RECON tag.
 
 STRATAGEMS:
-- Sump-Smog Screen (1CP, Start of your opponent's Shooting phase.): One friendly Astra Militarum Infantry unit, plus units obscured behind it, gains the benefit of Cover.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e8d5-bbd" /></constraints></selectionEntry>
+- Sump-Smog Screen (1CP, Start of your opponent's Shooting phase.): One friendly Astra Militarum Infantry unit, plus units obscured behind it, gains the benefit of Cover.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e8d5-bbd" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Combined Arms" hidden="false" id="67ce-ebd5-b428-e4f7">
           <infoLinks>
             <infoLink name="Lethal Hits" hidden="false" type="rule" id="dac0-f686-9164-51ca" targetId="d1d1-611e-5191-1095" />
@@ -37613,7 +37613,7 @@ Each time a model in a **^^Squadron^^** unit from your army makes a ranged attac
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-67ce-ebd" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-67ce-ebd" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Bridgehead Strike" hidden="false" id="7afb-a0f6-b95d-e791">
           <rules>
             <rule name="Only The Best" id="4437-da10-a69e-d131" hidden="false">
@@ -37633,7 +37633,7 @@ Each time a model in a **^^Squadron^^** unit from your army makes a ranged attac
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-7afb-a0f" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7afb-a0f" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Siege Regiment" hidden="false" id="87b5-6072-b2c5-0cdc">
           <infoLinks>
             <infoLink name="Stealth" id="e6da-6a8a-8201-eada" hidden="false" type="rule" targetId="bec5-4288-34a6-ccfa" />
@@ -37661,7 +37661,7 @@ Onslaught - 4</description>
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-87b5-607" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-87b5-607" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Mechanised Assault" hidden="false" id="05ed-772d-bd3a-a790">
           <rules>
             <rule name="Armoured Fist" id="5e37-69a6-b478-2cd5" hidden="false">
@@ -37675,7 +37675,7 @@ Onslaught - 4</description>
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-05ed-772" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-05ed-772" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Hammer of the Emperor" hidden="false" id="97fc-2d9c-9008-f363">
           <rules>
             <rule name="Iron Tread" id="4f39-4662-ab91-2be4" hidden="false">
@@ -37689,7 +37689,7 @@ Onslaught - 4</description>
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-97fc-2d9" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-97fc-2d9" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Recon Element" hidden="false" id="3d9f-5d9a-4a18-21aa">
           <rules>
             <rule name="Masters of Camouflage" id="9878-8c91-dee3-c0a1" hidden="false">
@@ -37703,7 +37703,7 @@ Onslaught - 4</description>
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3d9f-5d9" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3d9f-5d9" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Grizzled Company" hidden="false" id="cc4e-a30b-f987-c984">
           <rules>
             <rule name="Ruthless Discipline" id="875a-bbfc-8184-0f73" hidden="false">
@@ -37719,7 +37719,7 @@ While an **^^Astra Militarum^^** unit from your army is affected by an Order, ea
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-cc4e-a30" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-cc4e-a30" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Embarked Regiment" hidden="false" id="5ccc-76f0-d28e-672d">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -37787,7 +37787,7 @@ Each time an **^^Officer^^** model in this unit issues an Order, that Order can 
               <description>Each time an **^^Astra Militarum^^** unit from your army is selected to shoot, you can select one other friendly **^^Astra Militarum^^** unit (excluding **^^Ogryn^^** units). Until the end of the phase, models in the attacking unit can ignore models in that friendly unit for the purposes of determining visibility.</description>
             </rule>
           </rules>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5ccc-76f" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-5ccc-76f" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Tempestus Boarding Regiment" hidden="false" id="f726-7b3d-7e35-e734">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -37831,7 +37831,7 @@ Each time an **^^Officer^^** model in this unit issues an Order, that Order can 
               <description>Each time a **^^Militarum Tempestus^^** unit from your army is selected to shoot, if one or more models in that unit are within 1" of an open Hatchway and every model in that unit is on the same side of that Hatchway, select one enemy unit on the opposite side of that Hatchway from that unit. Until the end of the phase, ranged weapons equipped by models in that unit have the **[LETHAL HITS]** ability while targeting that enemy unit.</description>
             </rule>
           </rules>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f726-7b3" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f726-7b3" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Steel Hammer" hidden="false" id="419a-c366-aa63-ebb5">
           <rules>
             <rule name="Ceaseless Cannonade" id="c324-bc40-8caa-5e2d" hidden="false">
@@ -37850,7 +37850,7 @@ Each time an **^^Officer^^** model in this unit issues an Order, that Order can 
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-419a-c36" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-419a-c36" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Armoured Infantry" hidden="false" id="d071-6e6b-dde6-dcf4">
           <rules>
             <rule name="Squadron Command" id="6ed3-5540-0f8d-a27c" hidden="false">
@@ -37874,7 +37874,7 @@ Each time an **^^Officer^^** model in this unit issues an Order, that Order can 
               </characteristics>
             </profile>
           </profiles>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d071-6e6" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d071-6e6" includeChildSelections="true" /></constraints></selectionEntry>
       </selectionEntries>
     <constraints><constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-bfc1-eb6" includeChildSelections="true" /></constraints></selectionEntryGroup>
     <selectionEntryGroup name="Enhancements" hidden="false" id="33fd-bb93-1bf4-f1c" collapsible="true">

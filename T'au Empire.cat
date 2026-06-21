@@ -19589,7 +19589,7 @@ Designer’s Note: Place an Oversight Drone token next to the bearer, removing i
       <selectionEntries><selectionEntry type="upgrade" import="true" name="Advanced Acquisition Cadre" hidden="false" id="5f82-4f24-4ce2-6295"><rules><rule name="Advanced Acquisition Cadre" id="7de4-d19a-2c8c-8001" hidden="false"><description>Additional training lets these units shoot and reposition while staying concealed.
 
 STRATAGEMS:
-- Autoreactive Camouflage (1CP, Your opponent's Shooting phase, targeting a hidden friendly Pathfinder or Stealth Battlesuit unit.): That unit gains +1 to its Save characteristic against the attacks.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5f82-4f2" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Mont’Ka" hidden="false" id="619e-842b-c4a5-de9d"><rules><rule name="Killing Blow" id="640f-8641-43c9-4c2f" hidden="false"><description>In battle rounds 1, 2 and 3, ranged weapons on your T'au Empire models gain [ASSAULT]. During those same rounds, Guided units' ranged weapons also gain [LETHAL HITS].
+- Autoreactive Camouflage (1CP, Your opponent's Shooting phase, targeting a hidden friendly Pathfinder or Stealth Battlesuit unit.): That unit gains +1 to its Save characteristic against the attacks.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-5f82-4f2" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Mont’Ka" hidden="false" id="619e-842b-c4a5-de9d"><rules><rule name="Killing Blow" id="640f-8641-43c9-4c2f" hidden="false"><description>In battle rounds 1, 2 and 3, ranged weapons on your T'au Empire models gain [ASSAULT]. During those same rounds, Guided units' ranged weapons also gain [LETHAL HITS].
 
 STRATAGEMS:
 - Pinpoint Counter-Offensive (1CP, Any phase): Use when one of your T'au Empire units is destroyed. For the rest of the battle, your T'au Empire units may re-roll Hit rolls against the enemy unit that destroyed it.
@@ -19597,7 +19597,7 @@ STRATAGEMS:
 - Focused Fire (1CP, Start of your Shooting phase): Pick two T'au Empire units and one enemy unit. Until end of phase, those units can only target that enemy unit, and their attacks get +1 Armour Penetration.
 - Combat Debarkation (1CP, Your Shooting phase): Pick a T'au Empire Infantry unit that disembarked from a Transport this turn. Until end of phase, it may re-roll Wound rolls against the closest enemy unit.
 - Pulse Onslaught (2CP, Your Shooting phase): Pick a T'au Empire Infantry unit that just shot and an enemy unit it hit. Until the end of your opponent's next turn that enemy unit is shaken, subtracting 2 from its Move characteristic and from its Advance and Charge rolls.
-- Counterfire Defence Systems (2CP, Opponent's Shooting phase): Pick a T'au Empire unit being targeted. Until end of phase, every attack allocated to it has its Damage reduced by 1.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-619e-842" /></constraints></selectionEntry>
+- Counterfire Defence Systems (2CP, Opponent's Shooting phase): Pick a T'au Empire unit being targeted. Until end of phase, every attack allocated to it has its Damage reduced by 1.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-619e-842" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Kauyon" id="e366-3583-f47a-986e">
           <rules>
             <rule name="Patient Hunter" id="317c-3f1d-9993-b610" hidden="false">
@@ -19614,7 +19614,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e366-358" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e366-358" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Mont'ka" id="6aea-8ba5-978e-8def">
           <rules>
             <rule name="Killing Blow" id="f9d3-b36b-e093-4fb4" hidden="false">
@@ -19632,7 +19632,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-6aea-8ba" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-6aea-8ba" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Retaliation Cadre" id="3bae-cf7-b9e3-4f00">
           <rules>
             <rule name="Bonded Heroes" id="400b-c724-6710-76b1" hidden="false">
@@ -19646,7 +19646,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-3bae-cf7" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-3bae-cf7" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Kroot Hunting Pack" id="452e-5b5b-cdbc-c94a">
           <rules>
             <rule name="Hunter's Instincts" id="4129-703-44-c6c" hidden="false">
@@ -19663,7 +19663,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-452e-5b5" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-452e-5b5" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Auxiliary Cadre" hidden="false" id="97bc-1349-fb9d-c04f">
           <rules>
             <rule name="Integrated Command Structure" id="eb32-1926-a607-c01c" hidden="false">
@@ -19683,7 +19683,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-97bc-134" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-97bc-134" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Experimental Prototype Cadre" id="1520-c344-f4fe-b414">
           <rules>
             <rule name="Superior Craftmanship" id="492b-52cc-f6f2-0d20" hidden="false">
@@ -19713,7 +19713,7 @@ STRATAGEMS:
               </conditions>
             </modifier>
           </modifiers>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-1520-c34" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-1520-c34" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Kroot Raiding Party" hidden="false" id="deca-477c-ac30-a5ce">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -19756,7 +19756,7 @@ For each **^^Kroot Carnivores^^** unit you include, you can include up to one of
           <infoLinks>
             <infoLink targetId="1a7a-a079-15fb-f3d9" id="53b8-7555-5cdd-128b" type="rule" name="Void Combat Discipline" hidden="false" />
           </infoLinks>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-deca-477" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-deca-477" includeChildSelections="true" /></constraints></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Starfire Cadre" hidden="false" id="7e3b-b9cf-5be0-8bc1">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -19805,7 +19805,7 @@ You can include up to one of the following units:
           <infoLinks>
             <infoLink name="Void Combat Discipline" id="7ec3-235a-20e8-5dd5" hidden="false" targetId="1a7a-a079-15fb-f3d9" type="rule" />
           </infoLinks>
-        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-7e3b-b9c" /></constraints></selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-7e3b-b9c" includeChildSelections="true" /></constraints></selectionEntry>
       </selectionEntries>
       <constraints>
         <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="b27-2395-910d-8372" includeChildSelections="false" />

@@ -2919,7 +2919,7 @@
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Devotees Of Destruction" hidden="false" id="f573-1045-ae03-0589"><rules><rule name="Rain Of Ruin" id="6266-1d08-6dae-6624" hidden="false"><description>Ranged attacks made by friendly Havocs and Obliterators units gain the [HEAVY] ability.
 
 STRATAGEMS:
-- Ruination's Bounty (1CP, Your Shooting phase, when a Havocs or Obliterators unit is picked to shoot.): If that unit makes a Dark Pact, until the end of the phase its ranged attacks gain both [LETHAL HITS] and [SUSTAINED HITS 1].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f573-104" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Huron’S Marauders" hidden="false" id="6033-1a6b-2884-5aa4"><rules><rule name="Tyrannical Motivation" id="903b-3a91-0b54-0fc9" hidden="false"><description>In your Command phase, choose one ability each Heretic Astartes Infantry unit has until the start of your next Command phase: Huron's Elite (+1 to Hit rolls) or Mobile Marauders (can shoot and declare a charge in a turn it Fell Back). At the start of each phase, any such unit visible to a friendly Huron Blackheart gains both abilities until the end of that phase.
+- Ruination's Bounty (1CP, Your Shooting phase, when a Havocs or Obliterators unit is picked to shoot.): If that unit makes a Dark Pact, until the end of the phase its ranged attacks gain both [LETHAL HITS] and [SUSTAINED HITS 1].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f573-104" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Huron’S Marauders" hidden="false" id="6033-1a6b-2884-5aa4"><rules><rule name="Tyrannical Motivation" id="903b-3a91-0b54-0fc9" hidden="false"><description>In your Command phase, choose one ability each Heretic Astartes Infantry unit has until the start of your next Command phase: Huron's Elite (+1 to Hit rolls) or Mobile Marauders (can shoot and declare a charge in a turn it Fell Back). At the start of each phase, any such unit visible to a friendly Huron Blackheart gains both abilities until the end of that phase.
 
 STRATAGEMS:
 - Hardened Killers (1CP, Your Command phase): Pick one Damned unit. Choose one effect until the start of your next turn: +1 Ballistic Skill on ranged weapons; +1 Attacks on Rapid Fire weapons; or +1 to Save characteristic of its models.
@@ -2927,10 +2927,10 @@ STRATAGEMS:
 - Seize the Prize (1CP, Your Movement phase): Used just after a Heretic Astartes unit (excluding Monsters and Vehicles) is selected to Advance. Don't roll the Advance; instead add 6" to its models' Move until the end of the phase.
 - Reavers' Flurry (1CP, Your Fight phase): Pick one Heretic Astartes unit that made a Charge move this turn. Until the end of the phase, add 1 to the Attacks of its melee weapons.
 - To the Favoured the Spoils (1CP, Opponent's Shooting phase): Used just after an enemy unit shoots, on one Heretic Astartes unit that lost wounds. It can make a Surge move: roll a D6 and move up to that many inches, ending as close as possible to the nearest enemy unit (excluding Aircraft), and may move within Engagement Range.
-- Encircling Surge (1CP, End of opponent's Fight phase): Pick one Heretic Astartes unit (excluding Monsters and Vehicles) within 6" of a battlefield edge and not in Engagement Range of any enemy. Remove it and place it into Strategic Reserves.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-6033-1a6" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Murdertalon Raiders" hidden="false" id="e776-cd54-5812-38c8"><rules><rule name="Prey On The Weak" id="01a7-0f3e-68c5-abc5" hidden="false"><description>Friendly Heretic Astartes Infantry and Fly units can re-roll hit rolls of 1 against enemy units that are battle-shocked or Below Half-strength. Those same friendly units are themselves harder to hit, giving enemies -1 to hit rolls against them when below half-strength or battle-shocked.
+- Encircling Surge (1CP, End of opponent's Fight phase): Pick one Heretic Astartes unit (excluding Monsters and Vehicles) within 6" of a battlefield edge and not in Engagement Range of any enemy. Remove it and place it into Strategic Reserves.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-6033-1a6" includeChildSelections="true" /></constraints></selectionEntry><selectionEntry type="upgrade" import="true" name="Murdertalon Raiders" hidden="false" id="e776-cd54-5812-38c8"><rules><rule name="Prey On The Weak" id="01a7-0f3e-68c5-abc5" hidden="false"><description>Friendly Heretic Astartes Infantry and Fly units can re-roll hit rolls of 1 against enemy units that are battle-shocked or Below Half-strength. Those same friendly units are themselves harder to hit, giving enemies -1 to hit rolls against them when below half-strength or battle-shocked.
 
 STRATAGEMS:
-- Plunging Talons (1CP, Fight phase, when a Heretic Astartes Infantry or Fly unit that charged this turn is picked to fight.): Until the end of the phase, that unit's melee weapons gain the [LANCE] ability.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-e776-cd5" /></constraints></selectionEntry>
+- Plunging Talons (1CP, Fight phase, when a Heretic Astartes Infantry or Fly unit that charged this turn is picked to fight.): Until the end of the phase, that unit's melee weapons gain the [LANCE] ability.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-e776-cd5" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry id="53dd-68f7-7c1f-3e5d" name="Pactbound Zealots" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
                 <profile id="f5e9-d620-78a2-c552" name="KHORNE" hidden="false" typeId="3084-68b8-1d20-2f26" typeName="Marks of Chaos">
@@ -2977,14 +2977,14 @@ RESTRICTIONS
 - A unit can only embark within (or start the battle embarked within) a ^^Transport^^ if both of those units share the same keyword from the list above.’</description>
                 </rule>
               </rules>
-            <constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-53dd-68f" /></constraints></selectionEntry>
+            <constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-53dd-68f" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Veterans of the Long War" hidden="false" id="a5ea-d708-db75-226c">
               <rules>
                 <rule name="Focus of Hatred" id="6f2f-8cf6-20e7-4c4c" hidden="false">
                   <description>At the start of your Command phase, select one unit from your opponent's army to be your focus of hatred. Until the start of your next Command phase, each time a ^^**Heretic Astartes**^^ model from your army (excluding ^^**Damned**^^ models) makes an attack that targets your focus of hatred, you can re-roll the Hit roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a5ea-d70" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-a5ea-d70" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Deceptors" hidden="false" id="4972-a08d-9d88-5f7a">
               <rules>
                 <rule name="Masters of Misdirection" id="ea79-5d28-1dc3-b123" hidden="false">
@@ -2997,14 +2997,14 @@ Strike Force | Up to 3 units | Up to 3 units
 Onslaught | Up to 4 units | Up to 4 units</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-4972-a08" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-4972-a08" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Renegade Raiders" hidden="false" id="b906-aa42-9cd9-c6f2">
               <rules>
                 <rule name="Raiders and Reavers" id="4fef-0ab4-2b60-48c4" hidden="false">
                   <description>Ranged weapons equipped by ^^**Heretic Astartes**^^ models from your army have the [ASSAULT] ability, and each time a ^^**Heretic Astartes**^^ model from your army makes an attack that targets a unit within range of an objective marker, improve the Armour Penetration characteristic of that attack by 1.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-b906-aa4" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-b906-aa4" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Dread Talons" hidden="false" id="d11c-e4a9-32c7-b761">
               <rules>
                 <rule name="Terror Descends (Aura)" id="2731-f494-9e83-4c7c" hidden="false">
@@ -3013,14 +3013,14 @@ Each time an enemy unit within 12" of one or more ^^**Heretic Astartes**^^ units
 Enemy units affected by this Detachment rule do not need to take any other Battle-shock tests in the same phase.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d11c-e4a" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d11c-e4a" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Fellhammer Siege-host" hidden="false" id="89a5-170b-1bf3-7016">
               <rules>
                 <rule name="Iron Fortitude" id="eb25-bc78-6c52-aaad" hidden="false">
                   <description>Each time a ranged attack targets a ^^**Heretic Astartes**^^ unit from your army (excluding ^^**Damned**^^ units), if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-89a5-170" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-89a5-170" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Chaos Cult" hidden="false" id="6cec-4da4-a89d-fb98">
               <rules>
                 <rule name="Desperate Devotion" id="bb86-b97c-b67c-a1b9" hidden="false">
@@ -3031,7 +3031,7 @@ Desperate Pacts
 Each time a unit makes a Desperate Pact, it must first take a Leadership test; if that test is failed, the unit suffers D3 mortal wounds before any effects of the Desperate Pact are resolved.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-6cec-4da" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-6cec-4da" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Soulforged Warpack" hidden="false" id="a523-e0fe-4e1c-bc70">
               <rules>
                 <rule name="Debt to the Soulforge" id="2f24-2a2c-c245-fc6a" hidden="false">
@@ -3040,7 +3040,7 @@ Each time a unit makes a Desperate Pact, it must first take a Leadership test; i
 - Add 2 to the Attacks characteristic of melee weapons equipped by models in that unit.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-a523-e0f" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-a523-e0f" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Creations of Bile" hidden="false" id="1c30-e099-1aca-8708">
               <rules>
                 <rule name="Creations of Bile" id="baec-58bb-7156-3bde" hidden="false">
@@ -3055,7 +3055,7 @@ Each time a unit makes a Desperate Pact, it must first take a Leadership test; i
 6 - **Ophthalmic Enhancement:** Improve the Ballistic Skill characteristic of ranged weapons equipped by this model by 1.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-1c30-e09" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-1c30-e09" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Cabal of Chaos" hidden="false" id="9e8b-efe2-7ff2-6b36">
               <rules>
                 <rule name="Empyric Wellspring" id="e027-6e15-ddbd-194c" hidden="false">
@@ -3070,7 +3070,7 @@ While this unit is within 9" of one or more friendly ^^**Heretic Astartes Psyker
 While this unit is within 9" of one or more friendly ^^**Heretic Astartes Daemon Prince^^** or ^^**Heretic Astartes Daemon Prince with Wings^^** models, improve the Armour Penetration characteristic of melee weapons equipped by models in this unit by 1.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-9e8b-efe" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-9e8b-efe" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Nightmare Hunt" hidden="false" id="f96f-5896-93c2-fc05">
               <rules>
                 <rule name="Terror Made Manifest" id="0185-23fb-27a7-56d4" hidden="false">
@@ -3080,7 +3080,7 @@ Each time an attack targets a ^^**Heretic Astartes^^** unit from your army, if t
 Each time a ^^**Heretic Astartes^^** model from your army makes an attack that targets a Battle‐shocked unit, add 1 to the Wound roll.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-f96f-589" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-f96f-589" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Huron's Marauders" hidden="false" id="44d2-04f0-309d-575e">
               <rules>
                 <rule name="Tyrannical Motivation" id="bc4d-c9cb-320d-97ac" hidden="false">
@@ -3096,7 +3096,7 @@ This unit is eligible to shoot and declare a charge in a turn in which it Fell B
 ***Designer’s Note:** If a unit is gaining eligibility to shoot and declare a charge in a turn in which it Fell Back as a result of being visible to Huron Blackheart, but after making a Fall Back move it is no longer visible to Huron Blackheart, that unit will not be eligible to shoot in your Shooting phase or to declare a charge in your Charge phase unless it is visible again at the start of the respective phase.*</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-44d2-04f" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-44d2-04f" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Renegade Warband" hidden="false" id="2cf4-ac9c-5417-10ac">
               <rules>
                 <rule name="Slaves to None" id="4a32-a302-9896-87d4" hidden="false">
@@ -3113,7 +3113,7 @@ When mustering your army, you cannot use the Cults of the Dark Gods rule.</descr
 - Until the end of the turn, this unit is eligible to declare a charge in a turn in which it Advanced.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-2cf4-ac9" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-2cf4-ac9" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Warpstrike Champions" hidden="false" id="d545-85a4-65d6-2f59">
               <rules>
                 <rule name="Warp Portals" id="7cf3-44ec-95d2-564e" hidden="false">
@@ -3128,7 +3128,7 @@ Onslaught - Up to 3 units
 Once you have made your selections, remove those units from the battlefield and place them into Strategic Reserves.</description>
                 </rule>
               </rules>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-d545-85a" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-d545-85a" includeChildSelections="true" /></constraints></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Cult of the Arkifane" hidden="false" id="5f38-038e-a1e9-a457">
               <rules>
                 <rule name="Soul Forge Boons" id="5317-434b-033e-5048" hidden="false">
@@ -3143,7 +3143,7 @@ Once you have made your selections, remove those units from the battlefield and 
                 <modifier type="add" value="9c0e-7e25-4580-e439" field="category" scope="force" affects="self.entries.recursive.71d8-c345-059b-e793" />
                 <modifier type="add" value="7561-4a21-64f6-a3dc" field="category" scope="force" affects="self.entries.recursive.71d8-c345-059b-e793" />
               </modifiers>
-            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d1-5f38-038" /></constraints></selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs><constraints><constraint type="max" value="1" field="selections" scope="roster" shared="true" id="d1-5f38-038" includeChildSelections="true" /></constraints></selectionEntry>
           </selectionEntries>
         <modifiers><modifier type="set" value="3" field="dpmax-9fe0-d70"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-9fe0-d70"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>
