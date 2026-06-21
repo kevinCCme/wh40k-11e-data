@@ -362,7 +362,7 @@ STRATAGEMS:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e101-864d-e2c9-e6fa" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="724c-9f6e-2b19-0f2b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -430,7 +430,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="724c-9f6e-2b19-0f2b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Battle Sisters Squad" hidden="false" id="f26d-450d-1c55-caeb" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -657,7 +657,7 @@ STRATAGEMS:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="18e8-49fb-76be-3c0a" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a5d9-cc34-bc30-f8a6" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -725,7 +725,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a5d9-cc34-bc30-f8a6" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Boltgun" hidden="false" id="9378-6ba3-6811-68a7" collective="true">
       <infoLinks>
         <infoLink name="Rapid Fire" hidden="false" type="rule" id="74fc-6ddf-6c62-6ead" targetId="c5c8-8b58-b8b6-7786" />
@@ -1653,7 +1653,7 @@ STRATAGEMS:
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="11c2-eddb-c0d5-2897" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2e3d-7589-4059-537f" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="fa00-6eb8-56d0-173c" includeChildSelections="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="49da-bf77-2235-cb72" includeChildSelections="false" />
@@ -1727,7 +1727,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2e3d-7589-4059-537f" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="d378-4bb7-d204-f8eb" name="Celestian Sacresant (Anointed Halberd)" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="b15a-a167-9fa4-2755" name="Celestian Sacresant" hidden="false" targetId="135c-b9f6-befe-a2cc" type="profile" />
@@ -1894,7 +1894,7 @@ STRATAGEMS:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="520c-aaab-e1e8-d718" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="16c0-081f-9aaf-0f6b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1962,7 +1962,7 @@ STRATAGEMS:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="16c0-081f-9aaf-0f6b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="d420-94b9-b82b-73e5" name="Celestian Sacresant (Hallowed Mace)" hidden="false" collective="false" import="true" type="model">
       <infoLinks>
         <infoLink id="dd8b-9ec3-220f-3050" name="Celestian Sacresant" hidden="false" targetId="135c-b9f6-befe-a2cc" type="profile" />
@@ -2768,7 +2768,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a65a-0383-16a5-eba3" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9666-ea9a-7a6f-0124" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2836,7 +2836,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9666-ea9a-7a6f-0124" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Exorcist" hidden="false" id="684e-4dd3-340a-23ee" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
@@ -2889,7 +2889,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7dde-b3cf-02e2-dde3" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d46a-9ba5-1f46-c47d" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="9a18-1601-3717-898b" hidden="false" sortIndex="2">
           <entryLinks>
@@ -3076,7 +3076,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d46a-9ba5-1f46-c47d" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hospitaller" hidden="false" id="938e-1c24-4e63-4cf3" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -3512,7 +3512,7 @@ This model can be attached to a Battle Sisters Squad, even if one Canoness, Pala
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0eb0-35fe-092e-3806" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="cb1e-a900-a421-46b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Transport" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="cf41-7ae4-6a73-5490">
           <characteristics>
@@ -3750,7 +3750,7 @@ At the start of the Declare Battle Formations step, you can select one BATTLE SI
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="cb1e-a900-a421-46b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Junith Eruita" hidden="false" id="8f9a-8a8b-2539-547f" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
@@ -4231,7 +4231,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5478-1fce-17df-8f0c" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d532-e090-6ce3-a6c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4299,7 +4299,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d532-e090-6ce3-a6c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Morvenn Vahl" hidden="false" id="7188-4d20-8216-c68a" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="185" />
@@ -5171,7 +5171,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2bb0-010d-f3e1-6117" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2bd4-0cf9-aaf7-f217" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5239,7 +5239,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2bd4-0cf9-aaf7-f217" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Penitent Engines" hidden="false" id="327d-a6df-26b-bb9b" publicationId="7d85-6d0f-57e0-5dea">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="5eea-d8b0-be9e-a242" primary="true" name="Vehicle" />
@@ -5473,7 +5473,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="265c-064a-305c-db10" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5d74-c7b0-7e3c-1ecb" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5541,7 +5541,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5d74-c7b0-7e3c-1ecb" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Ministorum Priest" hidden="false" id="599d-1e2a-eb0e-430e" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="40" />
@@ -5947,7 +5947,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b9b3-351b-26b6-0cb8" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="08da-049f-ed7e-f398" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6015,7 +6015,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="08da-049f-ed7e-f398" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Retributor Squad" hidden="false" id="c49d-f150-4b3-c118" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="105" />
@@ -6178,7 +6178,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d956-0c46-338e-e166" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d48b-6e24-6fde-b610" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6246,7 +6246,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d48b-6e24-6fde-b610" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Saint Celestine" hidden="false" id="21f1-8ed6-52c6-54c7" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="150" />
@@ -6824,7 +6824,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dbeb-0cc4-b856-b0c6" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4b9a-7486-aca2-6eb7" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6892,7 +6892,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4b9a-7486-aca2-6eb7" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Sisters Novitiate Squad" hidden="false" id="4269-a229-1461-67d0" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -7121,7 +7121,7 @@ of your Command phase, you can choose one of the following:
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="79ac-7776-b68d-c671" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="abb5-9c22-d257-b99b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7189,7 +7189,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="abb5-9c22-d257-b99b" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Sororitas Rhino" hidden="false" id="52c7-3f6b-cece-8101">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -7218,7 +7218,7 @@ of your Command phase, you can choose one of the following:
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0efc-bf65-7179-d701" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1448-1eb8-0646-a9d0" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Transport" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="fb9d-4606-f887-5967">
           <characteristics>
@@ -7348,7 +7348,7 @@ of your Command phase, you can choose one of the following:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1448-1eb8-0646-a9d0" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Triumph of Saint Katherine" hidden="false" id="9f5f-d769-7900-c8a1" publicationId="7d85-6d0f-57e0-5dea">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="245" />
@@ -7672,7 +7672,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="692b-bb1c-181c-cf5d" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e2ab-746f-fdee-66dc" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7740,7 +7740,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e2ab-746f-fdee-66dc" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Geminae Superia" hidden="false" id="9516-5ea3-ec42-dcfe">
       <profiles>
         <profile name="Geminae Superia" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="540-3ea-bd3a-e538">
@@ -9400,7 +9400,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="40fd-58ac-70f7-9f23" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2ef1-6a04-6a0d-89fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9468,7 +9468,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2ef1-6a04-6a0d-89fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Autopistol" hidden="false" id="836e-4f46-1837-b270" collective="true">
       <infoLinks>
         <infoLink name="Novitiate autopistol" id="46fe-d226-42eb-6fb3" hidden="false" type="profile" targetId="3e10-d7df-b71c-6af3" />
@@ -9496,7 +9496,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="29cf-470b-b58f-10da" type="selectionEntryGroup" targetId="b0df-6a60-8561-efde" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9db2-a783-ba90-6138" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="4e70-e4e0-3aa2-b4e4" includeChildSelections="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="970c-a1e2-48eb-1a23" includeChildSelections="false" />
@@ -9813,7 +9813,7 @@ If this unit made a Charge move this turn, until the end of the phase, select bo
           </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="9db2-a783-ba90-6138" name="Upgrades" hidden="false" collective="false" import="true" targetId="fc5f-7b05-faa7-94b9" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Null mace" hidden="false" id="0c2d-0fea-e434-a32e">
       <comment>Insidiants</comment>
       <profiles>

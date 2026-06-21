@@ -4635,7 +4635,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4617-ea4d-ebde-cc86" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="457d-c253-3c88-ccac" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4703,7 +4703,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="457d-c253-3c88-ccac" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Bolt pistol" hidden="false" id="18b0-8c2-173f-5" collective="true">
       <profiles>
         <profile id="d093-797a-4c76-eea3" name="Bolt pistol" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -5029,7 +5029,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4264-ad99-1984-cb16" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="280a-3a32-da2c-afbe" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5097,7 +5097,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="280a-3a32-da2c-afbe" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Pyreblaster" hidden="false" id="bcf-9f6b-f51e-6332" collective="true">
       <profiles>
         <profile name="Pyreblaster" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="26cd-dd97-8f25-7ea7">
@@ -5276,7 +5276,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9924-6566-64c0-6767" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ab11-d42e-c31b-6cb2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5344,7 +5344,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ab11-d42e-c31b-6cb2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Bolt Pistol" hidden="false" id="83a1-feb8-d495-aa28" collective="true">
       <profiles>
         <profile name="Heavy Bolt Pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="fe04-97bc-6b13-fd1c">
@@ -5582,7 +5582,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b709-520c-9d62-8562" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e91b-6fb1-dcc1-700e" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5650,7 +5650,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e91b-6fb1-dcc1-700e" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Bolter" hidden="false" id="d941-c4cd-8b82-c453">
       <profiles>
         <profile name="Heavy Bolter" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="993e-bdb2-3ac6-f11b">
@@ -5874,7 +5874,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1ee2-585e-95e0-d2b0" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="7d9e-0e1f-ab0a-6bf2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5942,7 +5942,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="7d9e-0e1f-ab0a-6bf2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Incursor Squad" hidden="false" id="527c-120e-9e4e-9bfe">
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="775b-cf62-9fc-9cbd" primary="true" name="Infantry" />
@@ -6152,7 +6152,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f519-73fb-c63f-364b" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5cfd-b2d0-c9f1-e00c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6220,7 +6220,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5cfd-b2d0-c9f1-e00c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Tactical Squad" hidden="false" id="c09a-6504-d25f-477">
       <profiles>
         <profile name="Combat Squads" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8fc-8ef9-6b6f-25d9">
@@ -6553,7 +6553,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="546f-1b0f-7ad9-ee35" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="97f2-365a-6717-a20a" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6621,7 +6621,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="97f2-365a-6717-a20a" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Flamer" hidden="false" id="469c-6259-59a5-64c1">
       <profiles>
         <profile name="Flamer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="71c3-20a0-f787-abb2">
@@ -7502,7 +7502,7 @@ Strategic Reserves.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ff89-0fa6-4d6e-d10c" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ebdd-891d-cf93-c490" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7570,7 +7570,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ebdd-891d-cf93-c490" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Close combat weapon" hidden="false" id="b3b-a615-f023-94ef" collective="true">
       <profiles>
         <profile name="Close combat weapon" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="83d0-18be-e1c5-72c5">
@@ -8024,7 +8024,7 @@ Strategic Reserves.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5fff-c93a-1c9f-4f30" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e8cb-2066-b17e-1575" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8092,7 +8092,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e8cb-2066-b17e-1575" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Vanguard Veteran Squad with Jump Packs" hidden="false" id="9e9c-bf4d-2d40-be82">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -8293,7 +8293,7 @@ Strategic Reserves.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3467-e7ff-0ae3-fa27" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6594-7a45-4ddc-3986" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8361,7 +8361,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6594-7a45-4ddc-3986" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Vanguard Veteran Squad [Legends]" hidden="false" id="f1b9-b2e8-4ccf-d6cb">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120" />
@@ -8885,7 +8885,7 @@ Strategic Reserves.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5161-c5be-6b94-a2b8" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4e2e-3228-4053-9b2e" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8953,7 +8953,7 @@ Strategic Reserves.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4e2e-3228-4053-9b2e" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Reiver Squad" hidden="false" id="a7ae-e495-683b-7c90">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -9217,7 +9217,7 @@ bearer can be moved during that move</characteristic>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ae13-0c65-0971-81e9" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9b2f-6f30-be51-9028" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9285,7 +9285,7 @@ bearer can be moved during that move</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9b2f-6f30-be51-9028" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Aggressor Squad" hidden="false" id="129d-2da5-66f3-f4ec">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -9623,8 +9623,8 @@ by 1.</characteristic>
       </modifierGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="add1-56cd-1967-8556" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="9328-68d5-07d5-773f" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="9328-68d5-07d5-773f" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Terminator Assault Squad" hidden="false" id="ae9a-10e3-8091-20">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="155" />
@@ -9891,7 +9891,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="380c-1ae8-28e6-12f3" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="45aa-a9c5-c9fe-08db" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9959,7 +9959,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="45aa-a9c5-c9fe-08db" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Terminator Squad" hidden="false" id="4808-a80b-309a-7933">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="e219-9a7f-dfee-2d08" />
@@ -10213,7 +10213,7 @@ by 1.</characteristic>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c375-4dde-6a0f-e1ab" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="bd9c-7e51-70b6-98b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -10281,7 +10281,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="bd9c-7e51-70b6-98b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Chainfist" hidden="false" id="cb6c-970e-444a-3ec3" collective="true">
       <profiles>
         <profile name="Chainfist" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="aaa8-f6e6-715a-ca9e">
@@ -10993,7 +10993,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7090-e176-64fd-3a1e" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2bf7-eca1-a433-2a8d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11061,7 +11061,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2bf7-eca1-a433-2a8d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Centurion Devastator Squad" hidden="false" id="6ba0-cede-e278-f86b">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="175" />
@@ -11285,7 +11285,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="14bf-be8a-2f28-2de4" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d688-b71f-6292-5d20" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11353,7 +11353,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d688-b71f-6292-5d20" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Centurion Bolters" hidden="false" id="953c-b525-10be-f7cd">
       <profiles>
         <profile name="Centurion Bolters" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="ff26-fcab-318-9503">
@@ -11506,7 +11506,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="bb20-17fc-e300-7fa0" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="498f-8fc0-10c0-b874" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="66f2-362c-f7ee-0bf4" hidden="false" sortIndex="2">
           <entryLinks>
@@ -11684,7 +11684,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="498f-8fc0-10c0-b874" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Dreadnought" hidden="false" id="d204-13c6-dab1-ecdc">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
@@ -11846,7 +11846,7 @@ by 1.</characteristic>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a109-3ef8-b175-9ded" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c2f4-a941-c24d-d6de" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11914,7 +11914,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c2f4-a941-c24d-d6de" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Assault Cannon" hidden="false" id="2de6-ff2-dc37-b20d">
       <profiles>
         <profile name="Assault Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="229a-6aa7-98d9-234d">
@@ -12551,7 +12551,7 @@ by 1.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a028-a40f-67a2-b5c3" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e791-a762-7261-988d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifiers>
         <modifier type="add" value="e21f-8e64-c5d-7df0" field="category">
           <conditions>
@@ -12626,7 +12626,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e791-a762-7261-988d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Onslaught Gatling Cannon" hidden="false" id="39fe-deb4-dde-2c1a">
       <profiles>
         <profile name="Heavy Onslaught Gatling Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9a6f-e83b-69b1-8dbf">
@@ -12750,7 +12750,7 @@ by 1.</characteristic>
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="af80-f121-8970-d074" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ef1f-45d8-5909-cba8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="7a9e-7486-35b6-3d6e" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="3ee3-e684-64ee-51a8" targetId="b68a-5ded-65ac-98c">
@@ -12954,7 +12954,7 @@ by 1.</characteristic>
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="ef1f-45d8-5909-cba8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Brutalis Dreadnought" hidden="false" id="1c00-9398-b9e7-446a">
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="d3bb-568d-8bbc-bd8b" targetId="b68a-5ded-65ac-98c">
@@ -13131,7 +13131,7 @@ by 1.</characteristic>
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="aec8-d6a5-b190-68fe" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="072f-8007-4414-ff6d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifiers>
         <modifier type="add" value="e21f-8e64-c5d-7df0" field="category">
           <conditions>
@@ -13206,7 +13206,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="072f-8007-4414-ff6d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin Icarus ironhail heavy stubber" hidden="false" id="6c9-da5-cea7-f3c9">
       <infoLinks>
         <infoLink name="Anti-" hidden="false" type="rule" id="9e03-71d1-2bac-cf3" targetId="4111-82e3-9444-e942" />
@@ -14090,7 +14090,7 @@ by 1.</characteristic>
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5a6d-c109-3e44-2ac7" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0866-1edf-b424-2b8d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="692c-f7be-75d4-ba2d" hidden="false" sortIndex="2">
           <entryLinks>
@@ -14228,7 +14228,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0866-1edf-b424-2b8d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin bolt rifle" hidden="false" id="3451-a59-ad9d-cc65" collective="true">
       <profiles>
         <profile name="Twin bolt rifle" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c221-788f-ced8-2">
@@ -14391,7 +14391,7 @@ by 1.</characteristic>
           </constraints>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="d01c-2bb8-9be8-45bf" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d56a-d81c-4569-4e42" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <categoryLinks>
         <categoryLink targetId="14a0-40c9-2748-ae6e" id="116d-2c55-b1dc-e838" primary="true" name="Mounted" />
         <categoryLink targetId="5a61-81ac-eb7c-a87e" id="a5b4-2dd7-cb17-c829" primary="false" name="Grenades" />
@@ -14476,7 +14476,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d56a-d81c-4569-4e42" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Attack Bike Squad [Legends]" hidden="false" id="7bef-c609-3897-8bd6">
       <selectionEntries>
         <selectionEntry type="model" import="true" name="Attack Bike" hidden="false" id="332e-608d-ea45-d78c" sortIndex="2">
@@ -15572,7 +15572,7 @@ by 1.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e82e-f809-b0cc-f593" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b3d7-9e4f-f06b-42a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -15640,7 +15640,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b3d7-9e4f-f06b-42a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Inceptor Squad" hidden="false" id="3e14-2a-d358-6ada">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120" />
@@ -15899,7 +15899,7 @@ by 1.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0173-5a1f-71e2-1b8f" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ec76-2613-db20-a387" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -15967,7 +15967,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ec76-2613-db20-a387" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Storm Speeder Hailstrike" hidden="false" id="9cb9-9ab5-727f-80e5">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="105" />
@@ -16012,7 +16012,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1b9f-8e95-f8fc-ac13" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f13c-0e82-fded-00b7" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="e202-eeaa-c319-3281" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="0d4d-6646-bf4a-bd63" includeChildSelections="false" />
@@ -16135,7 +16135,7 @@ by 1.</characteristic>
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="f13c-0e82-fded-00b7" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Storm Speeder Thunderstrike" hidden="false" id="993a-9cbc-8052-e40">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
@@ -16183,7 +16183,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b1b2-7a2e-8277-81cd" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="fae4-6bc0-e5bb-10e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="e202-eeaa-c319-3281" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="6563-3582-b691-ddac" includeChildSelections="false" />
@@ -16354,7 +16354,7 @@ by 1.</characteristic>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="fae4-6bc0-e5bb-10e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Storm Speeder Hammerstrike" hidden="false" id="9489-445c-f950-7292">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="130" />
@@ -16381,7 +16381,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9ec9-ae10-2ec9-4bf8" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="018f-2bd1-5b66-ab26" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Hammerstrike" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="3477-d6b3-fc9-9761">
           <characteristics>
@@ -16572,7 +16572,7 @@ by 1.</characteristic>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="018f-2bd1-5b66-ab26" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Land Speeder Typhoon [Legends]" hidden="false" id="90fe-d51c-1541-5d60">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -17310,7 +17310,7 @@ by 1.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="78f7-3c62-235e-e140" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="beb7-2466-a590-fc5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -17378,7 +17378,7 @@ by 1.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="beb7-2466-a590-fc5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Eliminator Squad" hidden="false" id="d6c3-e9d2-430d-6c2f">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -17583,7 +17583,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="95cc-ae06-45fb-b5bd" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0b4a-077e-175a-2885" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -17651,7 +17651,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0b4a-077e-175a-2885" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Eradicator Squad" hidden="false" id="c570-c6ba-c9dc-5a44">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -17836,7 +17836,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a902-d3d0-7e3d-f070" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="85c5-0e38-47fb-344d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -17904,7 +17904,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="85c5-0e38-47fb-344d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Devastator Squad" hidden="false" id="3f4c-1e67-66dc-ffa5">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120" />
@@ -18169,7 +18169,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ebd9-dd65-c00d-ae67" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="03c4-1df9-2987-4c41" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -18237,7 +18237,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="03c4-1df9-2987-4c41" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Desolation Squad" hidden="false" id="a3ea-7a0d-fef8-23bf">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
@@ -18498,7 +18498,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="71d4-9046-5873-658a" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="39b9-0b76-8db0-af1a" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -18566,7 +18566,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="39b9-0b76-8db0-af1a" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Thunderfire Cannon [Legends]" hidden="false" id="2fa7-e488-c012-4af1">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="8f11-6af1-9bba-dbe4" primary="true" name="Vehicle" />
@@ -18993,7 +18993,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="348f-4d21-84fe-205f" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="cee9-661c-4a30-eb85" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="57e2-0d04-cdb6-d79f" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="60f8-1a9a-4b8c-6161" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -19073,7 +19073,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="60f8-1a9a-4b8c-6161" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hunter [Legends]" hidden="false" id="3ad-729-3235-4777">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -19513,7 +19513,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="b6f5-db41-7c5c-2cb8" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="72d0-c7cc-99ff-5f41" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="7e6b-c8f1-fbc3-eee8" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="cedb-0b01-e2d7-882c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="9717-2ae4-1a52-37eb" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="32f6-d064-2fc2-797" targetId="b68a-5ded-65ac-98c">
@@ -19668,7 +19668,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="cedb-0b01-e2d7-882c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Predator Destructor" hidden="false" id="d4c8-dd6a-cd7a-ccc3">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
@@ -19682,7 +19682,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="1e1f-5089-d2a2-274a" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="bc99-1d2b-b738-ae81" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="c494-792f-2056-851f" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="a584-a932-fcc3-3712" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="3808-cc68-8a46-5b24" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="2265-d9d0-9af5-6778" targetId="b68a-5ded-65ac-98c">
@@ -19895,7 +19895,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="a584-a932-fcc3-3712" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Predator Annihilator" hidden="false" id="31a-6c3e-5843-4023">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
@@ -19916,7 +19916,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="3afa-51d9-4121-588b" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="8995-015f-65dc-96d1" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="3d65-3050-f30a-c8c3" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="b5d3-ba00-6fca-d071" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="1194-f83-ad94-edce" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="cbdf-7c24-1d47-7a72" targetId="b68a-5ded-65ac-98c">
@@ -20132,7 +20132,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="b5d3-ba00-6fca-d071" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Gladiator Lancer" hidden="false" id="7814-107b-a498-96f6">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="c8e0-e435-26d2-eefd" primary="true" name="Vehicle" />
@@ -20162,7 +20162,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="6415-531d-8eaa-d183" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="37ff-5cf1-d16f-02a7" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="e8c3-675e-b261-a1d1" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="026b-30c5-a003-1d15" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="68cf-389f-be21-37e" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="1f51-37e7-7901-5c6c" targetId="b68a-5ded-65ac-98c">
@@ -20362,7 +20362,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="026b-30c5-a003-1d15" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Ironhail Heavy Stubber" hidden="false" id="1c66-4903-10ca-2a27">
       <profiles>
         <profile name="Ironhail Heavy Stubber" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9111-913e-ec42-e830">
@@ -20392,7 +20392,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="981a-804b-38bb-bbda" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="7a11-8c02-5f6c-4f75" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="f811-e9ee-f066-8df0" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="191e-3da2-1f68-90a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="10e9-8293-c3df-a107" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="5fd2-ab08-91a2-e36b" targetId="b68a-5ded-65ac-98c">
@@ -20600,7 +20600,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="191e-3da2-1f68-90a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Gladiator Valiant" hidden="false" id="6b89-8147-9b6b-6db1">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="150" />
@@ -20640,7 +20640,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="6968-aff1-f344-6cd8" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="8bd6-192a-3975-9ec6" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="c517-d373-9409-090a" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="00d9-eaf5-f98b-d4dd" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-4 Wounds Remaining" hidden="false" type="profile" id="545b-ecf1-18a2-fe5" targetId="ee64-aaaf-75df-8da9" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="2091-df96-f25d-ac9b" targetId="b68a-5ded-65ac-98c">
@@ -20810,7 +20810,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="00d9-eaf5-f98b-d4dd" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Vindicator" hidden="false" id="cb6d-201f-4888-3027">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="185" />
@@ -20858,7 +20858,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="f756-2008-549c-23c8" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="4c92-b523-6ddd-2072" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="98e4-3406-49d5-8a31" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="691a-bf04-98a4-feec" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="4842-d907-ccbf-af5b" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="cb86-3e39-1d9b-ec0b" includeChildSelections="false" />
@@ -21005,7 +21005,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="691a-bf04-98a4-feec" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Land Raider" hidden="false" id="8cca-9318-3bec-d360">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="9ac4-3866-c0c6-5b7a" primary="true" name="Vehicle" />
@@ -21047,7 +21047,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="5ab7-5348-9bb7-499a" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="74ce-88ba-c67f-982a" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="72a4-c90d-4914-6700" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="cfb9-0857-0570-42f8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="df21-20fd-dd4-9afe" targetId="b68a-5ded-65ac-98c">
           <modifiers>
@@ -21229,7 +21229,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="cfb9-0857-0570-42f8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Land Raider Crusader" hidden="false" id="1d65-c592-2e16-b045">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="220" />
@@ -21275,7 +21275,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="362c-8d25-ae5d-c189" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="c67d-54fc-3697-b514" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="3066-1eee-c57c-5348" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="91af-8f68-c5f7-22e5" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="fa9a-288a-378-a57d" primary="true" name="Vehicle" />
         <categoryLink targetId="6c52-7965-8831-a46f" id="4aa5-59b4-e7e2-7ce3" primary="false" name="Land Raider Crusader" />
@@ -21437,7 +21437,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="91af-8f68-c5f7-22e5" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Land Raider Redeemer" hidden="false" id="d361-a36e-1448-264d">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="250" />
@@ -21491,7 +21491,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="3656-2ef9-4bcd-5ba2" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="4ae2-5679-9518-caba" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="78f3-fa2e-82b3-6461" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="d056-6e5b-8d56-63d5" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="d9ba-49a-522e-22b6" targetId="b68a-5ded-65ac-98c">
           <modifiers>
@@ -21668,7 +21668,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="d056-6e5b-8d56-63d5" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin assault cannon" hidden="false" id="4641-242b-9584-c54a">
       <profiles>
         <profile name="Twin assault cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e305-23e6-6fd3-ac5f">
@@ -21741,7 +21741,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="d49f-59b3-c539-d7ca" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="b691-ce30-52c9-50bf" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="f200-8f09-da98-6037" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="916d-7626-f3a7-bf2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="6bde-c589-104e-1461" hidden="false" sortIndex="2">
           <entryLinks>
@@ -21910,7 +21910,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="916d-7626-f3a7-bf2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Las-talon" hidden="false" id="126b-4441-71f8-7d5c">
       <profiles>
         <profile name="Las-talon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="6db-ca18-36bb-d8d8">
@@ -21947,7 +21947,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="802e-4dfc-ac29-5eaf" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="68b0-5b90-7be7-6ebb" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="dd98-01a7-b1bf-4a38" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="060f-94c0-0ad6-7862" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-5 Wounds Remaining" hidden="false" type="profile" id="cf74-f3ce-e18c-b83d" targetId="1aac-b083-4318-f750" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="4a9a-ea03-ac11-58a7" targetId="b68a-5ded-65ac-98c">
@@ -22204,7 +22204,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="060f-94c0-0ad6-7862" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Rhino" hidden="false" id="a14e-75ca-ef91-397f">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -22255,7 +22255,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="29e4-1f83-97fc-2fb1" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="beac-050b-ccfb-b186" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="0bea-de66-033b-7c26" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="ebbd-d7dd-d48a-fdb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <categoryLinks>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="e550-944-8fcc-2f61" primary="false" name="Imperium" />
         <categoryLink targetId="6df-937-16bc-8c1a" id="4dd1-5b77-e3e0-21fa" primary="false" name="Smoke" />
@@ -22376,7 +22376,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="ebbd-d7dd-d48a-fdb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Razorback" hidden="false" id="ed11-25b9-a0eb-89f4">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -22416,7 +22416,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="9eca-19fd-be53-4118" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="6710-9666-606b-fcfb" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="a1a5-81d6-cdbc-13c9" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="3002-4921-2a7c-65fd" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="6e45-6bdb-999d-cdd" targetId="b68a-5ded-65ac-98c">
           <modifiers>
@@ -22562,7 +22562,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="3002-4921-2a7c-65fd" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Impulsor" hidden="false" id="bfb1-7512-e1a3-9fa2">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -22614,7 +22614,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <entryLink import="true" name="Crusade" hidden="false" id="3d14-5c19-6397-8901" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="3237-d7a4-07fb-6ed4" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="e85f-d7a6-2347-c6b3" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="bdcf-5351-29f7-65ff" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="cbe2-7302-9573-7f47" hidden="false" sortIndex="2">
           <entryLinks>
@@ -22821,7 +22821,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="bdcf-5351-29f7-65ff" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Armoured Tracks" hidden="false" id="eaa5-a41b-9e59-a5f3">
       <profiles>
         <profile name="Armoured Tracks" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="5346-57b-924-13b4">
@@ -22899,7 +22899,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5989-3de8-436a-e3fa" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f819-25b0-1dbd-25e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -22967,7 +22967,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f819-25b0-1dbd-25e2" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Land Speeder Storm [Legends]" hidden="false" id="fce3-2e6f-cede-69cc">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="roster" shared="true" id="029b-64b8-cac8-0102" />
@@ -23196,7 +23196,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5c90-5d65-9945-812c" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="7cf1-3fdd-fcf7-19e0" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="9360-3333-511f-6423" hidden="false" sortIndex="2">
           <entryLinks>
@@ -23359,7 +23359,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="7cf1-3fdd-fcf7-19e0" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Skyhammer Missile Launcher" hidden="false" id="beea-63c9-1c06-76f9">
       <profiles>
         <profile name="Skyhammer Missile Launcher" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e95d-5335-b730-da78">
@@ -23411,7 +23411,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8ae1-0002-fe48-6f7a" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c1a3-2a70-0675-d7b0" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Stormtalon Gunship" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="60d6-d072-4a97-5de">
           <characteristics>
@@ -23579,7 +23579,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c1a3-2a70-0675-d7b0" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Stormraven Gunship" hidden="false" id="469b-3370-30f3-473a">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="280" />
@@ -23595,7 +23595,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e008-1512-df44-795c" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4c72-7cd7-83e7-7566" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="af5a-48d7-800f-bd4d" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="32fb-10f8-20d5-247e" includeChildSelections="false" />
@@ -23854,7 +23854,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4c72-7cd7-83e7-7566" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hammerfall Bunker" hidden="false" id="5882-9143-e7c5-ac11">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="175" />
@@ -23996,7 +23996,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="0cc3-7246-4b60-3c27" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="0cc3-7246-4b60-3c27" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="model" import="true" name="Captain on Bike [Legends]" id="faf9-bf62-8eb5-a3cb" hidden="false">
       <categoryLinks>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="9b00-f1a0-c0e8-f618" primary="true" name="Character" />
@@ -29463,7 +29463,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         <entryLink import="true" name="Crusade" hidden="false" id="97ae-f8af-89ea-395d" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
         <entryLink import="true" name="Headhunter Task Force Enhancements" hidden="false" id="8312-f6c3-cf2e-a273" type="selectionEntryGroup" targetId="f545-8ae0-b440-8407" />
         <entryLink import="true" name="Tank Ace Character" hidden="false" id="2f67-ece7-a06e-1ace" type="selectionEntry" targetId="8810-ebe3-94f2-8eab" />
-      </entryLinks>
+      <entryLink id="4ad9-91c3-1afa-dc97" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="ee7e-ec7f-e1bc-53b3" targetId="b68a-5ded-65ac-98c">
           <modifiers>
@@ -29729,7 +29729,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="4ad9-91c3-1afa-dc97" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Thunderhawk Gunship" hidden="false" id="3416-dfee-84ee-e21d">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="840" />
@@ -29783,7 +29783,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="bd6b-fb27-dfb4-5737" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="07f8-af7a-8ffd-69c4" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="7442-0121-ac6c-6c78" hidden="false" sortIndex="2">
           <entryLinks>
@@ -29983,7 +29983,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="07f8-af7a-8ffd-69c4" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Bolt Pistol" hidden="false" id="3b8f-1cb7-3c6e-4455" collective="false">
       <profiles>
         <profile name="Heavy Bolt Pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a91e-df17-b8f6-bf88">
@@ -35449,7 +35449,7 @@ per turn.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8e05-dc65-0a0f-5724" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6140-e1d7-7ece-76b8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -35517,7 +35517,7 @@ per turn.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6140-e1d7-7ece-76b8" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Company Heroes" hidden="false" id="2f2e-d99b-b235-163a">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="105" />
@@ -35610,7 +35610,7 @@ per turn.</characteristic>
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6272-69ae-04e6-aec1" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1260-7f3d-0b44-dc6d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -35941,7 +35941,7 @@ per turn.</characteristic>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="1260-7f3d-0b44-dc6d" name="Upgrades" hidden="false" collective="false" import="true" targetId="2258-3aef-fc37-c512" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Astartes grenade launcher" hidden="false" id="ca2b-3d9a-e739-cb21">
       <profiles>
         <profile name="➤ Astartes grenade launcher - krak" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="e307-f8d3-d06c-9dd9">

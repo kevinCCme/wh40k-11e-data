@@ -1131,7 +1131,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="54ac-7f31-c098-42d5" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8546-20e2-fd11-f3cf" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1199,7 +1199,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="8546-20e2-fd11-f3cf" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="0369-3c56-a9d1-307d" name="Rampart crest" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6ff2-95cb-4971-9430" type="max" />
@@ -3084,7 +3084,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
               <costs>
                 <cost name="pts" typeId="51b2-306e-1021-d207" value="130" />
               </costs>
-            <entryLink id="9f2c-d66f-8d67-90a9" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+            <entryLinks><entryLink id="9f2c-d66f-8d67-90a9" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks></selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
@@ -3097,7 +3097,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="157b-604f-3cc1-7820" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3ddc-3857-784f-7ef7" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3165,7 +3165,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3ddc-3857-784f-7ef7" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="415a-e6f6-d17f-d700" name="Cthonian Beserks" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="200">
@@ -3539,7 +3539,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6f5e-220e-bb91-aabc" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1344-b2f5-8aad-37a5" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3607,7 +3607,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1344-b2f5-8aad-37a5" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="9086-5272-398b-bbce" name="Hernkyn Pioneers" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="160">
@@ -3989,7 +3989,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f5ef-068e-d659-19bc" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ef7e-e496-1339-7dc9" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4057,7 +4057,7 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ef7e-e496-1339-7dc9" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="4a84-915b-cfe5-a091" name="Bolt revolver" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="229d-ae61-24f2-ae25" type="min" />
@@ -4344,7 +4344,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="394b-7a16-64fe-1f27" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5bbf-382d-71f3-8fe3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4412,7 +4412,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5bbf-382d-71f3-8fe3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="ea1b-99f6-c398-06b1" name="Brôkhyr Thunderkyn" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="160">
@@ -4640,7 +4640,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
           </costs>
-        <entryLink id="6eac-8692-249c-a31a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="6eac-8692-249c-a31a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -4651,7 +4651,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5c35-f4ed-1379-61dc" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="60cb-e0ac-db47-3bc1" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4719,7 +4719,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="60cb-e0ac-db47-3bc1" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="a110-e538-4e85-159b" name="Hekaton Land Fortress" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="3d20-658f-d5de-a094" name="Hekaton Land Fortress" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -4985,7 +4985,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8ac9-cc1d-8aec-6390" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="26a9-f155-a0fe-ec30" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="1f5d-cdd3-b35e-edef" percentValue="false" includeChildSelections="true" includeChildForces="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="f047-c99f-a924-81a4" includeChildSelections="false" />
@@ -5059,7 +5059,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="26a9-f155-a0fe-ec30" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="43cd-5e9f-e550-83e0" name="Twin bolt cannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="a63c-aa6e-395c-714d" name="Twin bolt cannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -5148,7 +5148,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0c8a-47e7-7c63-0775" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a89d-1630-692e-833c" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5525,7 +5525,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="a89d-1630-692e-833c" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Buri Aegnirssen" hidden="false" id="b7e1-55fd-9aae-b690">
       <categoryLinks>
         <categoryLink name="Epic Hero" hidden="false" id="dfd4-6487-d581-1742" targetId="4f3a-f0f7-6647-348d" primary="true" />
@@ -6199,7 +6199,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="256c-9135-bd11-3840" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0d86-ea6a-b77d-eef4" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="975f-6b7a-f23c-fbaa" percentValue="false" includeChildSelections="true" includeChildForces="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="4ec1-83b3-2147-3618" includeChildSelections="false" />
@@ -6287,7 +6287,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Heart
         </infoLink>
         <infoLink name="Guerrilla Adepts" id="e4bd-3851-f0fb-6f76" hidden="false" type="profile" targetId="3ec4-7c77-e372-884e" />
       </infoLinks>
-    <entryLink id="0d86-ea6a-b77d-eef4" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Twin magna-coil autocannon" hidden="false" id="9767-47cb-3455-140e">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3d27-16f3-5e53-237d-min" includeChildSelections="false" />
@@ -6346,7 +6346,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f91b-2a0e-3456-4c34" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="fecb-61f9-aa37-335d" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="9b93-ce5b-7c14-33b8" hidden="false" sortIndex="2">
           <entryLinks>
@@ -6519,7 +6519,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="fecb-61f9-aa37-335d" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Ironkin Steeljacks with Heavy Volkanite Disintegrators" hidden="false" id="1e3f-209d-798f-3a42">
       <categoryLinks>
         <categoryLink name="Faction: Leagues of Votann" hidden="false" id="0f71-01de-1ab3-694c" targetId="8474-765-16a9-f00d" primary="false" />
@@ -6586,7 +6586,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4e35-0d9c-23f9-43b1" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2517-56f5-21fa-dac0" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="2-5 Ironkin Steeljacks" id="303c-055c-2134-f6f0" hidden="false" sortIndex="3">
           <selectionEntries>
@@ -6712,7 +6712,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="2517-56f5-21fa-dac0" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy volkanite disintegrator" hidden="false" id="3909-7f26-8361-4746" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8864-77e0-f148-f060-min" includeChildSelections="false" />
@@ -6804,7 +6804,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4369-3c14-4bc6-4391" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="41a2-bd98-ecd8-c94a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="2-5 Ironkin Steeljacks" id="1e4a-c7b6-74c1-9afd" hidden="false" sortIndex="3" defaultSelectionEntryId="79d8-6081-2fae-ff86">
           <selectionEntries>
@@ -6962,7 +6962,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
         <cost name="Blackstone Fragments" typeId="ac6b-ced3-9b5e-9a6e" value="0" />
       </costs>
-    <entryLink id="41a2-bd98-ecd8-c94a" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Preymark crest" hidden="false" id="2ced-2cf6-7ef8-5430">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6013-eb54-cb05-05da-min" includeChildSelections="false" />
@@ -7150,7 +7150,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
       </selectionEntries>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6d13-a552-f313-295d" type="selectionEntryGroup" targetId="a7b4-50c2-e2e3-6bfa" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="dd22-56aa-2d68-bcc3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="ed34-12a6-df8a-1759" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="af0c-02b5-c508-58ef" includeChildSelections="true" />
@@ -7242,7 +7242,7 @@ At the start of the Declare Battle Formations step, you can select one ^^**Hernk
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="dd22-56aa-2d68-bcc3" name="Upgrades" hidden="false" collective="false" import="true" targetId="f38d-d3bc-eb1b-302d" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Close combat weapon" hidden="false" id="ad15-fc45-03eb-59ac" collective="true">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4089-76ae-1216-dc45" percentValue="false" includeChildSelections="false" includeChildForces="false" />

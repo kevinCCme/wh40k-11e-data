@@ -446,7 +446,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f3a3-6266-f3fd-72ab" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3628-1147-6c17-f2c7" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -514,7 +514,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3628-1147-6c17-f2c7" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="d7cb-7d30-715b-50d2" name="Anathema Psykana Rhino" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="ff64-897e-0812-ab0f" name="Anathema Psykana Rhino" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -636,7 +636,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8a4c-1343-541e-8fa5" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b2aa-de82-d207-e20b" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -704,7 +704,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b2aa-de82-d207-e20b" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="48b7-e713-d5b1-f11c" name="Blade Champion" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="1a70-8702-4179-b711" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -1151,7 +1151,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5658-c9ef-32e0-84f3" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="15e3-0d98-8dcb-d896" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1219,7 +1219,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="15e3-0d98-8dcb-d896" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="9610-b148-8433-93b8" name="Custodian Wardens" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="260">
@@ -1484,7 +1484,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8069-a83e-b4ec-d339" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="82b0-2580-a350-de7e" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1552,7 +1552,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="82b0-2580-a350-de7e" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="7099-71b-56e8-7191" name="Knight-Centura" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="77f4-76e5-b2df-6483" name="Knight-Centura" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -2122,8 +2122,8 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e257-c9f2-7545-4f4f" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="4eb3-34fa-d7f1-1588" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="4eb3-34fa-d7f1-1588" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry id="b61c-b815-65c0-b1cc" name="Shield-Captain" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="f8f3-0f06-13d0-6eaa" name="Shield-Captain" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -3354,7 +3354,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f3f5-5129-a086-a18d" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
         <entryLink import="true" name="Character Upgrade" hidden="false" id="b4d6-ec5c-84fc-f4e4" type="selectionEntryGroup" targetId="e744-e7ad-f9d4-217f" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="16d3-7447-e1a6-9d1f" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="e76f-3e80-2755-ea68" percentValue="false" includeChildSelections="true" includeChildForces="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="95df-9e84-7fe3-087d" includeChildSelections="false" />
@@ -3433,7 +3433,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="16d3-7447-e1a6-9d1f" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="76be-3bcb-cf4-bcbd" name="Venerable Land Raider" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="23e5-3935-505a-34b2" name="Venerable Land Raider" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -3608,7 +3608,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="93a6-964b-18bd-5413" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4eb8-aae4-e1bb-6d89" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3676,7 +3676,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4eb8-aae4-e1bb-6d89" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="918b-c9ed-7af7-74df" name="Vertus Praetors" hidden="false" collective="false" import="true" type="unit">
       <modifierGroups>
         <modifierGroup>
@@ -3934,8 +3934,8 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ce3a-8174-b065-21e5" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="a241-6fe3-77ee-55a2" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="a241-6fe3-77ee-55a2" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry id="dd2d-568a-9c56-1b6e" name="Vigilators" hidden="false" collective="false" import="true" type="unit">
       <modifierGroups>
         <modifierGroup>
@@ -4158,8 +4158,8 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d94e-0b19-7b8d-aab9" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="3d75-0a2c-13d4-b874" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="3d75-0a2c-13d4-b874" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry id="503b-f7be-eeeb-9e31" name="Witchseekers" hidden="false" collective="false" import="true" type="unit">
       <modifierGroups>
         <modifierGroup>
@@ -4395,8 +4395,8 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="abea-a8b9-b379-66e9" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="6560-343f-cc67-7634" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="6560-343f-cc67-7634" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry id="af0f-5212-907e-7125" name="Custodian Guard with Adrasite and Pyrithite spears" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="9ab1-2eb7-a100-ab90" name="Stand Vigil" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -4557,7 +4557,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="55a1-5f3d-4c5f-1280" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4010-4e25-154a-be99" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4625,7 +4625,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4010-4e25-154a-be99" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="6f9f-e6aa-ba13-aab1" name="Sagittarum Custodians" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="85d7-f209-acae-3353" name="Disintegration Beams" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -4734,7 +4734,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="94d8-2519-0901-affe" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2488-9748-9582-c3b2" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4802,7 +4802,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2488-9748-9582-c3b2" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="03bc-0141-b967-40e0" name="Aquilon Custodians" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="390">
@@ -4969,7 +4969,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="926a-a5cb-d0f5-fcc5" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="fb3c-0050-e498-9807" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5037,7 +5037,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="fb3c-0050-e498-9807" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="00ab-41c4-cf52-4ad2" name="Agamatus Custodians" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="450">
@@ -5269,7 +5269,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="974e-bb12-6b5d-6024" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="908b-bfe3-2e54-0126" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5337,7 +5337,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="908b-bfe3-2e54-0126" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="201e-e502-a8d1-3974" name="Venatari Custodians" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="330">
@@ -5518,7 +5518,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d209-839c-31f4-5125" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="7e6c-2675-d433-5d63" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5586,7 +5586,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="7e6c-2675-d433-5d63" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="4988-d93e-5034-2b3c" name="Contemptor-Galatus Dreadnought" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="12f1-b6ca-867b-5c7c" name="Contemptor-Galatus Dreadnought" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5633,7 +5633,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="441c-2042-ef40-7833" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
         <entryLink import="true" name="Character Upgrade" hidden="false" id="2ba9-e5db-fd8e-5976" type="selectionEntryGroup" targetId="e744-e7ad-f9d4-217f" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="53e6-9892-ef5f-bc26" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="8976-4e10-8d46-41f4" percentValue="false" includeChildSelections="true" includeChildForces="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="78c4-fc45-dd4c-a796" includeChildSelections="false" />
@@ -5763,7 +5763,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="53e6-9892-ef5f-bc26" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="db3b-02cd-87a2-3b52" name="Contemptor-Achillus Dreadnought" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="1e1f-9a94-957f-9165" name="Contemptor-Achillus Dreadnought" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5947,7 +5947,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4337-8ad9-a201-c86d" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
         <entryLink import="true" name="Character Upgrade" hidden="false" id="00a4-5380-bd27-30a0" type="selectionEntryGroup" targetId="e744-e7ad-f9d4-217f" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="fdb1-aeca-e296-374a" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="8a80-fceb-63a1-8b89" percentValue="false" includeChildSelections="true" includeChildForces="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="e68c-8025-99c3-92f0" includeChildSelections="false" />
@@ -6026,7 +6026,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="fdb1-aeca-e296-374a" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="06df-2fb2-8dfa-2fce" name="Pallas Grav-attack" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="102e-5ed1-6d31-0d93" name="Palas Grav-attack" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6126,7 +6126,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="73f5-cc05-2269-6103" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f03b-a041-1642-913f" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6194,7 +6194,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f03b-a041-1642-913f" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="3ee2-62a9-af84-1a90" name="Caladius Grav-tank" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="f676-72df-2ed7-8834" name="Caladius Grav-tank" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6358,7 +6358,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3fae-20e5-81f8-1b63" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="397b-3d2e-7e63-f8da" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6426,7 +6426,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="397b-3d2e-7e63-f8da" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e7d8-1c73-7d03-8b62" name="Telemon Heavy Dreadnought" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="013b-ab38-f992-ff77" name="Telemon Heavy Dreadnought" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6673,7 +6673,7 @@
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="186d-f3d9-d364-5b9c" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
         <entryLink import="true" name="Character Upgrade" hidden="false" id="c6d9-5a22-e6b6-2030" type="selectionEntryGroup" targetId="e744-e7ad-f9d4-217f" sortIndex="2" />
-      </entryLinks>
+      <entryLink id="1321-939d-71cd-ada6" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="f73b-80b7-dd19-d7c3" percentValue="false" includeChildSelections="true" includeChildForces="false" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="e962-f04b-2813-8245" includeChildSelections="false" />
@@ -6752,7 +6752,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1321-939d-71cd-ada6" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="f35e-ef9c-9ef4-77e1" name="Coronus Grav-carrier" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="588c-2aa2-db7f-17be" name="Coronus Grav-carrier" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6889,7 +6889,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e820-3732-c8e4-fba3" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d8b0-336e-8120-3a0d" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6957,7 +6957,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d8b0-336e-8120-3a0d" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="9c1a-7efd-ed36-440e" name="Orion Assault Dropship" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="c753-bc07-06bb-6254" name="Orion Assault Dropship" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -7117,7 +7117,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ff2b-f8af-c778-ed2e" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f6e9-ac62-dc1e-848b" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7185,7 +7185,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f6e9-ac62-dc1e-848b" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="9335-74d9-ad68-3ff7" name="Ares Gunship" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="e3eb-3331-b91f-eeb5" name="Ares Gunship" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -7311,7 +7311,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2b7e-f284-9e6d-2d04" type="selectionEntryGroup" targetId="dffe-91f2-f156-0566" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e15e-044f-1173-825e" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7379,7 +7379,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e15e-044f-1173-825e" name="Upgrades" hidden="false" collective="false" import="true" targetId="1d17-8fb0-b44c-9c51" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="0574-f558-2957-584f" name="Warlord" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3625-fc31-9e05-c2d8" type="max" />

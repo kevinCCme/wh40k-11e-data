@@ -6419,7 +6419,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2d4e-ac6b-9a39-f610" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3f73-6ab3-7bd6-9d91" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="96c4-7654-cae4-e009" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="833c-7142-c1b9-69b7" includeChildSelections="true" />
@@ -6492,7 +6492,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3f73-6ab3-7bd6-9d91" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Close combat weapon" hidden="false" id="69d2-ffd6-3daf-b437" collective="true">
       <comment>Warriors</comment>
       <profiles>
@@ -6665,7 +6665,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6928-044d-7ea5-fcf4" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1dda-54d3-a165-3ded" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="529e-6d7e-9781-cd20" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="982a-a1a6-1075-16cc" includeChildSelections="true" />
@@ -6738,7 +6738,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1dda-54d3-a165-3ded" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Canoptek Reanimator" hidden="false" id="7c45-2aab-7526-febe">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="70" />
@@ -6828,7 +6828,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="920e-0cbf-ab58-fecb" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5294-86d8-a9ba-181d" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="af8e-185d-3895-76eb" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="1e26-69ce-5e52-cd34" includeChildSelections="true" />
@@ -6901,7 +6901,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5294-86d8-a9ba-181d" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hexmark Destroyer" hidden="false" id="d504-e79e-f4d9-90aa">
       <categoryLinks>
         <categoryLink targetId="ee0-cf31-4fb5-6b26" id="f345-3cfb-49ea-1103" primary="false" name="Faction: Necrons" />
@@ -7219,7 +7219,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
                   </selectionEntries>
                 </selectionEntryGroup>
               </selectionEntryGroups>
-            <entryLink id="7624-1f5c-605a-50d4" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+            <entryLinks><entryLink id="7624-1f5c-605a-50d4" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks></selectionEntry>
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
@@ -7242,7 +7242,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3ffa-75e8-90b7-9bf8" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="db45-d6ef-0b67-bae4" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="32b0-8b5e-fbf5-692a" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="bc2e-449b-932c-0bba" includeChildSelections="true" />
@@ -7315,7 +7315,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="db45-d6ef-0b67-bae4" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Deathmarks" hidden="false" id="b7d7-14c9-63c1-ded5">
       <infoLinks>
         <infoLink name="Detachment Rules" hidden="false" type="infoGroup" id="712a-15eb-31f5-57a3" targetId="4ee-d749-4ddc-323d" />
@@ -7422,7 +7422,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="50d3-fb4f-303d-30d0" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3bd4-c02c-e39f-5e4f" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="af09-b25d-9902-2797" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="edac-443d-f090-b626" includeChildSelections="true" />
@@ -7495,7 +7495,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3bd4-c02c-e39f-5e4f" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Flayed Ones" hidden="false" id="c219-a708-f5b0-f0e7">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="55" />
@@ -7580,7 +7580,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="948c-a4a8-09a9-4cbf" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0090-49ef-253b-cee3" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="c1b6-d236-782f-a305" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="ab38-74e6-279e-4bb1" includeChildSelections="true" />
@@ -7653,7 +7653,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0090-49ef-253b-cee3" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Cryptothralls" hidden="false" id="ef7a-c413-c779-2d18">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="60" />
@@ -7750,7 +7750,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0467-c31d-fd86-7a90" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c067-c553-2c2f-e250" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="0763-1699-dee3-a272" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="d579-ef31-4abe-7d25" includeChildSelections="true" />
@@ -7823,7 +7823,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c067-c553-2c2f-e250" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Skorpekh Destroyers" hidden="false" id="66e-26f2-7c38-e4d8">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="85" />
@@ -7922,7 +7922,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5335-e716-6606-e461" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b5a1-9e12-b9a2-dbd4" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="ff3c-8170-8044-c570" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="918d-d8e9-a32b-2f0b" includeChildSelections="true" />
@@ -8004,7 +8004,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b5a1-9e12-b9a2-dbd4" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Triarch Stalker" hidden="false" id="14fa-6813-e51b-7942">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="110" />
@@ -8186,7 +8186,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="bdb2-7c2e-84b7-e23d" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="aae3-5e64-992a-6c6a" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="5b52-79ca-2f5e-95c3" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="9652-fbd4-ab39-a784" includeChildSelections="true" />
@@ -8259,7 +8259,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="aae3-5e64-992a-6c6a" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="C'tan Shard of the Deceiver" hidden="false" id="e09-d7d6-e4e3-42c1">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="330" />
@@ -9095,7 +9095,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="84a0-fdf6-bc4c-b9e3" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a30c-89d5-a27d-c7b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="df96-40b2-9f2c-fc28" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="920c-d6bb-beb2-ff5d" includeChildSelections="true" />
@@ -9168,7 +9168,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a30c-89d5-a27d-c7b3" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Canoptek Scarab Swarms" hidden="false" id="259b-a8e3-928f-1d0c">
       <categoryLinks>
         <categoryLink targetId="b00b-5bae-444f-964e" id="e5cf-6749-b249-8ba5" primary="true" name="Swarm" />
@@ -9254,7 +9254,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="31ff-82b9-f1e6-3b37" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9272-810e-ab1b-240b" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="c7b5-66ba-c411-8df2" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="b5e2-d9b3-94a6-5335" includeChildSelections="true" />
@@ -9327,7 +9327,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9272-810e-ab1b-240b" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Ophydian Destroyers" hidden="false" id="c6db-9736-4d53-3ef6">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -9427,7 +9427,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7ec3-a636-d669-971a" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2be5-07ee-6fb5-5a46" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="42a8-95f2-47ce-da18" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="edbd-6bbf-f483-aa69" includeChildSelections="true" />
@@ -9509,7 +9509,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2be5-07ee-6fb5-5a46" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Plasmacyte" hidden="false" id="dbff-daf7-edb0-1524">
       <profiles>
         <profile name="Plasmacyte" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="890e-3ea5-7d83-e665">
@@ -9733,7 +9733,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="61c9-da73-5ad3-98c3" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3fcd-caf9-63b9-cfcb" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="6ea0-541b-0651-4710" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="6153-14ee-9cb4-aeb3" includeChildSelections="true" />
@@ -9806,7 +9806,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3fcd-caf9-63b9-cfcb" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Triarch Praetorians" hidden="false" id="6829-6dcb-b342-afe4">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -9943,7 +9943,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6860-6ff9-019e-5985" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a727-4e8e-bb72-71f1" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="1f44-a965-d9f9-6917" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="018a-c738-0166-d623" includeChildSelections="true" />
@@ -10016,7 +10016,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a727-4e8e-bb72-71f1" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Canoptek Wraiths" hidden="false" id="a022-9bf6-f08b-c416">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -10129,7 +10129,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="118d-c23c-35e5-0c34" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="fb68-7eb5-6762-5c02" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="5e2f-e021-1d4b-2bee" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="9656-d316-55cf-b783" includeChildSelections="true" />
@@ -10202,7 +10202,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="fb68-7eb5-6762-5c02" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Vicious claws" hidden="false" id="f702-9067-d0c3-4240" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6264-9879-1b08-ef27" />
@@ -10433,7 +10433,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="545e-5e1c-c810-c6ad" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a8dd-6d06-4072-e7fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="13fc-f6de-1f39-5291" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="5c8c-9b06-54b6-4a09" includeChildSelections="true" />
@@ -10506,7 +10506,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a8dd-6d06-4072-e7fb" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Doomsday Ark" hidden="false" id="e046-8220-d8a2-1d19">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="200" />
@@ -10559,7 +10559,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d775-b02c-e19f-ad00" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d8c3-21a6-3371-297c" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="ebdd-e4b1-1d7e-94c3" hidden="false" sortIndex="2">
           <entryLinks>
@@ -10697,7 +10697,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d8c3-21a6-3371-297c" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Armoured bulk" hidden="false" id="927a-5f3d-6d88-260">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2b6f-703f-1782-a9bc" />
@@ -10833,7 +10833,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e7bb-279a-3607-247e" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d2d1-9dd8-245a-1f37" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="f776-5d27-d469-4816" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="a43c-b774-aa4c-fcc4" includeChildSelections="true" />
@@ -10915,7 +10915,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d2d1-9dd8-245a-1f37" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Lokhust Heavy Destroyers" hidden="false" id="d9ea-2965-24-d3a3">
       <infoLinks>
         <infoLink name="Detachment Rules" hidden="false" type="infoGroup" id="b419-c3fe-7745-9b15" targetId="4ee-d749-4ddc-323d" />
@@ -11052,7 +11052,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="01b0-f049-b9b7-b56f" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="118b-a96b-5572-68a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="5e00-1f4e-a920-7bf0" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="d377-abe6-0da4-893a" includeChildSelections="true" />
@@ -11134,7 +11134,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="118b-a96b-5572-68a1" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Canoptek Doomstalker" hidden="false" id="ff8f-2e43-8af1-3470">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
@@ -11269,7 +11269,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="95f2-3fc0-3998-cc2c" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="01a7-6a7d-34a5-dce8" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="5429-c098-c825-ec80" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="ad2f-235a-ea5f-1a18" includeChildSelections="true" />
@@ -11342,11 +11342,11 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="01a7-6a7d-34a5-dce8" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Ghost Ark" hidden="false" id="9928-da6-4e86-ec9f">
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c90f-a7b4-20e9-92b3" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c180-ef71-6dcd-2811" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Detachment Rules" hidden="false" type="infoGroup" id="73f0-8bc-8c55-a7c8" targetId="4ee-d749-4ddc-323d" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="76a6-db0b-20bc-7325" targetId="b68a-5ded-65ac-98c">
@@ -11509,7 +11509,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c180-ef71-6dcd-2811" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Night Scythe" hidden="false" id="2a86-2d6-6446-7f1">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="125" />
@@ -11566,7 +11566,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5bdf-af96-19e9-8656" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0f72-59d7-f2d9-fb5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="d86a-8e69-db29-28ff" hidden="false" sortIndex="2">
           <entryLinks>
@@ -11678,7 +11678,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0f72-59d7-f2d9-fb5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Doom Scythe" hidden="false" id="52fb-edb1-c747-415a">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="200" />
@@ -11725,7 +11725,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7b6d-a4f8-b657-39c8" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3d9f-d540-36e9-279b" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="1a5a-ab18-9944-8b8d" hidden="false" sortIndex="2">
           <entryLinks>
@@ -11862,7 +11862,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3d9f-d540-36e9-279b" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Obelisk" hidden="false" id="256d-92cd-5d14-bbab">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="280" />
@@ -11967,7 +11967,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="436a-0b70-4eb6-b5c1" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="671d-3862-03e6-824c" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="4c0b-35c0-5e76-4840" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="bccc-34b6-7bb0-e4b4" includeChildSelections="true" />
@@ -12040,7 +12040,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="671d-3862-03e6-824c" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Tesseract Vault" hidden="false" id="5451-67b5-a66c-71d2">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="445" />
@@ -12198,7 +12198,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="19e1-9273-cf79-92c5" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a1b4-6668-53e7-5214" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="592a-4e3a-faaf-658d" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="26cb-2617-24cb-1d0f" includeChildSelections="true" />
@@ -12271,7 +12271,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a1b4-6668-53e7-5214" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Monolith" hidden="false" id="db10-2662-da6a-516e">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="420" />
@@ -12448,7 +12448,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="12fc-8c5a-4e88-97d9" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="648d-5113-cfc2-7ec8" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="d538-de78-d201-ac30" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="5b80-f19a-30d6-957a" includeChildSelections="true" />
@@ -12521,7 +12521,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="648d-5113-cfc2-7ec8" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="The Silent King" hidden="false" id="7422-7fbf-8694-364c">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="400" />
@@ -12826,7 +12826,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           </costs>
         </selectionEntry>
       </selectionEntries>
-    <entryLink id="3b79-bea4-3859-ea9a" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="3b79-bea4-3859-ea9a" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="model" import="true" name="Canoptek Tomb Stalker [Legends]" hidden="false" id="f868-afbc-9f6b-e4e9">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="130" />
@@ -13855,7 +13855,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ceed-1589-6a9a-9508" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="04ce-6aeb-9c18-a8fe" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="ec30-472c-eee8-b22f" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="818a-922e-5ec5-ea39" includeChildSelections="true" />
@@ -13933,7 +13933,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <description>Each time this model makes a Normal, Advance or Fall Back move, it can move over models (excluding ^^**Titanic**^^ models) and terrain features that are 4" or less in height as if they were not there.</description>
         </rule>
       </rules>
-    <entryLink id="04ce-6aeb-9c18-a8fe" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Gauss Pylon [Legends]" hidden="false" id="b6b0-9a60-d2e4-7ef0">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="210" />
@@ -14792,7 +14792,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5264-4091-c8f2-0ecd" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b5f3-e144-e365-11a0" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="d5dd-1540-19b1-72ac" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="0596-3104-16e3-a079" includeChildSelections="true" />
@@ -14866,7 +14866,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b5f3-e144-e365-11a0" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Claws" hidden="false" id="92a4-70a7-d394-2eac">
       <comment>Macrocytes</comment>
       <constraints>
@@ -14911,7 +14911,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="070d-f4dc-7b85-15ae" type="selectionEntryGroup" targetId="34da-c1ba-b0f2-1ba6" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2048-e3f1-a737-cd36" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="675d-6929-f5ea-acaf" includeChildSelections="false" />
         <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="3c2b-5354-51b0-7c6b" includeChildSelections="true" />
@@ -15150,7 +15150,7 @@ You can attach this model to one of the above units even if one ROYAL WARDEN or
           </characteristics>
         </profile>
       </profiles>
-    <entryLink id="2048-e3f1-a737-cd36" name="Upgrades" hidden="false" collective="false" import="true" targetId="32c9-3b13-f4e8-0b42" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Geomancer" hidden="false" id="92cc-9d54-5d0c-6663">
       <categoryLinks>
         <categoryLink name="Faction: Necrons" hidden="false" id="e670-9869-fffa-aeca" targetId="ee0-cf31-4fb5-6b26" primary="false" />

@@ -56,7 +56,7 @@
       <infoLinks>
         <infoLink name="Fortification" id="87ee-0074-f857-a555" hidden="false" type="profile" targetId="fa4e-5ac8-11a6-78d2" />
       </infoLinks>
-    <entryLink id="bab7-f54c-e649-aa91" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="bab7-f54c-e649-aa91" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="unit" import="true" name="Armoured Sentinels" hidden="false" id="7e34-20cf-1149-74a1">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="acd1-da30-2656-832a" includeChildSelections="true" includeChildForces="true" />
@@ -245,7 +245,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f313-88e8-6262-2f71" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e387-65f6-52df-100e" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -328,7 +328,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e387-65f6-52df-100e" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Attilan Rough Riders" hidden="false" id="2299-bed9-3e-2b60">
       <modifiers>
         <modifier type="set" value="120" field="51b2-306e-1021-d207">
@@ -553,7 +553,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="67bb-77b4-a647-0eb3" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3250-83d9-1b2d-e142" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -626,7 +626,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3250-83d9-1b2d-e142" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Baneblade" hidden="false" id="a6a1-1612-f982-31">
       <categoryLinks>
         <categoryLink targetId="b3af-24d9-8ca6-369" id="6092-3b23-1647-f399" primary="false" name="Baneblade" />
@@ -680,7 +680,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="7b78-06bf-cf57-62f8" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Baneblade" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="4aab-d6d4-c979-607b">
           <characteristics>
@@ -874,7 +874,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="7b78-06bf-cf57-62f8" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Banehammer" hidden="false" id="d10-48db-3241-ec72">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="420" />
@@ -964,7 +964,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="0cb5-0ab7-b701-5ea4" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1103,7 +1103,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="0cb5-0ab7-b701-5ea4" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Banesword" hidden="false" id="30f5-d90a-9811-d763">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="450" />
@@ -1174,7 +1174,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="0039-dbb3-a0da-ced9" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-8 Wounds Remaining" id="7e83-2c8-5cd0-da46" hidden="false" type="profile" targetId="e862-4703-fc73-5c46" />
         <infoLink name="Deadly Demise" id="fb3c-3210-e4f7-edd7" hidden="false" type="rule" targetId="b68a-5ded-65ac-98c">
@@ -1322,7 +1322,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="0039-dbb3-a0da-ced9" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Basilisk" hidden="false" id="bf53-4ab3-ff75-9aa0">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
@@ -1376,7 +1376,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="75b6-5706-4908-9fb0" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2302-cac3-39c0-b980" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1493,7 +1493,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="2302-cac3-39c0-b980" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Bullgryn Squad" hidden="false" id="37ad-63e5-1786-87cf">
       <categoryLinks>
         <categoryLink targetId="c34d-50b5-f24d-f2f7" id="352d-4637-65ad-5334" primary="false" name="Bullgryn Squad" />
@@ -1676,7 +1676,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="9da5-f71a-1689-0886" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1782,7 +1782,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9da5-f71a-1689-0886" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Cadian Castellan" hidden="false" id="2b49-4d03-aaf5-3532">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="55" />
@@ -2753,7 +2753,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="5e72-b611-36f0-1e2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2851,7 +2851,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5e72-b611-36f0-1e2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Catachan Jungle Fighters" hidden="false" id="fe5a-764e-37ed-7cef">
       <categoryLinks>
         <categoryLink targetId="8a6c-34aa-874b-8013" id="a8c4-b747-d3b2-8d55" primary="false" name="Catachan Jungle Fighters" />
@@ -3138,7 +3138,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="5d7a-9a8c-402b-0186" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3236,7 +3236,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5d7a-9a8c-402b-0186" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Chimera" hidden="false" id="cf23-58db-8ba4-9ec8">
       <categoryLinks>
         <categoryLink targetId="d7e7-3f3b-424c-3c1a" id="3f0e-a7b8-3a92-b9a3" primary="false" name="Chimera" />
@@ -3304,7 +3304,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b483-c7cb-30d4-67a6" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="94fd-0d20-d5b0-11a7" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="5863-198b-40ff-e264" hidden="false" sortIndex="2">
           <entryLinks>
@@ -3503,7 +3503,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="94fd-0d20-d5b0-11a7" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Commissar" hidden="false" id="a979-5b21-dc69-b949">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="30" />
@@ -4469,7 +4469,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="b685-f8f5-fb5c-abe5" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4567,7 +4567,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b685-f8f5-fb5c-abe5" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Deathstrike" hidden="false" id="e19f-b9b8-75d5-8520">
       <categoryLinks>
         <categoryLink targetId="d5e8-ea4c-c791-778f" id="194f-b13e-a031-7db1" primary="false" name="Deathstrike" />
@@ -4625,7 +4625,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="6786-8baf-49b4-19cc" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="34a8-94c4-4073-37cc" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4750,7 +4750,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="34a8-94c4-4073-37cc" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Doomhammer" hidden="false" id="8342-57dd-69d3-e698">
       <categoryLinks>
         <categoryLink targetId="188-9a59-b172-7488" id="bace-4aca-f8a4-4a49" primary="false" name="Doomhammer" />
@@ -4818,7 +4818,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="fa21-be6d-0f39-5f1d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Doomhammer" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="418a-4643-6411-ca45">
           <characteristics>
@@ -4983,7 +4983,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="fa21-be6d-0f39-5f1d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Field Ordnance Battery" hidden="false" id="64a9-4cb2-400e-efd1">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -5240,7 +5240,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8687-fc87-9be8-37cf" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8356-72f7-0de6-4eb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5313,7 +5313,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="8356-72f7-0de6-4eb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Gaunt’s Ghosts" hidden="false" id="653d-80-d715-7d55">
       <categoryLinks>
         <categoryLink targetId="61e6-b057-7e6-f3b8" id="7d3d-144a-8e2d-baed" primary="false" name="Gaunt’s Ghosts" />
@@ -6002,7 +6002,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="84b6-41b6-de44-467f" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="96b4-b433-8987-cd78" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6085,7 +6085,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="96b4-b433-8987-cd78" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hellhammer" hidden="false" id="8277-6399-5d74-760d">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="420" />
@@ -6139,7 +6139,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="f19f-0ac3-87ca-84f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Hellhammer" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9907-8b8a-4aff-2779">
           <characteristics>
@@ -6334,7 +6334,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="f19f-0ac3-87ca-84f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hellhound" hidden="false" id="c28b-c3af-38b2-8865">
       <categoryLinks>
         <categoryLink targetId="52e0-8dae-84d2-2bb3" id="7794-a6-7138-4cf8" primary="false" name="Hellhound" />
@@ -6520,7 +6520,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="300d-2bac-c460-6308" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="614e-3f13-877c-0012" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6603,7 +6603,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="614e-3f13-877c-0012" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hydra" hidden="false" id="4967-19b6-1e2a-a300">
       <categoryLinks>
         <categoryLink targetId="3f73-3fcb-1fbb-5d02" id="cb40-3509-4e59-47bf" primary="false" name="Hydra" />
@@ -6660,7 +6660,7 @@
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d9b4-2d4f-c9fc-77d8" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3569-c41b-3a9c-366e" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6787,7 +6787,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="3569-c41b-3a9c-366e" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="‘Iron Hand’ Straken [Legends]" hidden="false" id="913f-3cb6-fb80-7f6a">
       <categoryLinks>
         <categoryLink targetId="6b-acdf-f86b-abb7" id="dc74-9c33-4b6-a59c" primary="false" name="‘Iron Hand’ Straken" />
@@ -7350,7 +7350,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="6d72-fc89-4731-b254" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7448,7 +7448,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6d72-fc89-4731-b254" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Battle Tank" hidden="false" id="c581-3ab5-49a0-9ec0">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="185" />
@@ -7489,7 +7489,7 @@
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e2c6-dade-724f-12cc" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" />
-      </entryLinks>
+      <entryLink id="951f-2c79-f776-e202" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink targetId="3f52-eab3-befb-8dcb" id="6586-78d8-8d44-c70e" type="profile" name="Leman Russ Battle Tank" hidden="false" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="858b-2d24-a79e-ffb8" targetId="b68a-5ded-65ac-98c">
@@ -7606,7 +7606,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="951f-2c79-f776-e202" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Demolisher" hidden="false" id="cbcc-e0ad-4b9-2c76">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="190" />
@@ -7647,7 +7647,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f6a5-2a11-ad7b-0bde" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f15b-21af-ab3d-3b69" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Line-breaker" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="7bca-e35e-69d1-1135">
           <characteristics>
@@ -7762,7 +7762,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="f15b-21af-ab3d-3b69" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Eradicator" hidden="false" id="286e-8e39-b807-5981">
       <categoryLinks>
         <categoryLink targetId="d47b-4256-1bdd-66f4" id="a397-f54e-fad0-f81b" primary="false" name="Leman Russ Eradicator" />
@@ -7803,7 +7803,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="09ee-0b00-600f-e67a" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9893-2748-b81a-3c5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Urban Warfare" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a950-ab59-3c2d-a39b">
           <characteristics>
@@ -7918,7 +7918,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="9893-2748-b81a-3c5b" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Executioner" hidden="false" id="c8fc-b9fa-d126-a296">
       <categoryLinks>
         <categoryLink targetId="d34e-2395-c57-a3e9" id="163d-e65a-169-9351" primary="false" name="Leman Russ Executioner" />
@@ -7955,7 +7955,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3759-df28-1e81-f5cb" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9915-3290-b419-8b5a" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Gung-ho Executioners" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8d68-5238-1410-fed4">
           <characteristics>
@@ -8070,7 +8070,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="9915-3290-b419-8b5a" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Exterminator" hidden="false" id="d8c8-ea02-21bf-de0b">
       <categoryLinks>
         <categoryLink targetId="f1f7-eb37-fbc5-5f80" id="ed65-b198-454d-382f" primary="false" name="Leman Russ Exterminator" />
@@ -8111,7 +8111,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="877e-bc99-5132-1c9c" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c2f1-5e39-cd6c-4622" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Withering Hail" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="8344-2f14-e790-be5e">
           <characteristics>
@@ -8226,7 +8226,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="c2f1-5e39-cd6c-4622" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Punisher" hidden="false" id="e529-5853-d7e2-17ad">
       <categoryLinks>
         <categoryLink targetId="497d-702b-1a4a-74c1" id="75ee-8743-2230-cf13" primary="false" name="Leman Russ Punisher" />
@@ -8263,7 +8263,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="477a-8e2c-daad-21b6" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4f8c-61b0-5a51-d090" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoGroups>
         <infoGroup name="Mow Down the Enemy" id="430d-6d09-8c71-a3ea" hidden="false">
           <profiles>
@@ -8385,7 +8385,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="4f8c-61b0-5a51-d090" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Vanquisher" hidden="false" id="ddf2-228b-edd9-7e83">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="150" />
@@ -8422,7 +8422,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0bc7-1667-08d1-4a43" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0175-0c18-800c-1071" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Tank-killer" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="cc47-c40a-1c64-73e7">
           <characteristics>
@@ -8537,7 +8537,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="0175-0c18-800c-1071" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Lord Solar Leontus" hidden="false" id="a9d-55c1-3d24-fa25">
       <categoryLinks>
         <categoryLink targetId="f62-183e-d4f7-4d98" id="53e2-51f4-bd6f-f72" primary="false" name="Lord Solar Leontus" />
@@ -8744,7 +8744,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="35db-6120-7b7d-4089" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="68fa-beb0-44e6-1e5a" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Manticore" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="23f8-2a9c-dcaa-14a9">
           <characteristics>
@@ -8882,7 +8882,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="68fa-beb0-44e6-1e5a" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Militarum Tempestus Command Squad" hidden="false" id="497-36ad-8ecb-f7c7">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="85" />
@@ -10210,7 +10210,7 @@ This model cannot be selected as your **^^Warlord^^** and cannot be given Enhanc
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="b15b-6fc8-8ecf-5841" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -10308,7 +10308,7 @@ This model cannot be selected as your **^^Warlord^^** and cannot be given Enhanc
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b15b-6fc8-8ecf-5841" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Primaris Psyker" hidden="false" id="4ad0-e988-a513-9530">
       <categoryLinks>
         <categoryLink targetId="84ab-93bd-e2f5-21d7" id="748a-d00b-315b-1f50" primary="false" name="Primaris Psyker" />
@@ -11184,7 +11184,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5ce9-e423-d54e-a41f" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5601-b3bf-9673-a201" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-6 Wounds Remaining" hidden="false" type="profile" id="458c-a7b0-5f21-814a" targetId="30d1-9e89-5aa2-6bde" />
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="a04f-cc4d-daa6-d1b6" targetId="b68a-5ded-65ac-98c">
@@ -11422,7 +11422,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </selectionEntryGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="5601-b3bf-9673-a201" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Scout Sentinels" hidden="false" id="4424-a6ec-6d9e-a936">
       <categoryLinks>
         <categoryLink targetId="4045-1d5f-18fb-99bf" id="5f03-d0d-322b-f5cd" primary="false" name="Scout Sentinels" />
@@ -11605,7 +11605,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c3a3-5c6c-5630-52f1" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c62b-5602-4129-3c4d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11688,7 +11688,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c62b-5602-4129-3c4d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Sergeant Harker [Legends]" hidden="false" id="a8d5-81f9-96a0-fd12">
       <categoryLinks>
         <categoryLink targetId="c9b4-6df9-ed6a-ae49" id="14b3-f8b-c9c4-2689" primary="false" name="Sergeant Harker" />
@@ -11928,7 +11928,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="70c7-ca7b-fd0b-1bc6" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-8 Wounds Remaining" id="da90-a62d-2a1c-200f" hidden="false" type="profile" targetId="e862-4703-fc73-5c46" />
         <infoLink name="Deadly Demise" id="75db-bd4e-5a4f-54d0" hidden="false" type="rule" targetId="b68a-5ded-65ac-98c">
@@ -12090,7 +12090,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="70c7-ca7b-fd0b-1bc6" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Sly Marbo" hidden="false" id="4d50-e535-616a-259c">
       <categoryLinks>
         <categoryLink targetId="7c52-4f28-e70f-292e" id="207b-8e14-cdb0-5d57" primary="false" name="Sly Marbo" />
@@ -12303,7 +12303,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="c84c-42b9-e08a-12e0" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Firing Deck" hidden="false" type="rule" id="9114-e7c0-af2a-cec4" targetId="13b2-6518-dab3-7ea1">
           <modifiers>
@@ -12486,7 +12486,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="c84c-42b9-e08a-12e0" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Stormsword" hidden="false" id="67bc-a760-7ed5-9952">
       <categoryLinks>
         <categoryLink targetId="5129-d11d-6725-3fcb" id="b8ec-89b4-c9cc-5b1b" primary="false" name="Stormsword" />
@@ -12557,7 +12557,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="3115-8b6e-09d8-1772" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Damaged: 1-8 Wounds Remaining" id="e5a6-f71d-c46a-5a38" hidden="false" type="profile" targetId="e862-4703-fc73-5c46" />
         <infoLink name="Deadly Demise" id="67da-c8a1-903d-7095" hidden="false" type="rule" targetId="b68a-5ded-65ac-98c">
@@ -12796,7 +12796,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </selectionEntryGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="3115-8b6e-09d8-1772" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Leman Russ Commander" hidden="false" id="5430-18e-d7b0-1d54">
       <categoryLinks>
         <categoryLink targetId="1256-8491-2de0-6f0" id="cfa0-89c4-5539-4e41" primary="false" name="Leman Russ Commander" />
@@ -13177,7 +13177,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="d089-1f3d-f41d-8c77" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4b81-8595-d39a-6a7e" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="11f1-2890-1429-896e" hidden="false" sortIndex="2">
           <selectionEntryGroups>
@@ -13298,7 +13298,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4b81-8595-d39a-6a7e" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Taurox Prime" hidden="false" id="4b67-f814-358e-f776">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="85" />
@@ -13327,7 +13327,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1e94-149f-f021-3161" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="344f-3123-1e25-6de2" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <infoLinks>
         <infoLink name="Deadly Demise" hidden="false" type="rule" id="8027-8baa-54fe-54f4" targetId="b68a-5ded-65ac-98c">
           <modifiers>
@@ -13638,7 +13638,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="344f-3123-1e25-6de2" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Tempestus Scions" hidden="false" id="679b-f37f-2388-748">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75" />
@@ -14144,8 +14144,8 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
-    <entryLink id="2622-91ee-9205-de2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="2622-91ee-9205-de2c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Ursula Creed" hidden="false" id="b6b2-9971-ec0c-349e">
       <categoryLinks>
         <categoryLink targetId="58f2-4399-d56e-e20e" id="b99e-8a58-847a-b0e9" primary="false" name="Ursula Creed" />
@@ -14449,7 +14449,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="eb14-8764-a257-bd84" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="38a2-05e1-614a-0b79" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -14522,7 +14522,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="38a2-05e1-614a-0b79" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Wyvern" hidden="false" id="d11b-c49d-41bf-1f36">
       <categoryLinks>
         <categoryLink targetId="2ec-4ea-2496-aeaf" id="e496-eb5d-df35-2689" primary="false" name="Wyvern" />
@@ -14558,7 +14558,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4476-7570-010c-28d3" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1be9-444a-dd3a-6b74" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <profiles>
         <profile name="Wyvern" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="1788-9295-de1d-e6d">
           <characteristics>
@@ -14696,7 +14696,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="1be9-444a-dd3a-6b74" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Warlord" hidden="false" id="ea3f-b52b-8dc7-d365">
       <categoryLinks>
         <categoryLink targetId="5c0e-4c31-d51b-e470" id="86c4-2ca8-8498-b80c" primary="false" name="Warlord" />
@@ -16457,7 +16457,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dc44-d484-d1ec-389a" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="cf3c-cdc9-3073-0e21" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -16530,7 +16530,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="cf3c-cdc9-3073-0e21" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Carnodon [Legends]" hidden="false" id="173e-ddd1-354c-583b">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="da04-7e03-e12b-9499" includeChildSelections="true" />
@@ -16947,7 +16947,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b071-bf6c-f8c1-a7f7" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" />
-      </entryLinks>
+      <entryLink id="520b-958b-f3d5-041c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -17020,7 +17020,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="520b-958b-f3d5-041c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Malcador [Legends]" hidden="false" id="f706-c35a-a325-38bf">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="250" />
@@ -20562,7 +20562,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5b54-24d1-bd93-8d01" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="18ae-783a-9723-72be" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="1c1-45a7-2cf9-487e" includeChildSelections="true" />
         <constraint type="max" value="3" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="aa72-48c3-f68a-d62e" includeChildSelections="false" />
@@ -20701,7 +20701,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="18ae-783a-9723-72be" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Armoured hull" hidden="false" id="12c3-780a-dd47-36d1">
       <comment>S8</comment>
       <profiles>
@@ -30060,7 +30060,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2282-2fc1-0693-3ead" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5047-e37f-6712-22ce" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -30143,7 +30143,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5047-e37f-6712-22ce" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Hot-shot lascarbine" hidden="false" id="a210-87ac-255e-7b8a" collective="true">
       <profiles>
         <profile name="Hot-shot lascarbine" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="4db2-fc65-8ec0-1ee3">
@@ -30231,7 +30231,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="5aca-e54c-0615-0747" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9" />
                   </entryLinks>
                 </entryLink>
-              </entryLinks>
+              <entryLink id="143b-d5db-21ff-eb18" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Close combat weapon" hidden="false" id="ed61-6953-ef1e-7116" collective="true">
                   <profiles>
@@ -30256,7 +30256,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
                   </entryLinks>
                 </selectionEntry>
               </selectionEntries>
-            <entryLink id="143b-d5db-21ff-eb18" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+            </selectionEntry>
             <selectionEntry type="model" import="true" name="Ratling w/ tankstopper rifle" hidden="false" id="b799-86fa-f6a9-4a76">
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="95fe-8c72-d235-0bd8" />
@@ -30391,7 +30391,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b172-7a09-649d-229c" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c7b7-1ac4-f5a1-486c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -30474,7 +30474,7 @@ While this unit is joined to a unit, it can embark within any **^^Transport^^** 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c7b7-1ac4-f5a1-486c" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Sniper rifle" hidden="false" id="0b70-2702-788f-b739" collective="true">
       <profiles>
         <profile name="Sniper rifle" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="de16-a68d-06fa-4f91">
@@ -32980,7 +32980,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f7cd-a3a4-b5c0-35a7" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="62cf-b8f0-064f-3a85" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -33063,7 +33063,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="62cf-b8f0-064f-3a85" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Autopistol" hidden="false" id="7101-0a01-c2b9-c741">
       <profiles>
         <profile name="Autopistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="6331-a0b2-93a0-58d9">
@@ -33400,7 +33400,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e5fd-837a-6e4b-e852" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ae02-c32d-6609-a51d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -33483,7 +33483,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ae02-c32d-6609-a51d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Krieg Heavy Weapons Squad" hidden="false" id="1669-d311-eff9-243b">
       <categoryLinks>
         <categoryLink targetId="fa45-57e-930e-602b" id="1592-9707-e72f-d8ee" primary="false" name="Faction: Astra Militarum" />
@@ -33705,7 +33705,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a7cd-ba00-aabf-9cf1" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a226-b798-3863-dee4" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -33788,7 +33788,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a226-b798-3863-dee4" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Artillery Team" hidden="false" id="0595-6d6c-a783-12ab">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -33825,7 +33825,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       </profiles>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2bfe-15ab-43eb-a537" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0a4c-62ee-fa13-ef0d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="766b-3853-0748-f503" hidden="false" sortIndex="2">
           <selectionEntries>
@@ -34070,7 +34070,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0a4c-62ee-fa13-ef0d" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Battery close combat weapons" hidden="false" id="48df-219b-bfd2-69f8" collective="true">
       <profiles>
         <profile name="Battery close combat weapons" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="cd11-b585-0922-1ecb">
@@ -36153,7 +36153,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c542-77fd-a53d-9299" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a1a6-a8be-7700-e5aa" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -36450,7 +36450,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
                   </characteristics>
                 </profile>
               </profiles>
-            <entryLink id="8a3c-731d-9807-70f0" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+            <entryLinks><entryLink id="8a3c-731d-9807-70f0" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks></selectionEntry>
           </selectionEntries>
           <constraints>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="dd88-52dd-2f1d-a5fe" includeChildSelections="false" />
@@ -36458,7 +36458,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </constraints>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="a1a6-a8be-7700-e5aa" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Centaur RSV" hidden="false" id="c871-4769-71ed-c4b3">
       <categoryLinks>
         <categoryLink targetId="fa45-57e-930e-602b" id="8b75-d21b-c88d-7684" primary="false" name="Faction: Astra Militarum" />
@@ -36529,7 +36529,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ea42-0e1a-e1dd-aadb" type="selectionEntryGroup" targetId="56e1-e9a8-6946-0518" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ee74-2925-7ec6-8eec" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -36654,7 +36654,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="ee74-2925-7ec6-8eec" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Cadian Recon Squad" hidden="false" id="05de-5701-33a0-b23d">
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
@@ -37070,7 +37070,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="6065-b758-0a45-57f7" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -37153,7 +37153,7 @@ Designer's Note: Place a Servo-scribes token next to the unit, removing it when 
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6065-b758-0a45-57f7" name="Upgrades" hidden="false" collective="false" import="true" targetId="cdb9-c22f-3236-0bdf" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Lasgun" hidden="false" id="0c40-6f94-5c9b-e1d3" collective="true">
       <profiles>
         <profile name="Lasgun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="9b01-ea93-8022-25ec">

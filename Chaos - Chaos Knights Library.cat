@@ -328,7 +328,7 @@
         <entryLink import="true" name="Houndpack Lance Character" hidden="false" id="4ba8-3cd2-fe30-8847" type="selectionEntry" targetId="b02a-a6e2-3eb4-4872" sortIndex="2" />
         <entryLink import="true" name="Warlord" hidden="false" id="792d-a094-bd08-80cb" type="selectionEntry" targetId="3bee-8c85-68f7-e54b" sortIndex="3" />
         <entryLink import="true" name="Crusade" hidden="false" id="53c4-b779-0ede-647b" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d227-078a-20b9-dfd3" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="130" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -430,7 +430,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d227-078a-20b9-dfd3" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="dfe8-cea0-8d16-db95" name="Diabolus heavy stubber" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="a4fb-4101-1b27-d2db" name="Diabolus heavy stubber" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -745,7 +745,7 @@
         <entryLink id="e26d-a244-a6fb-bce1" name="Enhancements" hidden="false" collective="false" import="true" targetId="18da-1609-c0fb-cf69" type="selectionEntryGroup" sortIndex="4" />
         <entryLink import="true" name="Houndpack Lance Character" hidden="false" id="4848-303f-a31d-2548" type="selectionEntry" targetId="b02a-a6e2-3eb4-4872" sortIndex="2" />
         <entryLink import="true" name="Crusade" hidden="false" id="b54a-fa52-327b-bbbd" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="72de-a8a4-db9f-d095" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -847,7 +847,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="72de-a8a4-db9f-d095" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e96b-ac98-7fd2-a155" name="War Dog Karnivore" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1df3-61b3-1a11-0900" type="max" />
@@ -979,7 +979,7 @@
         <entryLink import="true" name="Houndpack Lance Character" hidden="false" id="7dab-f413-a641-6ddc" type="selectionEntry" targetId="b02a-a6e2-3eb4-4872" sortIndex="2" />
         <entryLink import="true" name="Warlord" hidden="false" id="d1ed-a9f9-29a5-39b5" type="selectionEntry" targetId="3bee-8c85-68f7-e54b" sortIndex="3" />
         <entryLink import="true" name="Crusade" hidden="false" id="8e83-bd72-6285-86c7" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0bc7-698b-f92a-7648" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="155" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -1081,7 +1081,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0bc7-698b-f92a-7648" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="753d-4e02-eda3-4809" name="War Dog Brigand" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1995-c5fc-e109-31f1" type="max" />
@@ -1183,7 +1183,7 @@
         <entryLink import="true" name="Houndpack Lance Character" hidden="false" id="5aa9-4d05-6955-3767" type="selectionEntry" targetId="b02a-a6e2-3eb4-4872" sortIndex="2" />
         <entryLink import="true" name="Warlord" hidden="false" id="8fab-d9a1-36f3-e659" type="selectionEntry" targetId="3bee-8c85-68f7-e54b" sortIndex="3" />
         <entryLink import="true" name="Crusade" hidden="false" id="d826-0c70-a502-dfaf" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ba04-f7d2-e990-bfe4" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -1285,7 +1285,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ba04-f7d2-e990-bfe4" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="6e6d-7950-ce6d-4cd4" name="War Dog Huntsman" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="f1a4-0645-a8de-81bd" type="max" />
@@ -1382,7 +1382,7 @@
         <entryLink import="true" name="Houndpack Lance Character" hidden="false" id="99b9-ab7c-b97c-8e42" type="selectionEntry" targetId="b02a-a6e2-3eb4-4872" sortIndex="2" />
         <entryLink import="true" name="Warlord" hidden="false" id="5af7-8ff6-e129-d239" type="selectionEntry" targetId="3bee-8c85-68f7-e54b" sortIndex="3" />
         <entryLink import="true" name="Crusade" hidden="false" id="ee8f-1904-9fe6-9a1e" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="11cb-034f-bace-7c37" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -1484,7 +1484,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="11cb-034f-bace-7c37" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="0119-8c04-435e-c782" name="Knight Despoiler" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="0131-278b-cb36-f2c2" type="max" />
@@ -3695,7 +3695,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="7741-96e2-f837-4773" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6e55-39b9-2b20-153b" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="785" />
       </costs>
@@ -3889,7 +3889,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6e55-39b9-2b20-153b" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="28a-8545-4104-4ffa" name="Titanic feet" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4e4f-46f4-c6a1-315c" type="min" />
@@ -4126,7 +4126,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="575a-2b6e-bfd5-f66c" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="58ab-7cf9-fd1f-83c6" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="725" />
       </costs>
@@ -4214,7 +4214,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="58ab-7cf9-fd1f-83c6" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="4175-82c6-8e96-bef8" name="Chaos Cerastus Knight Lancer" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="6489-39e1-0d94-80ef" type="max" />
@@ -6154,7 +6154,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
         <entryLink import="true" name="Houndpack Lance Character" hidden="false" id="c695-4c67-99d5-fa1f" type="selectionEntry" targetId="b02a-a6e2-3eb4-4872" sortIndex="2" />
         <entryLink import="true" name="Warlord" hidden="false" id="3dcc-ee46-cdae-0593" type="selectionEntry" targetId="3bee-8c85-68f7-e54b" sortIndex="3" />
         <entryLink import="true" name="Crusade" hidden="false" id="4364-bf1a-3ae0-704d" type="selectionEntryGroup" targetId="e91b-3100-3431-e2f8" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="7392-2194-3e24-b205" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="150" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -6256,7 +6256,7 @@ While using the Houndpack Lance Detachment, the following rules apply:
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="7392-2194-3e24-b205" name="Upgrades" hidden="false" collective="false" import="true" targetId="d65d-68b4-bea1-62a8" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Show Chaos Knights" hidden="false" id="aeb4-96de-7401-eaa3">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d78d-32a7-5796-202e" />

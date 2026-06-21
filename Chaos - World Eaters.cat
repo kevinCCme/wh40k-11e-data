@@ -3830,7 +3830,7 @@
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="3675-4120-8198-66fd" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6290-858a-280b-3c61" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -3905,7 +3905,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6290-858a-280b-3c61" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="44b0-1947-ea4a-3005" name="Chainblade" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="07bf-05c2-8ad9-6b15" type="max" />
@@ -4574,7 +4574,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ae2d-6ae3-56c6-c202" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="7466-f7f2-a6e9-940c" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4642,7 +4642,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="7466-f7f2-a6e9-940c" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="6f81-4538-a414-251e" name="Jakhals" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="140">
@@ -4962,7 +4962,7 @@
           </modifiers>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="c6b6-5dfa-7452-4800" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b015-0561-4d0d-b3ac" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="65" />
       </costs>
@@ -5042,7 +5042,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b015-0561-4d0d-b3ac" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="32bc-0724-a7cf-f17c" name="Paired accursed weapons" hidden="false" collective="true" import="true" type="upgrade">
       <profiles>
         <profile id="d4df-8ce0-767a-474d" name="Paired accursed weapons" hidden="false" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons">
@@ -5255,7 +5255,7 @@
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
           </costs>
-        <entryLink id="758e-a2e9-b440-1ea8" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="758e-a2e9-b440-1ea8" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
         <selectionEntry id="6f2c-fc26-53bc-34bd" name="Eightbound Champion" hidden="false" collective="false" import="true" type="model" sortIndex="2">
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eb72-81ee-3cce-c6df" type="min" />
@@ -5303,7 +5303,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2109-2812-c54d-d9a1" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="cb12-59e3-640a-d1f6" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5371,7 +5371,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="cb12-59e3-640a-d1f6" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="9932-3d2b-1e47-d53b" name="Exalted Eightbound" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="280">
@@ -5446,7 +5446,7 @@
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
           </costs>
-        <entryLink id="25f8-af8c-b1a3-0bcc" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="25f8-af8c-b1a3-0bcc" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
         <selectionEntry id="d009-9bd9-59a1-9119" name="Exalted Eightbound Champion" hidden="false" collective="false" import="true" type="model" sortIndex="2">
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7061-c5f4-58e6-6604" type="min" />
@@ -5485,7 +5485,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="68a0-de42-499f-dc99" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1b81-edd7-8b66-5431" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5553,7 +5553,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1b81-edd7-8b66-5431" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="4251-bd4f-f7ac-9487" name="Chaos Land Raider" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1f9c-7c84-c0c3-bcfb" type="max" />
@@ -5697,7 +5697,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b217-1a97-f4be-8306" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8c06-cfb5-a326-a952" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="220" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -5773,7 +5773,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="8c06-cfb5-a326-a952" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="caa8-634e-b7e4-a286" name="Twin heavy bolter" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="fc72-9f62-b714-d195" name="Twin heavy bolter" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -6016,7 +6016,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f8bb-0a96-579b-cc5c" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b75d-3a82-fca1-5307" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -6091,7 +6091,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b75d-3a82-fca1-5307" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="f76c-0f51-ad33-c118" name="Armoured tracks" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9cb6-48bc-54e0-6b44" type="min" />
@@ -6301,7 +6301,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="65d1-5325-e5aa-0f7b" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a3de-cd9b-c62e-554d" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -6376,7 +6376,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a3de-cd9b-c62e-554d" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="ea51-5575-9e74-9346" name="Defiler" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="dfe6-419c-bb1e-5fc7" type="max" />
@@ -6704,7 +6704,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ccfe-d43b-92ac-22be" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9bb9-3db1-25bc-25d9" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6772,7 +6772,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9bb9-3db1-25bc-25d9" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="81e1-b212-69c1-308f" name="Forgefiend" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="2f95-b866-ca01-897d" type="max" />
@@ -6948,7 +6948,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e3b1-8d46-4257-1db1" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="d74a-9026-b6c0-37d2" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7016,7 +7016,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="d74a-9026-b6c0-37d2" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="a343-07e9-e8f9-67f2" name="Hades autocannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="dd4d-6efb-fc4e-c3cf" name="Hades autocannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -7491,7 +7491,7 @@
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="cef8-5889-435c-f87d" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="e5c5-c507-792c-fa15" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7559,7 +7559,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="e5c5-c507-792c-fa15" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="0fc2-382a-b387-9634" name="Twin lascannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="9eb6-d9a7-c754-c1a6" name="Twin lascannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -7742,7 +7742,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5312-84b6-a7de-f710" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1eaf-f9f8-c7ce-f51a" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7810,7 +7810,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1eaf-f9f8-c7ce-f51a" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="a619-8a52-be03-3bd5" name="Maulerfiend" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="f3fe-d895-183f-355e" type="max" />
@@ -7970,7 +7970,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ed47-6c7e-0325-18d5" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="100a-3824-c985-2370" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8038,7 +8038,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="100a-3824-c985-2370" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e849-ce40-ee43-7623" name="Chaos Rhino" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4948-64ff-2ada-a602" type="max" />
@@ -8136,7 +8136,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9f1a-61d7-08b9-d535" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="28f1-7aed-5392-6cf0" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="85" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -8211,7 +8211,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="28f1-7aed-5392-6cf0" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="edde-57bf-bccc-d8b2" name="Chaos Spawn" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="parent" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c7fb-1fe5-6958-8464" type="max" />
@@ -8292,7 +8292,7 @@
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
           </costs>
-        <entryLink id="e1db-4391-4c2a-f9c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="e1db-4391-4c2a-f9c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
@@ -8304,7 +8304,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="fc16-c8ba-6b20-dfe5" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9bcb-e866-da05-0e77" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8372,7 +8372,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9bcb-e866-da05-0e77" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="836c-f65b-6bcb-9663" name="Khorne Lord of Skulls" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="parent" value="3" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2094-1b2f-fef4-0276" type="max" />
@@ -8632,7 +8632,7 @@
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b45b-fe4c-b9c0-cda2" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0638-1866-07a4-3c12" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8700,7 +8700,7 @@
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0638-1866-07a4-3c12" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="84c8-b821-877d-72e6" name="Detachment" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="roster" shared="true" id="3f16-f1c0-19f3-c328" includeChildSelections="true" />
@@ -9587,8 +9587,8 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
       </modifierGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="84b1-2e70-8029-666a" type="selectionEntryGroup" targetId="8bbb-e890-a169-863e" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="d51a-3209-3600-6cb2" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="d51a-3209-3600-6cb2" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Chainblade" hidden="false" id="81d1-50cc-2825-7475">
       <profiles>
         <profile name="Chainblade" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="6499-8320-6996-5ff5">
@@ -10353,7 +10353,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
             <association min="1" max="1" scope="parent" childId="a4ce-3f1f-6832-a48b" name="Icon" id="566d-ef4c-9dce-0646" />
           </associations>
         </entryLink>
-      </entryLinks>
+      <entryLink id="a5f5-57f6-99ce-f8e4" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -10373,7 +10373,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
           </conditionGroups>
         </modifier>
       </modifiers>
-    <entryLink id="a5f5-57f6-99ce-f8e4" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Daemonic Icon" hidden="false" id="4932-180c-3eb7-39dd" collective="false">
       <constraints>
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e57e-8299-7fcf-d88a" percentValue="false" includeChildSelections="false" includeChildForces="false" />
@@ -10523,7 +10523,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
             <association min="1" max="1" scope="e65f-c7c7-1d18-1a60" childId="f5ab-1cab-a63f-afaf" name="Icon" id="506e-b1a7-5ff4-341d" includeChildSelections="true" />
           </associations>
         </entryLink>
-      </entryLinks>
+      <entryLink id="a2c6-ccde-ad88-79c3" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -10531,7 +10531,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="a2c6-ccde-ad88-79c3" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Bladed horn" hidden="false" id="034f-f3cd-9b1d-3f09" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3b51-8660-a3b1-059a" percentValue="false" includeChildSelections="false" includeChildForces="false" />
@@ -10694,7 +10694,7 @@ Melee weapons equipped by ^^**Blood Legions^^** units from your army have the [L
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="4fd7-f321-2f8d-efb5" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="4fd7-f321-2f8d-efb5" name="Upgrades" hidden="false" collective="false" import="true" targetId="0879-fde1-c843-496a" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Collar of Khorne" hidden="false" id="c7e3-601f-3442-250b" collective="true">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9b3d-9a18-181e-0448" percentValue="false" includeChildSelections="false" includeChildForces="false" />

@@ -1884,7 +1884,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="db9a-d02a-15f4-0732" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f217-adca-60ca-621d" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -1971,7 +1971,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f217-adca-60ca-621d" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e4f0-79-126a-ac41" name="Hellblade" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6e6a-aca3-cbae-6614" type="min" />
@@ -2137,7 +2137,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="65d5-90c6-575c-25c2" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5a1a-cdab-a1ef-6452" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
       </costs>
@@ -2208,7 +2208,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5a1a-cdab-a1ef-6452" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="fd31-64a2-b20f-f0bc" name="Flesh Hounds" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="150">
@@ -2358,7 +2358,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e09c-62fc-391f-4cbe" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4464-b758-5365-7abe" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2426,7 +2426,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4464-b758-5365-7abe" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="fbad-4487-a8bc-9ef0" name="Collar of Khorne" hidden="false" collective="true" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2c63-de20-b0b5-95f8" type="min" />
@@ -2624,7 +2624,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dc3d-1933-4a54-848d" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5b82-7b2e-ebdf-6215" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2692,7 +2692,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5b82-7b2e-ebdf-6215" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="464a-b548-355f-2058" name="Skull Altar" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="2678-9993-7e61-dc81" type="max" />
@@ -2750,7 +2750,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="100b-ae59-f759-04fa" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="100b-ae59-f759-04fa" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry id="2c37-2898-8350-ef45" name="Be'lakor" publicationId="e3ec-7a32-ae62-8727" page="109-110" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="d5a2-e715-2f49-38b4" type="max" />
@@ -5901,7 +5901,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="fa39-825e-4b01-4a39" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a2f7-44d1-736d-be96" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5969,7 +5969,7 @@ In your Command phase, if your opponent has one or more Flux tokens, you gain on
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a2f7-44d1-736d-be96" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e7b8-aa40-6da7-778e" name="Pink Horrors" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="e8b6-ebeb-25c4-8f3" type="max" />
@@ -6180,7 +6180,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="5989-3076-ff19-4321" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="fe5b-bcdb-da92-130e" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6248,7 +6248,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="fe5b-bcdb-da92-130e" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="5f23-4d6-f2f9-5973" name="Flamers" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="130">
@@ -6453,7 +6453,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="edc2-e2cb-dcf5-0573" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="a92d-3ced-078d-d2d4" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6521,7 +6521,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="a92d-3ced-078d-d2d4" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="de54-5b38-8ca1-c39c" name="Exalted Flamer" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="fd63-575d-f73b-d1f7" name="Leader" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -6833,7 +6833,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5cd0-2876-baaa-c8fe" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6e3e-1039-8c7a-b3df" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6901,7 +6901,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6e3e-1039-8c7a-b3df" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="f6eb-b62f-5baf-d96d" name="Burning Chariot" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="e8b6-ebeb-25c4-8f3" type="max" />
@@ -6950,7 +6950,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0991-be7c-acd1-00f8" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f229-6041-f23c-577c" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
       </costs>
@@ -7103,7 +7103,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f229-6041-f23c-577c" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="4f1b-9153-bd36-71ff" name="Fires of Tzeentch" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9a1b-aea9-b24e-c010" type="min" />
@@ -8657,7 +8657,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="e42a-5136-b632-405c" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="03d8-560d-53e7-acd8" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
       </costs>
@@ -8740,7 +8740,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="03d8-560d-53e7-acd8" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e403-3a9-279e-41b7" name="Nurglings" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="70">
@@ -8855,7 +8855,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0185-6078-918d-c529" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1c4a-094d-578a-a002" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8923,7 +8923,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1c4a-094d-578a-a002" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="2de0-5897-f724-a592" name="Beasts of Nurgle" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="c3f8-2dac-ca29-750" type="max" />
@@ -9041,7 +9041,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ae27-ab18-ea5c-331f" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5ba8-6d4b-4bed-073a" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -9109,7 +9109,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5ba8-6d4b-4bed-073a" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="d620-146a-41cd-f28f" name="Plague Drones" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="220">
@@ -9384,7 +9384,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="bb49-0d72-8073-db39" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="9e06-b080-f9ce-0e01" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="110" />
       </costs>
@@ -9455,7 +9455,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="9e06-b080-f9ce-0e01" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="13f0-d2b5-6201-ba84" name="Feculent Gnarlmaw" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="a6bf-5d1d-e5cd-b79d" name="Feculent Gnarlmaw" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -9514,7 +9514,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="a22d-1106-04e2-6ae8" percentValue="false" includeChildSelections="true" includeChildForces="false" />
       </constraints>
-    <entryLink id="62d7-7b12-6f90-d8da" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="62d7-7b12-6f90-d8da" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry id="c49d-5ebc-4ee4-689e" name="Shalaxi Helbane" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="1" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="b280-61e7-c9e0-f54a" type="max" />
@@ -11458,7 +11458,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="e2e1-3bac-d2da-91fb" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6f9e-0dc5-f49c-8d67" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
       </costs>
@@ -11555,7 +11555,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6f9e-0dc5-f49c-8d67" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="d1ee-8d05-4fae-1727" name="Fiends" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="190">
@@ -11660,7 +11660,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
           </costs>
-        <entryLink id="f124-42c4-c62c-e37c" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="f124-42c4-c62c-e37c" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90" />
@@ -11672,7 +11672,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="2729-0be7-9ed9-8095" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ce06-fb80-76fe-eda4" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -11740,7 +11740,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ce06-fb80-76fe-eda4" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="112d-8078-777f-76a5" name="Seekers" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="51b2-306e-1021-d207" value="160">
@@ -11973,7 +11973,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </associations>
         </entryLink>
         <entryLink import="true" name="Crusade" hidden="false" id="a9a5-a0e6-d0a7-130c" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f41c-262c-40a9-0151" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
       </costs>
@@ -12044,7 +12044,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f41c-262c-40a9-0151" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="e8d-bf22-b29-d20e" name="Hellflayers" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="48f9-159a-3c0d-a439" type="max" />
@@ -12230,7 +12230,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="b29b-9272-f352-b2ef" type="selectionEntryGroup" targetId="82a2-545c-7f11-ed88" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8c41-8ef7-3277-04c1" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -12298,7 +12298,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="8c41-8ef7-3277-04c1" name="Upgrades" hidden="false" collective="false" import="true" targetId="5d40-93a4-9d64-8989" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="5fe1-5a7a-9f8e-21e0" name="Seeker Chariot [Legends]" hidden="false" collective="false" import="true" type="unit">
       <profiles>
         <profile id="907f-21a6-8734-3466" name="Scythed Impact" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">

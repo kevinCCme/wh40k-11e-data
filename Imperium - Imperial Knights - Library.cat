@@ -366,7 +366,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5aa5-bf18-53ce-a773" type="selectionEntryGroup" targetId="4c8f-eb91-e2f2-42e5" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="41ac-51e8-b6ea-f577" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -563,7 +563,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="41ac-51e8-b6ea-f577" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Armiger Helverin" id="7314-3c4a-36ab-a594">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="8e5-50e1-634a-4aa7" primary="true" name="Vehicle" />
@@ -609,7 +609,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4529-9105-8b09-76f1" type="selectionEntryGroup" targetId="4c8f-eb91-e2f2-42e5" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="8263-9b3e-2025-a6cd" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="140" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -777,7 +777,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="8263-9b3e-2025-a6cd" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Knight Paladin" id="8441-8356-5e7c-69ee">
       <categoryLinks>
         <categoryLink targetId="dbd4-63-af05-998" id="3f12-25c1-f7c0-8020" primary="false" name="Vehicle" />
@@ -3016,7 +3016,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8fc0-ad37-802d-a128" type="selectionEntryGroup" targetId="4c8f-eb91-e2f2-42e5" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="57ac-3c1a-c4ff-1ae8" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3186,7 +3186,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="57ac-3c1a-c4ff-1ae8" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Acastus Knight Porphyrion" hidden="false" id="61c9-8baf-22b4-5d84">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="8c14-ffe1-d6bf-e209" />
@@ -3475,7 +3475,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e7da-661a-fc12-2bd6" type="selectionEntryGroup" targetId="4c8f-eb91-e2f2-42e5" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0229-a6cb-2b0f-0b66" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3543,7 +3543,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="0229-a6cb-2b0f-0b66" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Cerastus Knight Lancer" hidden="false" id="9ee-e289-bc6c-d943">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="5ceb-841e-891c-8add" />
@@ -5493,7 +5493,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="ed9b-7555-e76f-c50e" type="selectionEntryGroup" targetId="4c8f-eb91-e2f2-42e5" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="463d-25c1-bc75-dc3e" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5596,7 +5596,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="463d-25c1-bc75-dc3e" name="Upgrades" hidden="false" collective="false" import="true" targetId="e45b-d76a-645b-feca" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Show Imperial Knights" hidden="false" id="e82c-6f8c-2b97-a287" defaultAmount="1">
       <categoryLinks>
         <categoryLink targetId="4ac9-fd30-1e3d-b249" id="2a97-c85d-c015-e6a8" primary="true" name="Configuration" />

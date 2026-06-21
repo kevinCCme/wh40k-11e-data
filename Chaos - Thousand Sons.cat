@@ -2514,7 +2514,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3749-d41d-bded-99e9" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="762d-d00b-0d75-9d44" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="220" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -2590,7 +2590,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="762d-d00b-0d75-9d44" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="6cce-b8be-75bc-c249" name="Havoc launcher" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5c14-aa7a-d051-ae07" type="max" />
@@ -2837,7 +2837,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="1947-3b46-1ec8-36c0" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="1ca9-37e7-c4a0-780d" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -2912,7 +2912,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="1ca9-37e7-c4a0-780d" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="04ac-1d06-d97b-2787" name="Inferno heavy bolter" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="4d05-ae06-7ab1-5240" name="Inferno heavy bolter" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -3121,7 +3121,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="07ce-48ad-e04e-4778" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="c2e8-ca25-9d37-eaae" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="135" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -3197,7 +3197,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="c2e8-ca25-9d37-eaae" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="8d9b-b949-2557-dcc4" name="Chaos Rhino" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="6" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="bfd2-930d-d229-597e" type="max" />
@@ -3303,7 +3303,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3eaf-bd3a-8741-4360" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="6f39-4126-646a-f665" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="85" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -3378,7 +3378,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="6f39-4126-646a-f665" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="60de-4c77-95e1-1337" name="Chaos Spawn" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="9f3a-bee0-a8c9-7e27" type="max" />
@@ -3462,14 +3462,14 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
               </characteristics>
             </profile>
           </profiles>
-        <entryLink id="4ac5-c982-2b8c-827c" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="4ac5-c982-2b8c-827c" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="8e9c-88d4-d8e2-d64a" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="bd0b-80fd-2d1a-e17c" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -3537,7 +3537,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="bd0b-80fd-2d1a-e17c" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="3413-b8fd-e22c-da4f" name="Chaos Vindicator" hidden="false" collective="false" import="true" type="model">
       <profiles>
         <profile id="163c-a891-7b3a-891f" name="Siege Shield" hidden="false" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities">
@@ -3643,7 +3643,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="98ee-44d0-703f-a9b3" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5140-26ad-b139-4244" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="185" />
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0" />
@@ -3724,7 +3724,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5140-26ad-b139-4244" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="2a9b-ad35-cc84-4bc4" name="Twin lascannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="bba0-0f79-30a3-4e54" name="Twin lascannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -4455,7 +4455,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="87fd-5be4-41aa-0dde" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="49f3-1bb4-a9ff-626e" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -4523,7 +4523,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="49f3-1bb4-a9ff-626e" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="9d23-6265-b5c6-934e" name="Ectoplasma cannon" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
         <profile id="e726-eb35-b0d2-4a0f" name="Ectoplasma cannon" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
@@ -5024,7 +5024,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="5a1b-0742-9bf8-78c8" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4673-ba2e-f450-fd52" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5092,7 +5092,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4673-ba2e-f450-fd52" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="637a-d542-35aa-e95c" name="Heldrake" hidden="false" collective="false" import="true" type="model">
       <constraints>
         <constraint field="selections" scope="force" value="3" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="21aa-9756-2f87-2ab4" type="max" />
@@ -5226,7 +5226,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c042-23f1-45d3-738c" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5a3f-7833-f0d3-a44b" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5294,7 +5294,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5a3f-7833-f0d3-a44b" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="1693-5e00-da69-57bb" name="Infernal Master" hidden="false" collective="false" import="true" type="model" publicationId="48fc-15aa-b307-9443" page="35-36">
       <profiles>
         <profile id="318e-b78f-2100-6cba" name="Infernal Master" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -5892,7 +5892,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="9623-2fb7-508f-48c7" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="5059-0402-332d-ace8" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -5960,7 +5960,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="5059-0402-332d-ace8" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="094c-c618-92c1-b394" name="Mutalith Vortex Beast" hidden="false" collective="false" import="true" type="model" publicationId="015a-6212-d737-9044" page="41-42">
       <profiles>
         <profile id="412e-dff0-6427-a1a4" name="Mutalith Vortex Beast" hidden="false" typeId="c547-1836-d8a-ff4f" typeName="Unit">
@@ -6134,7 +6134,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </selectionEntryGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4fe7-86d5-cdb2-1cfd" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="ee53-0134-b929-73c1" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6202,7 +6202,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="ee53-0134-b929-73c1" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Rubric Marines" hidden="false" id="5d3d-e13b-8b76-dad3">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100" />
@@ -6712,7 +6712,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="0057-32e3-9405-8ad7" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="3d4e-098e-3b08-3f7d" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -6780,7 +6780,7 @@ Each time a ^^**Thousand Sons Vehicle^^** model from your army with the Deadly D
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="3d4e-098e-3b08-3f7d" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Scarab Occult Terminators" hidden="false" id="b1cf-c5-5121-92a4" publicationId="015a-6212-d737-9044" page="45-46">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="180" />
@@ -7257,7 +7257,7 @@ Wound roll.</characteristic>
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="592c-6529-0e59-47ae" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b034-b87d-4947-75f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -7325,7 +7325,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="b034-b87d-4947-75f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Sorcerer" hidden="false" id="af1e-9a3d-785c-47f8">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="fe6a-6cdf-d8fc-aada" primary="false" name="Faction: Thousand Sons" />
@@ -8411,7 +8411,7 @@ Wound roll.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="156d-49c6-fdc9-1969" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="2887-ac17-9e02-2b23" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -8479,7 +8479,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="2887-ac17-9e02-2b23" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Tzaangor Shaman" hidden="false" id="c251-bd54-441-4799">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="60" />
@@ -8978,8 +8978,8 @@ Wound roll.</characteristic>
       </modifierGroups>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3339-ebf2-df7c-a206" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
-    <entryLink id="6db0-e078-7009-20d8" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="6db0-e078-7009-20d8" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Hellblade [Legends]" hidden="false" id="c4ab-b52d-3ac0-5d56">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115" />
@@ -10490,7 +10490,7 @@ Wound roll.</characteristic>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="a784-2277-b284-6e17" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4d26-96ab-34bc-8db7" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -10558,7 +10558,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4d26-96ab-34bc-8db7" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Hellfyre missile rack" hidden="false" id="ae78-f3d8-6cf0-6a89">
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3d70-eaf9-a207-08e7-min" includeChildSelections="false" />
@@ -10787,7 +10787,7 @@ Wound roll.</characteristic>
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="dc71-82fb-af8c-ffe0" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="f3ce-01b9-7cc9-6bb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -10855,7 +10855,7 @@ Wound roll.</characteristic>
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="f3ce-01b9-7cc9-6bb1" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Fatecaster greatbow" hidden="false" id="8097-77df-1ed5-1e1a">
       <profiles>
         <profile name="Fatecaster greatbow" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="ec1c-d5f8-b7b4-6c46">
@@ -11400,7 +11400,7 @@ Wound roll.</characteristic>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="be7b-7516-9dd7-f18b" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="be7b-7516-9dd7-f18b" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="unit" import="true" name="Screamers" hidden="false" id="7cbe-2406-8e67-aff5">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="cbaa-b9fc-8182-759d" includeChildSelections="true" />
@@ -11497,7 +11497,7 @@ Wound roll.</characteristic>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="178a-ba12-1832-40ad" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="178a-ba12-1832-40ad" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="unit" import="true" name="Pink Horrors" hidden="false" id="4c73-cbd1-f052-80c3">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="force" shared="true" id="b02c-b4ee-1394-730a" includeChildSelections="true" />
@@ -11711,7 +11711,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0" />
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0" />
       </costs>
-    <entryLink id="3973-e17b-55be-86bd" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="3973-e17b-55be-86bd" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="unit" import="true" name="Blue Horrors" hidden="false" id="aec5-4419-39e7-3e63" collective="false">
       <constraints>
         <constraint type="max" value="6" field="selections" scope="force" shared="true" id="a1e0-c6bb-f6aa-0a93" percentValue="false" includeChildSelections="true" includeChildForces="false" />
@@ -11874,7 +11874,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           </conditionGroups>
         </modifier>
       </modifiers>
-    <entryLink id="45a8-4481-d64a-8053" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    <entryLinks><entryLink id="45a8-4481-d64a-8053" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks></selectionEntry>
     <selectionEntry type="unit" import="true" name="Chaos Spawn (Flesh Change)" hidden="false" id="dd17-8cb8-ed8c-f6c8" collective="false">
       <constraints>
         <constraint type="max" value="3" field="selections" scope="force" shared="true" id="b42a-7fde-53f6-f96c" percentValue="false" includeChildSelections="true" includeChildForces="false" />
@@ -11957,7 +11957,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="95" />
           </costs>
-        <entryLink id="1631-5bc3-db91-3e43" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="1631-5bc3-db91-3e43" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="65" />
@@ -12863,7 +12863,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
       </costs>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="930a-5249-c205-e32e" type="selectionEntryGroup" targetId="965a-b245-f1be-9dbd" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4d34-569f-fedc-89f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -12931,7 +12931,7 @@ _Designer’s Note: While this unit contains one or more ^^Pink Horrors^^ models
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4d34-569f-fedc-89f4" name="Upgrades" hidden="false" collective="false" import="true" targetId="567f-7c0d-5d9e-04a7" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Electroscourge" hidden="false" id="fd72-4efb-3ef6-6368">
       <profiles>
         <profile name="Electroscourge" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="45a0-ae9c-5a00-bb57">

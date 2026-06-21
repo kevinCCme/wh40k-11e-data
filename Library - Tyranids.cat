@@ -624,7 +624,7 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
-        <entryLink id="b034-0e8c-7508-61ef" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+        <entryLinks><entryLink id="b034-0e8c-7508-61ef" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks></selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80" />
@@ -642,7 +642,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="e080-88f3-4070-5689" type="selectionEntryGroup" targetId="2fa5-0a8d-013e-fc12" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="4d0f-64e0-f914-f9af" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -720,7 +720,7 @@
           </modifiers>
         </modifierGroup>
       </modifierGroups>
-    <entryLink id="4d0f-64e0-f914-f9af" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Hyperadapted Raveners" hidden="false" id="c10d-772e-a54f-a2b9">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="165" />
@@ -1082,7 +1082,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="46a4-07e6-11ba-4072" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1203,7 +1203,7 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="46a4-07e6-11ba-4072" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Mawloc" hidden="false" id="2bbb-d811-15f7-1a81">
       <categoryLinks>
         <categoryLink targetId="c729-fe17-f963-16b2" id="f3a9-d3cb-9ee-5241" primary="false" name="Mawloc" />
@@ -1250,7 +1250,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="f0a4-12b8-ad4a-e150" type="selectionEntryGroup" targetId="2fa5-0a8d-013e-fc12" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="b7e6-40d4-d392-1864" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1393,7 +1393,7 @@
           </conditions>
         </modifier>
       </modifiers>
-    <entryLink id="b7e6-40d4-d392-1864" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Neurolictor" hidden="false" id="642f-9302-4fdc-ab68">
       <categoryLinks>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="c3ee-fbd0-ef69-d624" primary="true" name="Infantry" />
@@ -1484,7 +1484,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="4033-66e2-9223-a4de" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1621,7 +1621,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="4033-66e2-9223-a4de" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Parasite of Mortrex" hidden="false" id="d213-efd8-a2b4-42d2">
       <categoryLinks>
         <categoryLink targetId="6646-3625-4f52-f47c" id="dbb8-1177-ca8-c41c" primary="false" name="Parasite of Mortrex" />
@@ -1971,7 +1971,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="d7c7-f61e-242a-4f1d" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="5 Raveners" id="c653-731f-d1b1-1ddc" hidden="false" sortIndex="3" defaultSelectionEntryId="79c8-bd29-5655-57c7">
           <selectionEntries>
@@ -2077,7 +2077,7 @@
           </modifierGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="d7c7-f61e-242a-4f1d" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Trygon" hidden="false" id="56db-d7c-b349-677f">
       <categoryLinks>
         <categoryLink targetId="c3a7-fdae-a434-6eff" id="df2a-3614-ebd2-8b7" primary="false" name="Trygon" />
@@ -2146,7 +2146,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="ab51-56c7-f974-cfc8" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2305,7 +2305,7 @@
           </modifierGroups>
         </selectionEntry>
       </selectionEntries>
-    <entryLink id="ab51-56c7-f974-cfc8" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="model" import="true" name="Tyrannocyte" hidden="false" id="fada-677a-f6a4-cd12">
       <categoryLinks>
         <categoryLink targetId="ba07-411c-2832-1f79" id="e23f-a3dc-eb2c-308" primary="true" name="Dedicated Transport" />
@@ -2359,7 +2359,7 @@
       </constraints>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="c771-08ff-798f-69a5" type="selectionEntryGroup" targetId="2fa5-0a8d-013e-fc12" sortIndex="1" />
-      </entryLinks>
+      <entryLink id="0334-47aa-ad92-818d" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -2487,7 +2487,7 @@
           </selectionEntries>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="0334-47aa-ad92-818d" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry type="unit" import="true" name="Von Ryan's Leapers" hidden="false" id="9bd8-ac8c-2d3b-79f6">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="60" />
@@ -2658,7 +2658,7 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
+      <entryLink id="492a-57b3-458a-76c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="3-6 Von Ryan's Leapers" id="ae9a-662b-0fb4-c84c" hidden="false" sortIndex="3">
           <selectionEntries>
@@ -2741,7 +2741,7 @@
           </modifierGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
-    <entryLink id="492a-57b3-458a-76c9" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+    </selectionEntry>
     <selectionEntry id="ceab-62d9-31bf-7c61" name="Warlord" hidden="false" collective="false" import="true" type="upgrade">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a9c-a415-9934-68cc" type="max" />
@@ -2944,8 +2944,8 @@
             </modifier>
           </modifiers>
         </entryLink>
-      </entryLinks>
-    <entryLink id="3e28-6cbe-1a3c-3c47" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></selectionEntry>
+      <entryLink id="3e28-6cbe-1a3c-3c47" name="Upgrades" hidden="false" collective="false" import="true" targetId="a980-9d97-c46c-9bae" type="selectionEntryGroup" /></entryLinks>
+    </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Ravener heavy claws and talons" hidden="false" id="9be2-c3dc-90ac-a3ac">
       <profiles>
         <profile name="Ravener heavy claws and talons" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="7c98-8d1f-50e2-8d73">
