@@ -220,43 +220,43 @@
         <selectionEntryGroup name="Detachment" hidden="false" id="ed1-baac-1f26-3ed7" defaultSelectionEntryId="none">
           <constraints>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9108-4f3b-bdd8-8f0b" />
-            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="48a2-629-cd21-4e9b" />
-          </constraints>
+            <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="48a2-629-cd21-4e9b" />
+          <constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-ed1-baac" includeChildSelections="true" /></constraints>
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Chorus Of Condemnation" hidden="false" id="b0be-c3b4-8680-feae"><rules><rule name="Angelic Judgement" id="84fd-29ab-4102-a0ee" hidden="false"><description>Friendly Adepta Sororitas Infantry Fly units gain Condemnatory Psalms: in your Shooting phase the unit may select one visible enemy unit within 12", which becomes condemned. While condemned, that enemy unit has +3" detection range.
 
 STRATAGEMS:
-- Harmonised Exorcism (1CP, Your Shooting phase, when a friendly Exorcist unit is selected to shoot.): Select one unit visible to and within 9" of a friendly Adepta Sororitas Infantry Fly unit; ranged attacks against it gain +1 to Hit rolls.</description></rule></rules></selectionEntry><selectionEntry type="upgrade" import="true" name="Sacred Champions" hidden="false" id="0d32-24e6-28b4-afb5"><rules><rule name="Holy Quest" id="6599-d372-3218-3f89" hidden="false"><description>Friendly Celestian Sacresants units' attacks gain +1 to Ballistic Skill and Weapon Skill. This detachment has the REVEREND tag and cannot be taken alongside another REVEREND detachment.
+- Harmonised Exorcism (1CP, Your Shooting phase, when a friendly Exorcist unit is selected to shoot.): Select one unit visible to and within 9" of a friendly Adepta Sororitas Infantry Fly unit; ranged attacks against it gain +1 to Hit rolls.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Sacred Champions" hidden="false" id="0d32-24e6-28b4-afb5"><rules><rule name="Holy Quest" id="6599-d372-3218-3f89" hidden="false"><description>Friendly Celestian Sacresants units' attacks gain +1 to Ballistic Skill and Weapon Skill. This detachment has the REVEREND tag and cannot be taken alongside another REVEREND detachment.
 
 STRATAGEMS:
-- Faithful Fortitude (1CP, Any phase, when a friendly Celestian Sacresants unit suffers a mortal wound.): That unit gains Feel No Pain 5+ against mortal wounds until the end of the phase.</description></rule></rules></selectionEntry><selectionEntry type="upgrade" import="true" name="Sanctified Orators" hidden="false" id="8982-c250-2507-8c75"><rules><rule name="Hymns Of Battle" id="3d56-c05a-f8e3-79de" hidden="false"><description>Enhancements selected from this detachment do not count toward the total number of enhancements in your army. Friendly Adepta Sororitas Character units gain +1 Leadership.</description></rule></rules></selectionEntry>
+- Faithful Fortitude (1CP, Any phase, when a friendly Celestian Sacresants unit suffers a mortal wound.): That unit gains Feel No Pain 5+ against mortal wounds until the end of the phase.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Sanctified Orators" hidden="false" id="8982-c250-2507-8c75"><rules><rule name="Hymns Of Battle" id="3d56-c05a-f8e3-79de" hidden="false"><description>Enhancements selected from this detachment do not count toward the total number of enhancements in your army. Friendly Adepta Sororitas Character units gain +1 Leadership.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Hallowed Martyrs" hidden="false" id="8e26-78e2-10bd-6982">
               <infoLinks>
                 <infoLink name="The Blood of Martyrs" hidden="false" type="rule" id="1daa-3296-b121-e3b7" targetId="afa4-169c-3aaa-650" />
               </infoLinks>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Penitent Host" hidden="false" id="a2f5-a466-96b6-d389">
               <infoLinks>
                 <infoLink name="Desperate for Redemption" id="d1fe-2836-e897-060b" hidden="false" type="rule" targetId="909a-664e-ff1a-1985" />
               </infoLinks>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Bringers of Flame" hidden="false" id="575d-76f6-2edb-22c1">
               <infoLinks>
                 <infoLink name="Fervent Purgation" id="d6fd-4a46-05e4-714a" hidden="false" type="rule" targetId="4130-3962-d1f1-2a04" />
               </infoLinks>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Army of Faith" hidden="false" id="6f81-1a3e-c84e-0954">
               <infoLinks>
                 <infoLink name="Sacred Rites" id="3bc0-d3dc-513f-c37e" hidden="false" type="rule" targetId="acd2-395b-e1b4-0918" />
               </infoLinks>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Champions of Faith" hidden="false" id="5c81-a47b-d3a0-31e8">
               <infoLinks>
                 <infoLink name="Righteous Purpose" id="cae6-40c2-6082-49ce" hidden="false" type="rule" targetId="cb5e-57b9-c416-c2a5" />
                 <infoLink name="Keywords" id="3cc8-eaa5-8cf5-cda4" hidden="false" type="rule" targetId="f84c-5011-816f-3fb6" />
               </infoLinks>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
           </selectionEntries>
-        </selectionEntryGroup>
+        <modifiers><modifier type="set" value="3" field="dpmax-ed1-baac"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-ed1-baac"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>
       <categoryLinks>
         <categoryLink targetId="4ac9-fd30-1e3d-b249" id="8c15-fd85-9c6d-a73e" primary="true" name="Configuration" />

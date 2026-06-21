@@ -82,18 +82,18 @@
         <selectionEntryGroup id="efea-fc11-4905-f5b9" name="Detachment" hidden="false" collective="false" import="true" defaultSelectionEntryId="none">
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2146-a293-fdcf-f271" type="min" />
-            <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="11f1-879f-788f-19eb" type="max" />
-          </constraints>
+            <constraint field="selections" scope="parent" value="6" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="11f1-879f-788f-19eb" type="max" />
+          <constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-efea-fc1" includeChildSelections="true" /></constraints>
           <selectionEntries><selectionEntry type="upgrade" import="true" name="Armoured Trailblazers" hidden="false" id="2c1f-9b2a-af50-580f"><rules><rule name="Sagitaur Spearhead" id="2d47-7a1f-efae-c39c" hidden="false"><description>Friendly Sagitaur units gain Scouts 6".
 
 STRATAGEMS:
-- Outflanking Armour (1CP, End of opponent's Movement phase): From battle round 2 onwards, pick up to two friendly Sagitaur units in Strategic Reserves; each makes an Ingress move.</description></rule></rules></selectionEntry><selectionEntry type="upgrade" import="true" name="Farseekers" hidden="false" id="e612-78c7-719c-e3c9"><rules><rule name="Eye Of The Hunt" id="e6a4-c718-9d3d-0b20" hidden="false"><description>Friendly Hernkyn units' ranged attacks that target a unit within 12" gain +1 to hit.
+- Outflanking Armour (1CP, End of opponent's Movement phase): From battle round 2 onwards, pick up to two friendly Sagitaur units in Strategic Reserves; each makes an Ingress move.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Farseekers" hidden="false" id="e612-78c7-719c-e3c9"><rules><rule name="Eye Of The Hunt" id="e6a4-c718-9d3d-0b20" hidden="false"><description>Friendly Hernkyn units' ranged attacks that target a unit within 12" gain +1 to hit.
 
 STRATAGEMS:
-- Scornful Analysis (1CP, Start of Shooting phase): Pick one friendly Hernkyn unit, then select one visible enemy unit within 12" of it; friendly Leagues of Votann units' attacks against that enemy gain [IGNORES COVER].</description></rule></rules></selectionEntry><selectionEntry type="upgrade" import="true" name="Hearthguard Covenant" hidden="false" id="27b4-20b3-bc28-c770"><rules><rule name="Avatars Of The Ancestors" id="7b3a-216e-cd29-a6eb" hidden="false"><description>Friendly Kâhl, Einhyr Champion, Einhyr Hearthguard, and Ûthar the Destined units' ranged attacks that target a unit within 9" can re-roll wound rolls of 1. This detachment cannot be taken alongside another Hearthguard detachment.
+- Scornful Analysis (1CP, Start of Shooting phase): Pick one friendly Hernkyn unit, then select one visible enemy unit within 12" of it; friendly Leagues of Votann units' attacks against that enemy gain [IGNORES COVER].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Hearthguard Covenant" hidden="false" id="27b4-20b3-bc28-c770"><rules><rule name="Avatars Of The Ancestors" id="7b3a-216e-cd29-a6eb" hidden="false"><description>Friendly Kâhl, Einhyr Champion, Einhyr Hearthguard, and Ûthar the Destined units' ranged attacks that target a unit within 9" can re-roll wound rolls of 1. This detachment cannot be taken alongside another Hearthguard detachment.
 
 STRATAGEMS:
-- Fury of the Hearth (1CP, Shooting phase): When a friendly Einhyr Hearthguard unit is chosen to shoot, its ranged attacks gain +1 Strength; spending 1 Judgement (YP) token also grants those attacks [SUSTAINED HITS 1].</description></rule></rules></selectionEntry>
+- Fury of the Hearth (1CP, Shooting phase): When a friendly Einhyr Hearthguard unit is chosen to shoot, its ranged attacks gain +1 Strength; spending 1 Judgement (YP) token also grants those attacks [SUSTAINED HITS 1].</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Hearthband" hidden="false" id="1077-70a1-0570-5685">
               <rules>
                 <rule name="Methodical Annihilation" id="70a5-9f3d-4e2f-8eb3" hidden="false">
@@ -102,7 +102,7 @@ STRATAGEMS:
 - If your unit is a ^^**Kâhl, Einhyr Hearthguard^^** or ^^**Ûthar the Destined^^** unit, improve the Armour Penetration characteristic of that attack by 1.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Persecution Prospect" hidden="false" id="e73f-ac86-44b1-c3f2">
               <rules>
                 <rule name="Assailed From Every Angle" id="bbb9-77f9-7c5f-a964" hidden="false">
@@ -111,14 +111,14 @@ STRATAGEMS:
 **Guerrilla Adepts:** In your Shooting phase, just after this unit is selected to shoot, this unit can use this ability. If it does, select one enemy unit (excluding ^^**Monsters^^** and ^^**Vehicles^^**). Until the end of the phase, attacks made by models in this unit can only attack that enemy unit (and only if it is an eligible target) and, after resolving those attacks, if one or more of those attacks hit that enemy unit, until the start of your next Shooting phase, that enemy unit is assailed (this simply labels that unit for the purposes of this ability and some Enhancements or Stratagems). If that unit is already assailed, until the start of your next Shooting phase, it is also pinned. While a unit is pinned, subtract 2" from its Move characteristic and subtract 2 from Charge rolls made for it.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Needgaârd Oathband" hidden="false" id="01b8-fa17-620e-8e79">
               <rules>
                 <rule name="Martial Leverage" id="8315-fab3-fc23-a835" hidden="false">
                   <description>Each time an enemy unit is destroyed, you gain 1YP.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Hearthfyre Arsenal" hidden="false" id="768a-d0b6-e9a1-c221">
               <rules>
                 <rule name="Optimal Application" id="3557-568d-4745-af79" hidden="false">
@@ -127,14 +127,14 @@ STRATAGEMS:
 In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**Arkanyst Evaluator^^** unit from your army is selected to shoot, you can spend 1YP. If you do, until the end of the phase, each time a model in that unit makes an attack, re-roll a Hit roll of 1.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Dêlve Assault Shift" hidden="false" id="faf5-7477-8cdc-679f">
               <rules>
                 <rule name="Fury from the Dêlve" id="87c9-7c05-103b-ebe6" hidden="false">
                   <description>^^**Cthonian Beserks^^** units from your army have the Deep Strike ability.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Brandfast Oathband" hidden="false" id="437f-0cb8-194f-a716">
               <rules>
                 <rule name="Mobile Sensor Relays" id="d1ac-e240-653c-cc9c" hidden="false">
@@ -143,16 +143,16 @@ In your Shooting phase, each time a ^^**Brôkhyr, Ironkin Steeljacks^^** or ^^**
 **Firebase Control (Aura):** While a friendly ^^**Leagues of Votann Infantry^^** unit is wholly within 6" of this ^^**Transport^^**, ranged weapons equipped by models in that ^^**Infantry^^** unit have the [^^**sustained hits 1^^**] ability.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
             <selectionEntry type="upgrade" import="true" name="Mercenary Oathband" hidden="false" id="b36b-1a84-3f57-2063">
               <rules>
                 <rule name="Ruthless Reinvestment" id="22cf-7f44-490e-df5f" hidden="false">
                   <description>Your ^^**Leagues of Votann^^** units do not have the Hostile Acquisition or Fortify Takeover abilities except as described in this rule. At the start of the battle, your ^^**Leagues of Votann^^** units have the Hostile Acquisition ability. At the end of your Command phase, you can spend 3YP. If you do, ^^**Leagues of Votann^^** units from your army lose the Hostile Acquisition ability and gain the Fortify Takeover ability, or vice versa.</description>
                 </rule>
               </rules>
-            </selectionEntry>
+            <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
           </selectionEntries>
-        </selectionEntryGroup>
+        <modifiers><modifier type="set" value="3" field="dpmax-efea-fc1"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-efea-fc1"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
       </selectionEntryGroups>
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="0" />

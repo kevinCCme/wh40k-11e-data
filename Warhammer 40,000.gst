@@ -5,7 +5,7 @@
     <publication name="Github" hidden="false" id="8db3-575d-91b-47f8" shortName="BSData/wh40k-10e" publisherUrl="https://github.com/BSData/wh40k-10e"/>
   </publications>
   <costTypes>
-    <costType id="51b2-306e-1021-d207" name="pts" defaultCostLimit="-1" hidden="false">
+    <costType id="dcf0-d101-d201-d301" name="DP" defaultCostLimit="-1" hidden="false"/><costType id="51b2-306e-1021-d207" name="pts" defaultCostLimit="-1" hidden="false">
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditionGroups>

@@ -6499,19 +6499,19 @@ In the Deploy Armies step, your opponent must set up their entire army before yo
     <selectionEntryGroup id="7ada-e361-1f7e-af" name="Detachment" hidden="false" collective="false" import="true" defaultSelectionEntryId="none">
       <constraints>
         <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9771-9344-412d-6850" type="min" />
-        <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="932-a6c9-b917-9279" type="max" />
-      </constraints>
+        <constraint field="selections" scope="parent" value="6" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="932-a6c9-b917-9279" type="max" />
+      <constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-7ada-e36" includeChildSelections="true" /></constraints>
       <selectionEntries><selectionEntry type="upgrade" import="true" name="Ambush Predators" hidden="false" id="e037-2908-95c2-27ef"><rules><rule name="Mindhunter" id="e28f-4638-64d9-1c2e" hidden="false"><description>Friendly Deathleaper, Lictor and Neurolictor units gain Deep Strike. Friendly Lictor and Neurolictor units can re-roll hit rolls of 1 when attacking Characters.
 
 STRATAGEMS:
-- Counterpredation (1CP, Fight phase, when a friendly Deathleaper, Lictor, Neurolictor or Von Ryan's Leapers unit fights.): That unit's attacks against hidden enemy units gain +1 Strength and +1 AP.</description></rule></rules></selectionEntry><selectionEntry type="upgrade" import="true" name="Talons Of The Norn Queen" hidden="false" id="080f-7971-ea7c-1895"><rules><rule name="Higher Imperatives" id="b3ca-81cb-aacd-9636" hidden="false"><description>Once per battle in your Command phase, a friendly Norn Emissary or Norn Assimilator unit can use Protean Purpose to re-select its Singular Purpose ability.
+- Counterpredation (1CP, Fight phase, when a friendly Deathleaper, Lictor, Neurolictor or Von Ryan's Leapers unit fights.): That unit's attacks against hidden enemy units gain +1 Strength and +1 AP.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry><selectionEntry type="upgrade" import="true" name="Talons Of The Norn Queen" hidden="false" id="080f-7971-ea7c-1895"><rules><rule name="Higher Imperatives" id="b3ca-81cb-aacd-9636" hidden="false"><description>Once per battle in your Command phase, a friendly Norn Emissary or Norn Assimilator unit can use Protean Purpose to re-select its Singular Purpose ability.
 
 STRATAGEMS:
-- Catalytic Biofortification (1CP, Any phase, when a friendly Norn Assimilator suffers a mortal wound.): The target unit gains Feel No Pain 4+ against mortal wounds.</description></rule></rules></selectionEntry>
+- Catalytic Biofortification (1CP, Any phase, when a friendly Norn Assimilator suffers a mortal wound.): The target unit gains Feel No Pain 4+ against mortal wounds.</description></rule></rules><costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
         <selectionEntry id="c2fe-bf23-bf24-aa43" name="Invasion Fleet" hidden="false" collective="false" import="true" type="upgrade">
           <costs>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="0" />
-          </costs>
+          <cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs>
           <rules>
             <rule name="Hyper Adaptions" id="9faa-bec0-9a4e-901e" hidden="false">
               <description>At the start of the first battle round, select one of the following Hyper-adaptations to be active for **^^Tyranids^^** units from your army until the end of the battle:
@@ -6555,7 +6555,7 @@ Each time a **^^Tyranids^^** model with this Hyper-adaptation makes an attack th
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Crusher Stampede" hidden="false" id="850e-bee1-4845-820d">
           <rules>
             <rule name="Enraged Behemoths" id="9e9a-b09f-1a55-1d27" hidden="false">
@@ -6569,7 +6569,7 @@ Each time a **^^Tyranids^^** model with this Hyper-adaptation makes an attack th
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Synaptic Nexus" hidden="false" id="16ff-a068-4c31-285a">
           <rules>
             <rule name="Synaptic Imperitives" id="443e-6ef5-6bdd-e418" hidden="false">
@@ -6587,7 +6587,7 @@ Each time a **^^Tyranids^^** model with this Hyper-adaptation makes an attack th
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Unending Swarm" hidden="false" id="4cd9-313f-cd9b-c85a">
           <rules>
             <rule name="Insurmountable Odds" id="fe2d-b32d-6e15-8523" hidden="false">
@@ -6601,7 +6601,7 @@ Each time a **^^Tyranids^^** model with this Hyper-adaptation makes an attack th
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Vanguard Onslaught" hidden="false" id="f773-f91c-2999-c7e1">
           <rules>
             <rule name="Vanguard Prime" id="299e-060b-6c02-ebb2" hidden="false">
@@ -6618,7 +6618,7 @@ Each time a **^^Tyranids^^** model with this Hyper-adaptation makes an attack th
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Warrior Bioform Onslaught" hidden="false" id="7416-b7cc-fdbf-5bf0">
           <modifiers>
             <modifier type="set" value="true" field="hidden">
@@ -6643,7 +6643,7 @@ Each time a **^^Tyranids^^** model with this Hyper-adaptation makes an attack th
               </modifiers>
             </modifierGroup>
           </modifierGroups>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Subterranean Assault" hidden="false" id="731f-1524-da02-945b">
           <rules>
             <rule name="Keywords" id="bdb0-bcca-2c70-32f3" hidden="false">
@@ -6670,7 +6670,7 @@ If an enemy model (excluding **^^Aircraft^^**) ends any kind of move within 3" o
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Tyranid Attack" hidden="false" id="0f40-fb6c-49f7-9541">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -6717,7 +6717,7 @@ You can include up to one of each of the following units:
           <infoLinks>
             <infoLink targetId="1ce8-4f31-68c3-7bb0" id="11a6-e1aa-1566-3303" type="rule" name="Synaptic Web" hidden="false" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Boarding Swarm" hidden="false" id="7a6f-7334-fa6c-290e">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -6762,7 +6762,7 @@ You can include up to two of each of the following units:
               </characteristics>
             </profile>
           </profiles>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Biotide" hidden="false" id="cbfd-453f-6288-6157">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -6801,7 +6801,7 @@ You can include up to three of each of the following units:
           <infoLinks>
             <infoLink targetId="1ce8-4f31-68c3-7bb0" id="bb37-70b8-6f54-2df9" type="rule" name="Synaptic Web" hidden="false" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
       </selectionEntries>
       <comment>Tyranids</comment>
       <entryLinks>
@@ -6809,7 +6809,7 @@ You can include up to three of each of the following units:
           <comment>Boarding Actions - Great Devourer</comment>
         </entryLink>
       </entryLinks>
-    </selectionEntryGroup>
+    <modifiers><modifier type="set" value="3" field="dpmax-7ada-e36"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-7ada-e36"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
     <selectionEntryGroup name="Devouring Worlds" id="247c-f03c-f6c4-99dd" hidden="false">
       <selectionEntries>
         <selectionEntry type="upgrade" import="true" name="Battles Played" hidden="false" id="c937-546f-ae9e-14f5" sortIndex="2" />
@@ -7931,7 +7931,7 @@ You can include up to three of each of the following units:
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="3" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Xenocreed Congregation" hidden="false" id="536a-b3ea-7597-81bb">
           <infoLinks>
             <infoLink name="Feel No Pain" id="625a-19a0-4136-54d7" hidden="false" type="rule" targetId="9bf4-280f-bbe2-6fbb" />
@@ -7948,7 +7948,7 @@ You can include up to three of each of the following units:
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Biosanctic Broodsurge" hidden="false" id="ff11-0fa4-2950-380e">
           <rules>
             <rule name="Hypermorphic Fury" id="0a4d-88d1-161e-213b" hidden="false">
@@ -7962,7 +7962,7 @@ You can include up to three of each of the following units:
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Outlander Claw" hidden="false" id="59e2-4fec-2b00-b1e8">
           <rules>
             <rule name="Rapid Takeover" id="55fe-5524-6833-4196" hidden="false">
@@ -7976,7 +7976,7 @@ You can include up to three of each of the following units:
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Brood Brother Auxilia" hidden="false" id="0a59-1d64-257c-04fb">
           <rules>
             <rule name="Brood Brothers" id="fc33-afdd-30e9-47b1" hidden="false">
@@ -7999,7 +7999,7 @@ A **^^Genestealer Cult^^** model must be your Warlord, and **^^Astra Militarum^^
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Final Day" hidden="false" id="cb2f-554e-1162-75d5">
           <rules>
             <rule name="The Star Children's Blessings" id="a351-e932-e0b3-2ed7" hidden="false">
@@ -8026,7 +8026,7 @@ Catalyst (Aura): While an enemy unit is within 6" of this unit, each time a frie
               </conditions>
             </modifier>
           </modifiers>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="2" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Cult Unveiled" hidden="false" id="24fc-8c17-7d50-bec9">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -8073,7 +8073,7 @@ You can include up to one of the following unit:
           <infoLinks>
             <infoLink targetId="4c34-1bd0-8565-fd5a" id="dd8c-45c0-b26f-6fc2" type="rule" name="Insidious Ambushers" hidden="false" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
         <selectionEntry type="upgrade" import="true" name="Genespawn Onslaught" hidden="false" id="be7f-de0b-6659-198a">
           <comment>Boarding Actions</comment>
           <modifiers>
@@ -8107,19 +8107,19 @@ You can include up to one of the following unit:
           <infoLinks>
             <infoLink targetId="4c34-1bd0-8565-fd5a" id="7f97-5a65-3cb8-d131" type="rule" name="Insidious Ambushers" hidden="false" />
           </infoLinks>
-        </selectionEntry>
+        <costs><cost name="DP" typeId="dcf0-d101-d201-d301" value="1" /></costs></selectionEntry>
       </selectionEntries>
       <constraints>
         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="0fc5-7bb0-0193-6f30-min" includeChildSelections="false" />
-        <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0fc5-7bb0-0193-6f30-max" includeChildSelections="false" />
-      </constraints>
+        <constraint type="max" value="6" field="selections" scope="parent" shared="true" id="0fc5-7bb0-0193-6f30-max" includeChildSelections="false" />
+      <constraint type="max" value="2" field="dcf0-d101-d201-d301" scope="self" shared="true" id="dpmax-7170-c24" includeChildSelections="true" /></constraints>
       <comment>Genestealer Cults</comment>
       <entryLinks>
         <entryLink import="true" name="Infestation Swarm" hidden="false" id="b9a2-7c0b-93f9-ad86" targetId="24e1-c66e-98e9-135b" type="selectionEntry">
           <comment>Boarding Actions - Great Devourer</comment>
         </entryLink>
       </entryLinks>
-    </selectionEntryGroup>
+    <modifiers><modifier type="set" value="3" field="dpmax-7170-c24"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="baf8-997f-e323-a090" shared="true" includeChildSelections="true" /></conditions></modifier><modifier type="set" value="4" field="dpmax-7170-c24"><conditions><condition type="atLeast" value="1" field="selections" scope="roster" childId="4204-82d0-908c-a62a" shared="true" includeChildSelections="true" /></conditions></modifier></modifiers></selectionEntryGroup>
     <selectionEntryGroup name="Ability" id="3e82-2186-c604-2a76" hidden="false" defaultSelectionEntryId="none">
       <comment>Crucible content</comment>
       <selectionEntries>
